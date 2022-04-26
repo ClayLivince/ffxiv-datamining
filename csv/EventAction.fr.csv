@@ -1,0 +1,108 @@
+﻿key,0,1,2,3,4,5
+#,Name,Icon,CastTime,Animation[0],Animation[1],Animation[2]
+int32,str,Image,byte,ActionTimeline,ActionTimeline,ActionTimeline
+0,"",1,0,0,0,0
+1,"Interaction",61103,2,80,81,82
+2,"Interaction",61103,2,80,81,82
+3,"Interaction",61103,5,80,81,82
+4,"Interaction",61103,10,80,81,82
+5,"Interaction",61103,15,80,81,82
+6,"Interaction",61103,2,80,81,82
+7,"Interaction",61103,5,80,81,82
+8,"Interaction",61103,10,80,81,82
+9,"Interaction",61103,15,80,81,82
+10,"En attente",61104,2,175,176,177
+11,"En attente",61104,2,175,176,177
+12,"En attente",61104,5,175,176,177
+13,"En attente",61104,10,175,176,177
+14,"Interaction",61103,2,80,81,82
+15,"Interaction",61103,2,80,81,82
+16,"Interaction",61103,5,80,81,82
+17,"Interaction",61103,10,80,81,82
+18,"Interaction",61103,2,80,81,82
+19,"Harmonisation",61105,5,169,170,171
+20,"Interaction",61103,1,80,81,82
+21,"Interaction",61103,2,80,81,82
+22,"Interaction",61103,5,80,81,82
+23,"Interaction",61103,1,172,173,174
+24,"Interaction",61103,2,172,173,174
+25,"Interaction",61103,5,172,173,174
+26,"Aide",61103,2,184,185,186
+27,"Sifflement",61104,2,178,179,180
+28,"Surveille",61104,10,175,176,177
+29,"Enregistrement",61103,1,172,173,174
+30,"Sifflement",61103,2,178,179,180
+31,"Interaction",61103,2,181,182,183
+32,"Interaction",61103,5,181,182,183
+33,"Interaction",61103,10,181,182,183
+34,"Aide",61103,2,184,185,186
+35,"Aide",61103,5,184,185,186
+36,"Aide",61103,10,184,185,186
+37,"Interaction",61103,2,178,179,180
+38,"Aide",61103,2,172,173,174
+39,"Aide",61103,5,172,173,174
+40,"Aide",61103,10,172,173,174
+41,"Interaction",61104,10,175,176,177
+42,"Délie",61103,10,181,182,183
+43,"Interaction",61103,10,172,173,174
+44,"Interaction",61103,10,184,185,186
+45,"Interaction",61103,2,172,173,174
+46,"Interaction",61103,5,172,173,174
+47,"Interaction",61103,10,172,173,174
+48,"Effrayer",61103,5,181,182,183
+49,"Interaction",61103,5,181,182,183
+50,"Observation",61104,5,175,176,177
+51,"Ouverture de la valve",61103,5,181,182,183
+52,"Interaction",61103,1,80,81,82
+53,"Interaction",61103,2,181,182,183
+54,"Interaction",61103,5,181,182,183
+55,"Interaction",61103,10,181,182,183
+56,"Surveille",61104,5,175,176,177
+57,"Occupation",61103,2,172,173,174
+58,"Occupation",61103,5,172,173,174
+59,"Occupation",61103,10,172,173,174
+60,"Communion",61103,5,172,173,174
+61,"Interaction",61103,2,0,0,0
+62,"Interaction",61103,8,80,81,82
+63,"Interaction",61103,5,0,0,0
+64,"Interaction",61103,0,0,0,0
+65,"Récupération de céruleum",61103,3,80,81,82
+66,"Occupation",61103,5,172,173,174
+67,"Manœuvre",61103,2,172,173,174
+68,"Observation",61103,2,175,176,177
+69,"Interaction",61103,1,172,173,174
+70,"Dépeçage",61103,5,181,182,183
+71,"Invocation",61103,2,172,173,174
+72,"Soin",61103,5,184,185,186
+73,"Magie curative",61173,5,0,5704,5705
+74,"Ramasser",61103,3,80,81,82
+75,"Obtention",61103,4,80,81,82
+76,"Transformation",61103,7,0,7347,151
+77,"Assemblage",61103,10,0,7346,151
+78,"Alimentation",61103,10,172,173,174
+79,"Passage de pacte",61103,6,80,81,82
+80,"Chargement",61103,3,0,4189,150
+81,"Concassage",61103,10,0,7364,151
+82,"Mélangeage",61103,7,0,7365,151
+83,"Balayage",61103,10,0,7366,151
+84,"Obtention",61103,4,184,185,186
+85,"Réparation",61103,10,0,7399,151
+86,"Toucher la statue",61103,2,172,173,174
+87,"Construction",61103,10,0,7394,151
+88,"Découpage",61103,7,181,182,183
+89,"Obtention",61103,10,80,81,82
+90,"Confection",61103,10,0,7421,150
+91,"Transport",61103,3,80,81,82
+92,"Chargement",61103,2,0,4189,150
+93,"Ouverture",61103,5,80,81,82
+94,"Monte",61103,2,172,173,174
+95,"Distribution",61103,3,0,4189,150
+96,"Pose d'explosif",61103,5,181,182,183
+97,"Bon appétit",61103,9,0,8436,0
+98,"Bon appétit",61103,3,0,8436,0
+99,"Remplissage de carburant",61103,3,0,208,150
+100,"Concentration",61103,5,0,155,0
+101,"Apaisement",61103,5,172,173,174
+102,"Partage d'éther",61103,5,172,173,174
+103,"Sifflement",61103,3,178,179,180
+104,"Aide",61103,5,181,182,183

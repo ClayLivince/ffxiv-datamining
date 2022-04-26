@@ -1,0 +1,23 @@
+﻿key,0,1,2,3,4,5
+#,Quest,Text[Long],Text[Short],Text[Commentary],,Section
+int32,Quest,str,str,str,bit&01,DescriptionSection
+3604480,0,"","","",False,0
+3604481,0,"","","",False,0
+3604482,68737,"Regeln für domanisches Mahjong","DOMANISCHES MAHJONG","",True,2
+3604483,0,"Regeln für Stahlschwingen","STAHLSCHWINGEN","Regeln",True,3
+3604484,0,"Erklärungen über Unterkünfte","UNTERKÜNFTE","",True,4
+3604485,0,"Erklärungen zu Neues Spiel+","NEUES SPIEL+","",True,2
+3604486,0,"Regeln für die Carteneauer Front","CARTENEAUER FRONT","",True,7
+3604487,0,"Erklärungen zur großen Fahrt","AUF GROSSER FAHRT","",True,8
+3604488,0,"Erklärungen zur Traumtafel","TRAUMTAFEL","",True,9
+3604489,0,"Erklärungen zur Bozja-Südfront","BOZJA-SÜDFRONT","",True,10
+3604490,0,"Erklärungen zum Widerstandsrang","WIDERSTANDSRANG","",True,11
+3604491,0,"Erklärungen zu verschollenen Kommandos","VERSCHOLLENE KOMMANDOS","",True,13
+3604492,0,"Erklärungen zu Bozja-Polykristallen","BOZJA-POLYKRISTALLE","",True,12
+3604493,0,"Erklärungen zu den Triple Triad-Turnieren","TRIPLE TRIAD-TURNIERE","",True,14
+3604494,0,"","","",True,15
+3604495,0,"","","",True,16
+3604496,0,"Erklärungen zu den Widerstandsorden","WIDERSTANDSORDEN","",True,17
+3604497,0,"Erklärungen zu Zadnor","ZADNOR","",True,18
+3604498,0,"Erklärungen zum PvP","PVP","",True,19
+3604499,0,"Regeln für Crystalline Conflict","CRYSTALLINE CONFLICT","Regeln",True,20

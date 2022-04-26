@@ -1,0 +1,22 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_000","Comme guides du nouveau continent, le patron nous a employés il y a longtemps, Gaheel Ja et moi. Ses assistants, nous sommes devenus depuis. Le rôle ingrat, nous endossons, mais bon, nous tenons."
+1,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_010","La différence entre Gaheel Ja et moi, les humains ne voient pas. Objectivement plus beau que lui, je suis pourtant."
+2,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_020","Réelle est la fascination du patron pour la couleur bleue. Jusque dans ses sous-vêtements, il la porte..."
+3,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_030","Des cernes sous les yeux et le visage émacié, le patron a. Mais à vouloir combattre, il s'entête. Un sang d'encre, pour lui je me fais..."
+4,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_040","Hospitalisé, le patron est toujours. Des pansements de couleur bleue, il avait réclamé, mais sa demande, les infirmiers ont ignoré."
+5,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_050","Une rouste à Azulmagia, flanquez donc de la part du patron<Indent/>!"
+6,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_060","Pour votre victoire, bravo <If(PlayerParameter(4))>Madame<Else/>Monsieur</If> <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>. Que vous gagneriez, j'étais sûr... Enfin, presque sûr<Indent/>!"
+7,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_070","Ses combats d'arène, le patron a repris. Quant à moi, du pain de maïs, je mange souvent ces temps-ci. Mon enfance, sa saveur me rappelle."
+8,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_080","De locaux, la guilde des mages bleus ne dispose pas encore. Notre enseigne mobile, en quelque sorte, le patron est..."
+9,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_090","Dans ses gênes, la cupidité du patron est inscrite. Tout comme la maladie dont ont souffert les Whalaqee, par<SoftHyphen/>ti<SoftHyphen/>cu<SoftHyphen/>liè<SoftHyphen/>rement difficile à soigner, elle est."
+10,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_100","De la nervosité, chez le patron, je sens depuis peu. À son duel, sans doute pense-t-il..."
+11,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_110","Qu'une bonne idée, ce pari soit, je ne suis pas certain... Assez anxieux comme ça, le patron est déjà..."
+12,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_120","D'excellents articles, nos partenaires chasseurs nous ont fourni. Contre des insignes alliés, vous en échanger, je peux."
+13,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_130","D'avoir vengé le patron, re<SoftHyphen/>con<SoftHyphen/>nais<SoftHyphen/>sant, je vous suis. De l'aider à accomplir ses recherches, je vous demanderai à présent."
+14,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_140","Quand le patron ne se sent plus, bon signe, ce n'est jamais..."
+15,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_150","Aux recherches du patron, contribué récemment, avez-vous<Indent/>? Un bon en<SoftHyphen/>traî<SoftHyphen/>ne<SoftHyphen/>ment en vue de votre duel, cela constituerait."
+16,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_160","Le guerrier mime, bien mouché, vous avez. Si un nouveau défi vous recherchez, le palmarès bleu, il vous reste..."
+17,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_170","Que vous aviez sauvé la planète, Siegfried... enfin Zirnberk, nous a raconté."
+18,"TEXT_CTSETCAOZLATOOLJATALK_00715_LATOOLJA_000_171","L'occasion de briller, le patron n'aura pas eu cette fois-ci. De quoi être frustré, il y a de quoi..."

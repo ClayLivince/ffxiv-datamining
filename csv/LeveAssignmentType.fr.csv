@@ -1,0 +1,22 @@
+﻿key,0,1,2
+#,IsFaction,Icon,Name
+int32,bit&01,Image,str
+0,False,0,""
+1,False,62501,"Mercenariat"
+2,False,62510,"Mineur"
+3,False,62511,"Botaniste"
+4,False,62512,"Pêcheur"
+5,False,62502,"Menuisier"
+6,False,62503,"Forgeron"
+7,False,62504,"Armurier"
+8,False,62505,"Orfèvre"
+9,False,62506,"Tanneur"
+10,False,62507,"Couturier"
+11,False,62508,"Alchimiste"
+12,False,62509,"Cuisinier"
+13,True,61451,"La Phratrie des lames cassées"
+14,True,61452,"Les Boucliers d'Azeyma"
+15,True,61453,"L'association de la Corne et la Main"
+16,False,61461,"Le Maelstrom"
+17,False,61462,"L'ordre des Deux Vipères"
+18,False,61463,"Les Immortels"

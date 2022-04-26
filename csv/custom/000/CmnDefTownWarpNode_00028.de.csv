@@ -1,0 +1,25 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_CMNDEFTOWNWARPNODE_00028_YESNO_QUESTION","Bereit zur Abreise?"
+1,"TEXT_CMNDEFTOWNWARPNODE_00028_YESNO_YES","Ja"
+2,"TEXT_CMNDEFTOWNWARPNODE_00028_YESNO_NO","Nein"
+3,"TEXT_CMNDEFTOWNWARPNODE_00028_MENU_TITLE","Wähle einen Zielort aus.
+Momentaner Standort: <Highlight>StringParameter(1)</Highlight>"
+4,"TEXT_CMNDEFTOWNWARPNODE_00028_MENU_TITLE_MESSAGE","
+
+Es gibt keine Stadt-Ätheryten, zu denen du reisen kannst.
+"
+5,"TEXT_CMNDEFTOWNWARPNODE_00028_MENU_01","Ätherytenplatz"
+6,"TEXT_CMNDEFTOWNWARPNODE_00028_MENU_02","Wald<SoftHyphen/>läufer<SoftHyphen/>gilde"
+7,"TEXT_CMNDEFTOWNWARPNODE_00028_MENU_03","Gerbergilde"
+8,"TEXT_CMNDEFTOWNWARPNODE_00028_MENU_04","Pikeniergilde"
+9,"TEXT_CMNDEFTOWNWARPNODE_00028_MENU_05","Druidengilde"
+10,"TEXT_CMNDEFTOWNWARPNODE_00028_MENU_06","Gärtnergilde"
+11,"TEXT_CMNDEFTOWNWARPNODE_00028_MENU_07","Mih Khettos Amphitheater"
+12,"TEXT_CMNDEFTOWNWARPNODE_00028_MENU_08","Blaudachs-Pforte"
+13,"TEXT_CMNDEFTOWNWARPNODE_00028_MENU_09","Gelbschlangen-Pforte"
+14,"TEXT_CMNDEFTOWNWARPNODE_00028_MENU_CANCEL","Abbrechen"
+15,"TEXT_CMNDEFTOWNWARPNODE_00028_FIRST_OPEN_01","Du hast nun Zugang zum Ätheryten<SoftHyphen/>netz!"
+16,"TEXT_CMNDEFTOWNWARPNODE_00028_FIRST_OPEN_02","Indem du einen Stadt-Ätheryten berührst, kannst du dich frei zu anderen Punkten des Ätheryten<SoftHyphen/>netzwerks der Stadt bewegen."
+17,"TEXT_CMNDEFTOWNWARPNODE_00028_FULL_OPEN_01","Du hast dich mit allen Stadt-Ätheryten harmonisiert und kannst dich nun über das Ätheryten<SoftHyphen/>netzwerk auch zur Blaudachs-Pforte und zur Gelbschlangen-Pforte teleportieren."

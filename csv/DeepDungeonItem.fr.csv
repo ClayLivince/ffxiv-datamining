@@ -1,0 +1,23 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11
+#,Icon,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,Name,Tooltip,Action
+int32,Image,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str,Action
+0,0,"",0,"",0,0,1,0,0,"","",0
+1,27976,"poterie magique de désamorçage",0,"poteries magiques de désamorçage",0,0,1,1,0,"Poterie magique de désamorçage","Désamorce tous les pièges de l'étage actuel.",6259
+2,27977,"poterie magique de localisation",0,"poteries magiques de localisation",0,0,1,1,0,"Poterie magique de localisation","Révèle la carte de l'étage actuel et rend visibles les pièges qui s'y trouvent.",6260
+3,27978,"poterie magique de puissance",0,"poteries magiques de puissance",0,0,1,1,0,"Poterie magique de puissance","Augmente de 30% les dégâts que vous infligez et l'effet de vos sorts curatifs.",6262
+4,27979,"poterie magique de protection",0,"poteries magiques de protection",0,0,1,1,0,"Poterie magique de protection","Réduit de 40% les dégâts que vous subissez.",6263
+5,27980,"poterie magique de décèlement",0,"poteries magiques de décèlement",0,0,1,1,0,"Poterie magique de décèlement","Augmente le nombre de coffres au trésor à l'étage suivant.",6264
+6,27981,"poterie magique de sécurisation",0,"poteries magiques de sécurisation",0,0,1,1,0,"Poterie magique de sécurisation","Réduit le nombre d'ennemis de l'étage suivant.",6265
+7,27982,"poterie magique d'affaiblissement",0,"poteries magiques d'affaiblissement",0,0,1,1,0,"Poterie magique d'affaiblissement","Transforme en mimic ou en mandragore les ennemis d'une des salles de l'étage suivant.",6266
+8,27983,"poterie magique d'anti-maléfice",0,"poteries magiques d'anti-maléfice",0,0,1,1,0,"Poterie magique d'anti-maléfice","Dissipe l'altération d'état Maléfice.",6267
+9,27984,"poterie magique de chance",0,"poteries magiques de chance",0,0,1,1,0,"Poterie magique de chance","Augmente les chances qu'un coffre au trésor apparaisse lorsqu'un ennemi est vaincu.",6268
+10,27985,"poterie magique de mutation",0,"poteries magiques de mutation",0,0,1,1,0,"Poterie magique de mutation","Transforme en crapaud, kappa ou poulet les ennemis qui s'approchent de vous.",6269
+11,27986,"poterie magique de dissipation",0,"poteries magiques de dissipation",0,0,1,1,0,"Poterie magique de dissipation","Dissipe tous les effets magiques de l'étage actuel.",6270
+12,27987,"poterie magique de manticore",0,"poteries magiques de manticore",0,0,1,1,0,"Poterie magique de manticore","Vous transforme en manticore.",6271
+13,27988,"poterie magique de succube",0,"poteries magiques de succube",0,0,1,1,0,"Poterie magique de succube","Vous transforme en succube.",6272
+14,27991,"poterie magique d'intuition",0,"poteries magiques d'intuition",0,0,1,1,0,"Poterie magique d'intuition","Indique l'emplacement des trésors cachés. L'effet dure jusqu'à la découverte d'un de ces trésors.",6870
+15,27989,"poterie magique de résurrection",0,"poteries magiques de résurrection",0,0,1,1,0,"Poterie magique de résurrection","Ranime le premier équipier qui a été rendu inconscient.",6868
+16,27990,"poterie magique de Kuribu",0,"poteries magiques de Kuribu",0,0,1,1,0,"Poterie magique de Kuribu","Vous transforme en Kuribu.",6869
+17,27994,"poterie magique d'incapacité",0,"poteries magiques d'incapacité",0,0,1,1,0,"Poterie magique d'incapacité","Inflige Capacité de combat réduite aux ennemis de l'étage actuel.",11275
+18,27992,"poterie magique d'invisibilité",0,"poteries magiques d'invisibilité",0,0,1,1,0,"Poterie magique d'invisibilité","Rend tous les membres de l'équipe invisibles.",11276
+19,27993,"poterie magique de pétrification",0,"poteries magiques de pétrification",0,0,1,1,0,"Poterie magique de pétrification","Inflige Pétrification aux ennemis de l'étage actuel.",11277

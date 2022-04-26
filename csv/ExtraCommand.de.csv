@@ -1,0 +1,16 @@
+﻿key,0,1,2,3
+#,,,,
+int32,str,str,int32,sbyte
+0,"","",0,0
+1,"Gruppenfotomodus","Lässt alle Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>glieder das gleiche Emote oder Kommando in einer Dauerschleife ausführen. Verschiedene Parameter wie Kameraposition, Beleuchtung und Farbfilter können eingestellt werden.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Textkommando: <UIGlow>01</UIGlow><UIForeground>01</UIForeground>/grouppose(/gpose)
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Tastenbelegung: <UIGlow>01</UIGlow><UIForeground>01</UIForeground> verfügbar",651,1
+2,"Schnappschuss-Sucher","Schaltet den Schnappschuss-Sucher ein, der zufällig den Spielercharakter und andere NPCs anvisiert. Wenn bei Eingabe des Kommandos ein Ziel markiert ist, nimmt der Sucher dieses Ziel ins Visier. Verschiedene Parameter wie Kameraposition, Beleuchtung und Farbfilter können eingestellt werden.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Textkommando: <UIGlow>01</UIGlow><UIForeground>01</UIForeground>/idlingcamera
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Tastenbelegung: <UIGlow>01</UIGlow><UIForeground>01</UIForeground> verfügbar",652,2
+3,"Alarm","Ruft die Alarmfunktion auf. Gib eine Zeit ein, zu der du eine Erinnerungsnachricht erhalten möchtest. Wenn du dich aus dem Spiel ausloggst, werden alle eingestellten Alarme gelöscht.
+
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Textkommando: <UIGlow>01</UIGlow><UIForeground>01</UIForeground>/alarm
+<UIForeground>F201F4</UIForeground><UIGlow>F201F5</UIGlow>Tastenbelegung: <UIGlow>01</UIGlow><UIForeground>01</UIForeground> verfügbar",654,3

@@ -1,0 +1,12 @@
+﻿key,0,1
+#,,
+int32,str,str
+0,"TEXT_REGGYR3RHALGRSREACHJTANDHAA_00509_JTANDHAA_000_001","Du bist <If(PlayerParameter(4))>die Abenteurerin, die<Else/>der Abenteurer, der</If> der Be<SoftHyphen/>freiungs<SoftHyphen/>armee hilft, nicht wahr? Dann kann ich eventuell etwas für dich tun. Ich verwalte hier nämlich unsere Bestände. Bei mir kannst du nicht mehr benötigte Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände gegen andere eintauschen."
+1,"TEXT_REGGYR3RHALGRSREACHJTANDHAA_00509_SYSTEM_000_002","Überreiche J'tandhaa bestimmte, synthetisierbare Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände, um dafür Marken zu bekommen."
+2,"TEXT_REGGYR3RHALGRSREACHJTANDHAA_00509_SYSTEM_000_003","Mit diesen Marken kannst du bei J'tandhaa bestimmte Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände gegen andere, hochstufige Ausrüstung tauschen."
+3,"TEXT_REGGYR3RHALGRSREACHJTANDHAA_00509_HINOSEN_000_100","Willkommen, <Split(<Highlight>ObjectParameter(1)</Highlight>, ,1)/>. Hast du vielleicht irgendwelche Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände, die du nicht mehr brauchst? Ich tausche sie dir gerne gegen etwas Nützlicheres aus."
+4,"TEXT_REGGYR3RHALGRSREACHJTANDHAA_00509_SYSTEM_000_102","Überreiche Hinosen bestimmte, synthetisierbare Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände, um dafür Marken zu bekommen. "
+5,"TEXT_REGGYR3RHALGRSREACHJTANDHAA_00509_SYSTEM_000_103","Mit diesen Marken kannst du bei Hinosen bestimmte Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände gegen andere, hochstufige Ausrüstung tauschen."
+6,"TEXT_REGGYR3RHALGRSREACHJTANDHAA_00509_RASHTI_000_200","Herzlich willkommen! Wenn du Ausrüstung hast, die du nicht mehr benötigst, nehme ich sie dir gerne ab!"
+7,"TEXT_REGGYR3RHALGRSREACHJTANDHAA_00509_SYSTEM_000_202","Überreiche Rashti bestimmte, synthetisierbare Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände, um dafür Marken zu bekommen."
+8,"TEXT_REGGYR3RHALGRSREACHJTANDHAA_00509_SYSTEM_000_203","Mit diesen Marken kannst du bei Rashti bestimmte Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände gegen andere, hochstufige Ausrüstung tauschen."

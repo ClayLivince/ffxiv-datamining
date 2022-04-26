@@ -1,0 +1,17 @@
+﻿key,0,1,2
+#,Icon,Name,Description
+int32,Image,str,str
+0,0,"",""
+1,16801,"Ebeneneffekt: Blind","Präzision aller Gruppenmitglieder ist verringert."
+2,16802,"Ebeneneffekt: LP-Malus","Maximal-LP aller Gruppenmitglieder sind verringert."
+3,16803,"Ebeneneffekt: Schadensmalus","Ausgeteilter Schaden aller Gruppenmitglieder ist verringert."
+4,16804,"Ebeneneffekt: Fertigkeiten unwirksam","Gruppenmitglieder können keine Fertigkeiten einsetzen."
+5,16805,"Ebeneneffekt: Hast","Intervalle zwischen Auto-Attacken und Reaktivierungszeiten von Waffenfertigkeiten sind für alle Gruppenmitglieder verkürzt."
+6,16806,"Ebeneneffekt: LP-/MP-Bonus","Maximal-LP und -MP aller Gruppenmitglieder sind erhöht."
+7,16807,"Ebeneneffekt: Gegenstände verboten","Gruppenmitglieder können Gegenstände und manche Spezialgegenstände nicht einsetzen."
+8,16808,"Ebeneneffekt: Sprint unmöglich","Gruppenmitglieder können Sprint nicht einsetzen."
+9,16809,"Ebeneneffekt: Rückstoß unwirksam","Gruppenmitglieder und Gegner werden nicht von Rückstoß- und Heranzieheffekten beeinflusst."
+10,16810,"Ebeneneffekt: LP-Regeneration unwirksam","Gruppenmitglieder können nicht automatisch LP regenerieren."
+11,16811,"Ebeneneffekt: Nichtsnebel","Von Nichtsnebel umhüllt. Ausgeteilter Schaden und Bewegungsgeschwindigkeit aller Gegner ist erhöht, ihr erlittener Schaden verringert."
+12,16812,"Ebeneneffekt: Sprint","Bewegungsgeschwindigkeit aller Gruppenmitglieder ist erhöht."
+13,16813,"Ebeneneffekt: Zaubersteine verboten","Gruppenmitglieder können Zaubersteine nicht einsetzen."

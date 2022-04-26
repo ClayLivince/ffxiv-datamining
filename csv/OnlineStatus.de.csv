@@ -1,0 +1,51 @@
+﻿key,0,1,2,3,4
+#,List,,Priority,Name,Icon
+int32,bit&01,bit&02,byte,str,Image
+0,False,False,0,"",0
+1,False,False,0,"Game QA",61532
+2,False,False,0,"Game Master",61524
+3,False,False,0,"Game Master",61532
+4,False,False,0,"Event-Charakter",61533
+5,False,False,0,"Nicht verbunden",61503
+6,True,False,1,"Anfrage gesendet (Freundesliste)",61501
+7,True,False,2,"Anfrage gesendet (Kontaktkreis)",61501
+8,True,False,3,"Anfrage gesendet (Freie Ge<SoftHyphen/>sell<SoftHyphen/>schaft)",61501
+9,True,False,4,"Nicht gefunden",61502
+10,True,False,5,"Offline",61504
+11,True,False,6,"Mentor (Krieger/Magier)",61542
+12,True,False,7,"Beschäftigt",61509
+13,True,False,8,"PvP",61510
+14,True,False,9,"Spielt Triple Triad",61539
+15,True,False,10,"Sieht Videosequenz",61508
+16,True,False,12,"Auf Linien-Chocobo",61534
+17,True,False,13,"Abwesend",61511
+18,True,False,14,"Kameramodus",61546
+19,True,False,15,"Sucht Reparateur",61512
+20,True,False,16,"Übernimmt Reparatur",61513
+21,True,True,17,"Setzt Materia ein",61514
+22,True,False,18,"Im Rollenspiel",61545
+23,True,False,19,"Sucht Gruppe",61515
+24,True,False,20,"Sucht Söldner",61516
+25,True,False,21,"In Inhaltssuche",61517
+26,True,False,22,"In Gruppen<SoftHyphen/>suche",61536
+27,True,False,31,"Mentor",61540
+28,True,False,32,"Mentor (Krieger/Magier)",61542
+29,True,False,33,"Mentor (Handwerker/Sammler)",61543
+30,True,False,34,"Mentor (PvP)",61544
+31,True,False,35,"Rückkehrer",61547
+32,True,False,36,"Neuling",61523
+33,True,False,23,"Allianzanführer",61518
+34,True,False,24,"Allianz-Gruppenanführer",61519
+35,True,False,25,"Allianz-Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>glied",61520
+36,True,False,26,"Gruppenanführer",61521
+37,True,False,27,"In Gruppe",61522
+38,True,True,28,"Gruppenanführer (weltenübergreifend)",61961
+39,True,True,29,"In Gruppe (weltenübergreifend)",61962
+40,True,False,30,"In einem Inhalt (auf einer anderen Welt)",61535
+41,False,False,0,"Im selben Inhalt",61506
+42,False,False,0,"Im gleichen Inhalt (mit einer anderen Gruppe)",61507
+43,True,False,11,"In einem Inhalt",61510
+44,True,False,38,"Probezeit",61525
+45,False,False,0,"Freie Ge<SoftHyphen/>sell<SoftHyphen/>schaft",0
+46,False,False,0,"Staatliche Ge<SoftHyphen/>sell<SoftHyphen/>schaft",0
+47,True,False,37,"Online",61505

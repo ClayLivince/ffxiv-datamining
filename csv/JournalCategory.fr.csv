@@ -1,0 +1,113 @@
+﻿key,0,1,2,3,4
+#,Name,SeparateType,DataType,JournalSection,
+int32,str,byte,byte,JournalSection,byte
+0,"Catégorie invalide",0,0,255,0
+1,"Chroniques de la 7e ère ombrale",1,1,0,0
+2,"Chroniques de la 7e ère astrale",1,1,0,0
+3,"Chroniques ishgardaises",1,1,0,0
+4,"Guerre du chant des dragons - Épilogue",1,1,0,0
+5,"Après-guerre du chant des dragons",1,1,0,0
+6,"Récits d'une tempête de sang",1,1,0,0
+7,"Après la tempête de sang",1,1,0,0
+8,"Chroniques des Ténèbres",1,1,0,0
+9,"Le retour des Héritiers",1,1,0,0
+10,"Prélude à l'apocalypse",1,1,0,0
+11,"Chroniques de l'apocalypse",1,1,1,0
+12,"Récits d'une nouvelle aventure",1,1,1,0
+13,"Primordiaux (A Realm Reborn)",1,1,2,0
+14,"Bahamut",1,1,2,0
+15,"Tour de Cristal",1,1,2,0
+16,"Alexander",1,1,2,0
+17,"Primordiaux (Heavensward)",1,1,2,0
+18,"Ombre de Mhach",1,1,2,0
+19,"Oméga",2,1,2,0
+20,"Retour à Ivalice",1,1,2,0
+21,"Conte des quatre animaux sacrés",1,1,2,0
+22,"Éden",1,1,2,0
+23,"YoRHa: Dark Apocalypse",1,1,2,0
+24,"La Complainte de Werlyt",1,1,2,0
+25,"Le Pandæmonium",1,1,2,0
+26,"Le Mythe éorzéen",1,1,2,0
+27,"Quêtes tribales des Arkasodaras",2,1,5,0
+28,"Quêtes tribales des Amalj'aa",2,1,4,0
+29,"Quêtes tribales des Sylphes",2,1,4,0
+30,"Quêtes tribales des Kobolds",2,1,4,0
+31,"Quêtes tribales des Sahuagins",2,1,4,0
+32,"Quêtes tribales des Ixali",2,1,4,0
+33,"Quêtes tribales des Vanu Vanu",2,1,4,0
+34,"Quêtes tribales des Gnathes",2,1,4,0
+35,"Quêtes tribales des Mogs",2,1,4,0
+36,"Quêtes tribales des Kojin",2,1,4,0
+37,"Quêtes tribales des Anantas",2,1,4,0
+38,"Quêtes tribales des Namazu",2,1,4,0
+39,"Quêtes tribales des Pixies",2,1,4,0
+40,"Quêtes tribales des Qitari",2,1,4,0
+41,"Quêtes tribales des Nains",2,1,4,0
+42,"Histoires annexes",2,1,3,0
+43,"Noscea",3,1,3,0
+44,"Sombrelinceul",3,1,3,0
+45,"Thanalan",3,1,3,0
+46,"Coerthas",3,1,3,0
+47,"Mor Dhona",3,1,3,0
+48,"Ishgard",3,1,3,0
+49,"Abalathia",3,1,3,0
+50,"Dravania",3,1,3,0
+51,"Azys Lla",3,1,3,0
+52,"Gyr Abania",3,1,3,0
+53,"Othard",3,1,3,0
+54,"Hingashi",3,1,3,0
+55,"Grand-Lac",3,1,3,0
+56,"Kholusia",3,1,3,0
+57,"Amh Araeng",3,1,3,0
+58,"Il Mheg",3,1,3,0
+59,"Rak'tika",3,1,3,0
+60,"La Tempête",3,1,3,4
+61,"Vieille Sharlayan",3,1,3,0
+62,"Thavnair",3,1,3,0
+63,"Garlemald",3,1,3,0
+64,"Mare Lamentorum",3,1,3,7
+65,"Elpis",3,1,3,9
+66,"Ultima Thulé",3,1,3,8
+67,"Quêtes de classe : combattants",2,1,6,0
+68,"Quêtes de classe : mages",2,1,6,0
+69,"Quêtes de classe : artisans",2,1,6,0
+70,"Quêtes de classe : récolteurs",2,1,6,0
+71,"Quêtes de classe : halle du Juste",2,1,6,0
+72,"Quêtes de classe : académie de magie de Sharlayan",2,1,6,0
+73,"Quêtes de job : combattants",2,1,6,0
+74,"Quêtes de job : mages",2,1,6,0
+75,"Quêtes de rôle",2,1,6,0
+76,"Quêtes de compagnie",2,1,7,0
+77,"Événements saisonniers",2,1,7,0
+78,"Autres quêtes",2,1,7,0
+79,"Mandats de mercenariat",3,2,8,0
+80,"Mandats de mineur",3,2,8,0
+81,"Mandats de botaniste",3,2,8,0
+82,"Mandats de pêcheur",3,2,8,0
+83,"Mandats de menuisier",3,2,8,0
+84,"Mandats de forgeron",3,2,8,0
+85,"Mandats d'armurier",3,2,8,0
+86,"Mandats d'orfèvre",3,2,8,0
+87,"Mandats de tanneur",3,2,8,0
+88,"Mandats de couturier",3,2,8,0
+89,"Mandats d'alchimiste",3,2,8,0
+90,"Mandats de cuisinier",3,2,8,0
+91,"Mandats ishgardais de mercenariat",3,2,8,0
+92,"Mandats ishgardais de mineur",3,2,8,0
+93,"Mandats ishgardais de botaniste",3,2,8,0
+94,"Mandats ishgardais de pêcheur",3,2,8,0
+95,"Mandats ishgardais de menuisier",3,2,8,0
+96,"Mandats ishgardais de forgeron",3,2,8,0
+97,"Mandats ishgardais d'armurier",3,2,8,0
+98,"Mandats ishgardais d'orfèvre",3,2,8,0
+99,"Mandats ishgardais de tanneur",3,2,8,0
+100,"Mandats ishgardais de couturier",3,2,8,0
+101,"Mandats ishgardais d'alchimiste",3,2,8,0
+102,"Mandats ishgardais de cuisinier",3,2,8,0
+103,"Mandats de faction",2,2,8,0
+104,"Mandats de compagnie",2,2,8,0
+105,"Donjons",2,3,9,0
+106,"Raids",2,3,9,0
+107,"Défis",2,3,9,0
+108,"Autres missions",2,3,9,0
+109,"Quêtes Legacy",2,4,7,0

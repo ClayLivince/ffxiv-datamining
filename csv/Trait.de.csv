@@ -1,0 +1,534 @@
+﻿key,0,1,2,3,4,5,6,7
+#,Name,Icon,ClassJob,Level,Quest,Value,ClassJobCategory,
+int32,str,Image,ClassJob,byte,Quest,int16,ClassJobCategory,byte
+0,"",0,0,0,0,0,0,0
+1,"KONS-Schub",0,0,0,0,0,0,0
+2,"KONS-Schub II",0,0,0,0,0,0,0
+3,"KONS-Schub III",0,0,0,0,0,0,0
+4,"KONS-Schub",0,0,0,0,0,0,0
+5,"KONS-Schub II",0,0,0,0,0,0,0
+6,"KONS-Schub III",0,0,0,0,0,0,0
+7,"STR-Schub",0,0,0,0,0,0,0
+8,"STR-Schub II",0,0,0,0,0,0,0
+9,"STR-Schub III",0,0,0,0,0,0,0
+10,"Verbesserter Geölter Blitz",0,0,0,0,0,0,0
+11,"Verbesserter Geölter Blitz II",0,0,0,0,0,0,0
+12,"STR-Schub",0,0,0,0,0,0,0
+13,"STR-Schub II",0,0,0,0,0,0,0
+14,"STR-Schub III",0,0,0,0,0,0,0
+15,"GESK-Schub",0,0,0,0,0,0,0
+16,"GESK-Schub II",0,0,0,0,0,0,0
+17,"Verbesserter Gewaltiger Schuss",5306,5,2,0,0,50,0
+18,"Verbesserte Kommandos",5302,5,20,0,10,50,0
+19,"GESK-Schub III",0,0,0,0,0,0,0
+20,"Verbesserte Kommandos II",5303,5,40,0,20,50,0
+21,"WLK-Schub",0,0,0,0,0,0,0
+22,"WLK-Schub II",0,0,0,0,0,0,0
+23,"Verbesserte Kommandos",5185,6,20,0,10,53,0
+24,"WLK-Schub III",0,0,0,0,0,0,0
+25,"Verbessertes Vita",5330,6,32,0,0,53,0
+26,"Verbesserte Kommandos II",5186,6,40,0,30,53,0
+27,"INT-Schub",0,0,0,0,0,0,0
+28,"INT-Schub II",0,0,0,0,0,0,0
+29,"Verbesserte Kommandos",5185,7,20,0,10,55,0
+30,"INT-Schub III",0,0,0,0,0,0,0
+31,"Verbesserte Kommandos II",5186,7,40,0,30,55,0
+32,"Verbessertes Feuer",5352,7,42,0,0,55,0
+33,"Verbesserte Blitzzauber",5355,7,28,0,0,55,0
+34,"Auto-Geodäsie",5451,17,2,0,0,18,0
+35,"Verbesserte Coeurl-Pfoten",0,0,0,0,30,0,0
+36,"Verbesserte Coeurl-Pfoten II",0,0,0,0,40,0,0
+37,"Verbesserte Coeurl-Pfoten III",0,0,0,0,50,0,0
+38,"Auto-Prospektion",5426,16,2,0,0,17,0
+39,"Verbesserte Coeurl-Pfoten",0,0,0,0,30,0,0
+40,"Verbesserte Coeurl-Pfoten II",0,0,0,0,40,0,0
+41,"Verbesserte Coeurl-Pfoten III",0,0,0,0,50,0,0
+42,"Bäumeflüsterer",5455,17,11,0,0,18,0
+43,"Bäumeflüsterer II",5456,17,16,0,0,18,0
+44,"Bäumeflüsterer III",5457,17,21,0,0,18,0
+45,"Bäumeflüsterer IV",5458,17,26,0,0,18,0
+46,"Verbesserte Gunst der Zwölf",5459,17,41,0,0,18,0
+47,"Verbesserte Gunst der Zwölf II",5460,17,50,0,0,18,0
+48,"Steineflüsterer",5430,16,11,0,0,17,0
+49,"Steineflüsterer II",5431,16,16,0,0,17,0
+50,"Steineflüsterer III",5432,16,21,0,0,17,0
+51,"Steineflüsterer IV",5433,16,26,0,0,17,0
+52,"Verbesserte Gunst der Zwölf",5434,16,41,0,0,17,0
+53,"Verbesserte Gunst der Zwölf II",5435,16,50,0,0,17,0
+54,"Dünenfischer",5483,18,35,0,0,19,0
+55,"Wolkenfischer",5484,18,45,0,0,19,0
+56,"Verbesserte Coeurl-Pfoten",0,0,0,0,30,0,0
+57,"Verbesserte Coeurl-Pfoten II",0,0,0,0,40,0,0
+58,"Verbesserte Coeurl-Pfoten III",0,0,0,0,50,0,0
+59,"Möwenauge",5479,18,15,0,15,19,0
+60,"Möwenauge II",0,0,0,0,35,0,0
+61,"Möwenauge III",0,0,0,0,50,0,0
+62,"Verbessertes Köderfisch-Angeln",5482,18,40,0,0,19,0
+63,"Verbesserter Ätherfluss",0,0,0,0,0,0,0
+64,"INT-Schub",0,0,0,0,0,0,0
+65,"INT-Schub II",0,0,0,0,0,0,0
+66,"Verbesserte Kommandos",5185,26,20,0,10,68,0
+67,"Verbesserter Ätherfluss II",0,0,0,0,0,0,0
+68,"INT-Schub III",0,0,0,0,0,0,0
+69,"Verbesserte Kommandos II",5186,26,40,0,30,68,0
+70,"Verbesserter Ätherfluss III",0,0,0,0,0,0,0
+71,"STR-Schub",9004,0,2,0,5,0,0
+72,"Erhöhte LP",9001,0,3,0,10,0,0
+73,"Erhöhte Präzision",9010,0,5,0,5,0,0
+74,"Verbesserte Kritische Treffer",9012,0,6,0,15,0,0
+75,"STR-Schub",9004,0,8,0,5,0,0
+76,"Erhöhte LP",9001,0,9,0,10,0,0
+77,"STR-Schub",9004,0,2,0,5,0,0
+78,"Erhöhte LP",9001,0,3,0,5,0,0
+79,"Erhöhte Präzision",9010,0,5,0,5,0,0
+80,"Verbesserte Kritische Treffer",9012,0,6,0,15,0,0
+81,"STR-Schub II",9004,0,8,0,10,0,0
+82,"An<SoftHyphen/>griffs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit +",9013,0,9,0,-10,0,0
+83,"WLK-Schub",9008,0,2,0,10,0,0
+84,"Erhöhte LP",9001,0,3,0,5,0,0
+85,"Erhöhte Präzision",9010,0,5,0,5,0,0
+86,"Verbesserte Kritische Treffer",9012,0,6,0,15,0,0
+87,"WLK-Schub II",9008,0,8,0,15,0,0
+88,"Erhöhte LP",9001,0,9,0,5,0,0
+89,"GESK-Schub",0,0,0,0,0,0,0
+90,"Alle Viere",5401,29,14,0,10,93,0
+91,"GESK-Schub II",0,0,0,0,0,0,0
+92,"GESK-Schub III",0,0,0,0,0,0,0
+93,"Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit +",5403,29,20,0,10,93,0
+94,"Nymeias Segen",5436,16,42,0,0,17,0
+95,"Steineflüsterer V",5437,16,53,67617,0,17,0
+96,"Verbesserte Coeurl-Pfoten IV",0,0,0,0,54,0,0
+97,"Verbesserte Coeurl-Pfoten V",0,0,0,0,57,0,0
+98,"Verbesserte Coeurl-Pfoten VI",0,0,0,0,60,0,0
+99,"Nymeias Segen",5461,17,42,0,0,18,0
+100,"Baumflüsterer V",5462,17,53,67585,0,18,0
+101,"Verbesserte Coeurl-Pfoten IV",0,0,0,0,54,0,0
+102,"Verbesserte Coeurl-Pfoten V",0,0,0,0,57,0,0
+103,"Verbesserte Coeurl-Pfoten VI",0,0,0,0,60,0,0
+104,"Möwenauge IV",0,0,0,0,55,0,0
+105,"Möwenauge V",0,0,0,0,60,0,0
+106,"Himmelsfischen",5488,18,53,67622,0,19,0
+107,"Verbesserte Coeurl-Pfoten IV",0,0,0,0,54,0,0
+108,"Verbesserte Coeurl-Pfoten V",0,0,0,0,57,0,0
+109,"Verbesserte Coeurl-Pfoten VI",0,0,0,0,60,0,0
+110,"Höllenfischen",5489,18,55,67623,0,19,0
+111,"Ätherfischen",5490,18,58,67624,0,19,0
+112,"KONS-Schub",0,0,0,0,0,0,0
+113,"KONS-Schub II",0,0,0,0,0,0,0
+114,"KONS-Schub III",0,0,0,0,0,0,0
+115,"GESK-Schub",0,0,0,0,0,0,0
+116,"GESK-Schub II",0,0,0,0,0,0,0
+117,"Verbesserte Kommandos",6002,31,20,0,10,96,0
+118,"GESK-Schub III",0,0,0,0,0,0,0
+119,"Verbesserte Kommandos II",6003,31,40,0,20,96,0
+120,"WLK-Schub",0,0,0,0,0,0,0
+121,"WLK-Schub II",0,0,0,0,0,0,0
+122,"Verbesserte Kommandos",6102,33,20,0,10,99,0
+123,"WLK-Schub III",0,0,0,0,0,0,0
+124,"Verbesserter Harmonieaspekt",6105,33,36,0,15,99,0
+125,"Verbesserte Kommandos II",6103,33,40,0,30,99,0
+126,"Verbesserte Coeurl-Pfoten VII",0,0,0,0,64,0,0
+127,"Verbesserte Coeurl-Pfoten VIII",0,0,0,0,67,0,0
+128,"Verbesserte Coeurl-Pfoten IX",0,0,0,0,70,0,0
+129,"Verbesserte Coeurl-Pfoten VII",0,0,0,0,64,0,0
+130,"Verbesserte Coeurl-Pfoten VIII",0,0,0,0,67,0,0
+131,"Verbesserte Coeurl-Pfoten IX",0,0,0,0,70,0,0
+132,"Verbesserte Coeurl-Pfoten VII",0,0,0,0,64,0,0
+133,"Verbesserte Coeurl-Pfoten VIII",0,0,0,0,67,0,0
+134,"Verbesserte Coeurl-Pfoten IX",0,0,0,0,70,0,0
+135,"Salzseefischen",5499,18,68,0,0,19,0
+136,"Möwenauge VI",0,0,0,0,65,0,0
+137,"Möwenauge VII",0,0,0,0,70,0,0
+138,"Materialprüfung",6976,8,63,67978,2,9,0
+139,"Materialprüfung",6976,9,63,68152,2,10,0
+140,"Materialprüfung",6976,10,63,68131,2,11,0
+141,"Materialprüfung",6976,11,63,68136,2,12,0
+142,"Materialprüfung",6976,12,63,68146,2,13,0
+143,"Materialprüfung",6976,13,63,67968,2,14,0
+144,"Materialprüfung",6976,14,63,67973,2,15,0
+145,"Materialprüfung",6976,15,63,68141,2,16,0
+146,"Genialer Funke",0,0,0,0,0,0,0
+147,"Genialer Funke",0,0,0,0,0,0,0
+148,"Genialer Funke",0,0,0,0,0,0,0
+149,"Genialer Funke",0,0,0,0,0,0,0
+150,"Genialer Funke",0,0,0,0,0,0,0
+151,"Genialer Funke",0,0,0,0,0,0,0
+152,"Genialer Funke",0,0,0,0,0,0,0
+153,"Genialer Funke",0,0,0,0,0,0,0
+154,"Auto-Ausloten",5497,18,61,68458,0,19,0
+155,"Fischflüsterer",0,0,0,0,0,0,0
+156,"Verbesserte Deckung",5209,0,0,0,-20,0,0
+157,"Verbesserter Schlachtruf",5259,21,66,0,0,22,0
+158,"Schwarzblut",6059,32,62,0,0,98,0
+159,"Schwarzblut II",6060,32,66,0,0,98,0
+160,"Tiefe Meditation",5234,20,38,0,80,21,0
+161,"Rakshasas Meister",5235,0,0,0,2,0,0
+162,"Meister der Lanze",5284,22,64,0,0,23,0
+163,"Drachengeist",5285,22,70,68450,0,23,0
+164,"Giftklinge",0,0,0,0,0,0,0
+165,"Shukiho",5411,30,62,0,6,92,0
+166,"Verbessertes Shukuchi",5412,30,64,0,0,92,0
+167,"Verbessertes Ausrauben",5413,30,66,0,0,92,0
+168,"Meister der Bisse",5309,23,64,0,0,24,0
+169,"Verbesserter Empyreischer Pfeil",5310,23,68,0,0,24,0
+170,"Meisterschütze",0,0,0,0,0,0,0
+171,"Blitzmeister",5357,25,45,66612,0,26,0
+172,"Blitzmeister II",5358,25,64,0,0,26,0
+173,"Verbessertes Schattenherz",5359,0,0,0,-34,0,0
+174,"Verbessertes Henochisch",5360,25,70,68128,5,26,0
+175,"Biologischer Abbau",5376,0,0,0,0,0,0
+176,"Verbessertes Ruinra",5377,0,0,0,0,0,0
+177,"Biologischer Abbau II",5378,0,0,0,0,0,0
+178,"Verbesserte Bahamut-Trance",5380,27,70,68165,0,28,0
+179,"Steinmeister",5333,6,18,0,0,53,0
+180,"Windmeister",5334,6,46,0,0,53,0
+181,"Steinmeister II",5336,24,54,67257,0,25,0
+182,"Steinmeister III",5337,24,64,0,0,25,0
+183,"Geheimnis der Lilie II",5338,0,0,0,20,0,0
+184,"Meister der Bravade II",5392,28,64,0,0,29,0
+185,"Beschleunigter Ätherfluss",0,0,0,0,100,0,0
+186,"Meister der Konjunktion",6109,33,46,0,0,99,0
+187,"Meister des Spannungsaspekts",6110,33,54,67558,0,99,0
+188,"Meister des Spannungsaspekts II",6111,33,64,0,0,99,0
+189,"Über<SoftHyphen/>licht<SoftHyphen/>geschwindig<SoftHyphen/>keit",6101,33,68,0,-300,99,0
+190,"Gespür des Minenarbeiters",0,0,0,0,60,0,0
+191,"Gespür des Gärtners",0,0,0,0,60,0,0
+192,"Sammelregeneration",5444,16,70,68094,1,17,0
+193,"Sammelregeneration",5469,17,70,68160,1,18,0
+194,"Sammelregeneration",5498,18,70,68435,1,19,0
+195,"Verbesserter Stoß",6201,35,62,0,0,112,0
+196,"Geheimnis der Lilie",5335,24,52,67256,0,25,0
+197,"INT-Schub",0,0,0,0,0,0,0
+198,"INT-Schub II",0,0,0,0,0,0,0
+199,"INT-Schub III",0,0,0,0,0,0,0
+200,"Hauen und Heilen",5185,35,20,0,10,112,0
+201,"Hauen und Heilen II",5186,35,40,0,30,112,0
+202,"STR-Schub",0,0,0,0,0,0,0
+203,"STR-Schub II",0,0,0,0,0,0,0
+204,"STR-Schub III",0,0,0,0,0,0,0
+205,"Giftklinge II",0,0,0,0,0,0,0
+206,"Verbesserter Stoß II",0,0,0,0,0,0,0
+207,"Meister der Göttlichen Magie",5210,19,64,0,-50,20,0
+208,"Kenki-Meister II",6151,34,62,0,5,111,0
+209,"Eidmeister",5211,19,35,66592,0,20,0
+210,"WLK-Schub",0,0,0,0,0,0,0
+211,"WLK-Schub II",0,0,0,0,0,0,0
+212,"WLK-Schub III",0,0,0,0,0,0,0
+213,"Verbesserte Entflammung",5379,0,0,0,-600,0,0
+214,"Meister der Bravade",5394,28,54,67209,0,29,0
+215,"Kenki-Meister",6152,34,52,0,0,111,0
+216,"Doppelzauber",6203,35,1,0,0,112,0
+217,"Meister des Ruins",5395,26,30,65997,0,69,0
+218,"Meister der Tollwut",5260,21,70,68440,0,22,0
+219,"Erlernen",6251,36,1,0,0,129,0
+220,"Verbesserte Kommandos",5185,36,10,0,10,129,0
+221,"Verbesserte Kommandos II",5186,36,20,0,20,129,0
+222,"Verbesserte Kommandos III",5187,36,30,0,30,129,0
+223,"Verbesserte Kommandos IV",5188,36,40,0,40,129,0
+224,"Verbesserte Kommandos V",5189,36,50,0,50,129,0
+225,"Verbesserte Coeurl-Pfoten X",0,0,0,0,74,0,0
+226,"Verbesserte Coeurl-Pfoten XI",0,0,0,0,77,0,0
+227,"Verbesserte Coeurl-Pfoten XII",0,0,0,0,80,0,0
+228,"Verbesserte Coeurl-Pfoten X",0,0,0,0,74,0,0
+229,"Verbesserte Coeurl-Pfoten XI",0,0,0,0,77,0,0
+230,"Verbesserte Coeurl-Pfoten XII",0,0,0,0,80,0,0
+231,"Verbesserte Coeurl-Pfoten X",0,0,0,0,74,0,0
+232,"Verbesserte Coeurl-Pfoten XI",0,0,0,0,77,0,0
+233,"Verbesserte Coeurl-Pfoten XII",0,0,0,0,80,0,0
+234,"Möwenauge VIII",0,0,0,0,75,0,0
+235,"Möwenauge IX",0,0,0,0,80,0,0
+236,"Sammelregeneration II",5449,16,80,0,2,17,0
+237,"Sammelregeneration II",5474,17,80,0,2,18,0
+238,"Sammelregeneration II",5496,18,80,0,2,19,0
+239,"Sammelregeneration III",5441,16,83,0,3,17,0
+240,"Sammelregeneration III",5466,17,83,0,3,18,0
+241,"Sammelregeneration III",5486,18,83,0,3,19,0
+242,"Verbesserte Felsenfeste Überzeugung",5442,16,90,0,50,17,0
+243,"Verbesserte Bauernschläue",5467,17,90,0,50,18,0
+244,"Fischversessen",5485,18,15,0,0,19,0
+245,"Tiefe Meditation II",5238,20,74,0,100,21,0
+246,"Ritterlichkeit",5212,19,58,0,0,20,0
+247,"Meister der Lanze II",5288,22,76,0,0,23,0
+248,"",0,0,0,0,0,0,0
+249,"Wildes Geblüt",5261,21,35,66586,0,22,0
+250,"Verbessertes Kassatsu",5414,30,76,0,0,92,0
+251,"Verbesserte Kommandos",6351,38,50,0,10,150,0
+252,"Plume Burlesque",6352,38,30,0,0,150,0
+253,"Verbesserte Kommandos II",6353,38,60,0,20,150,0
+254,"Verbesserter En Avant",6354,38,68,0,2,150,0
+255,"Tanzfieber",6355,38,76,0,0,150,0
+256,"Verbesserter En Avant II",6356,38,78,0,3,150,0
+257,"Erda-Patronen",6301,37,30,0,0,149,0
+258,"Verbesserter Brutaler Einschlag",6302,37,52,0,0,149,0
+259,"Meister der Sprengzone",6303,37,80,0,0,149,0
+260,"Meister des Grolls",5213,19,60,67573,0,20,0
+261,"Verbesserte Protuberanz",5214,19,66,0,0,20,0
+262,"Verbessertes Schiltron",5215,19,74,0,0,20,0
+263,"Verbessertes Requiescat",5216,0,0,0,0,0,0
+264,"Schwert-Eid",5217,19,76,0,0,20,0
+265,"Meister der Urkraft",5262,21,54,66124,0,22,0
+266,"Meister der Kreiselklinge",5263,21,60,66137,0,22,0
+267,"Saat des Chaos",5264,21,72,0,0,22,0
+268,"Meister des Inneren Tiers",5265,21,74,0,0,22,0
+269,"Verbesserter Kampfrausch",5258,21,78,0,0,22,0
+270,"",0,0,0,0,0,0,0
+271,"Meister der Dunklen Seite",6062,32,74,0,0,98,0
+272,"Verbesserter Hiebsprung",6063,32,78,0,2,98,0
+273,"Stürmendes Enigma",0,0,0,0,0,0,0
+274,"Verbesserte Sengende Aura",5237,0,0,0,0,0,0
+275,"Meister der Sprünge",5286,22,74,0,0,23,0
+276,"Meister des Drachenbluts",5287,22,78,0,0,23,0
+277,"Verbessertes Iaijutsu",6153,34,74,0,0,111,0
+278,"Verbessertes Fugetsu und Fuka",6154,34,78,0,0,111,0
+279,"Verbessertes Shukuchi II",5415,30,74,0,2,92,0
+280,"Shukiho II",5416,30,78,0,0,92,0
+281,"",0,0,0,0,0,0,0
+282,"Meister des Direkten Schusses",5311,23,70,68430,0,24,0
+283,"Meister der Pfeilsalve",5304,23,72,0,0,24,0
+284,"Meister der Bisse II",5312,23,76,0,0,24,0
+285,"Meister des Gewaltigen Schusses",5313,23,76,0,0,24,0
+286,"Verbesserte Hymne der Krieger",5314,23,78,0,0,24,0
+287,"Klang der Seelenstimme",5315,23,80,0,0,24,0
+288,"Feuer Frei-Meisterschaft",6010,31,54,67243,0,96,0
+289,"Flintenlaufgeschoss-Meisterschaft",6011,31,60,67248,0,96,0
+290,"Sauberer Schuss-Meisterschaft",6012,31,64,0,0,96,0
+291,"Explosivgeschoss-Meisterschaft",6016,31,76,0,0,96,0
+292,"Verbesserte Ladungen",6013,31,74,0,3,96,0
+293,"Verbessertes Wildfeuer",6014,31,78,0,0,96,0
+294,"Umwandlung",6015,31,80,0,0,96,0
+295,"Verbessertes Einfrieren",5361,25,58,0,0,26,0
+296,"Elementare Meisterschaft",5362,7,1,0,0,55,0
+297,"Verbessertes Polyglott",5363,25,80,0,0,26,0
+298,"Verbesserte Bahamut-Trance II",5676,0,0,0,0,0,0
+299,"Verbesserte Egi-Attacke",5677,0,0,0,0,0,0
+300,"Verbessertes Trisaster",5678,0,0,0,0,0,0
+301,"Verbesserter Bann",5679,0,0,0,0,0,0
+302,"Verbesserte Phönix-Trance",5680,0,0,0,0,0,0
+303,"Meister des Zerstreuens",6207,35,66,0,0,112,0
+304,"Meister der Körperparade",6204,35,72,0,0,112,0
+305,"Verbesserte Manafizierung",6205,35,78,0,-100,112,0
+306,"Meister der Rotmagie",6206,35,74,0,-100,112,0
+307,"Windmeister II",5339,24,72,0,0,25,0
+308,"Steinmeister IV",5340,24,72,0,0,25,0
+309,"Verbessertes Afflatus solatii",5341,24,74,0,0,25,0
+310,"Verbessertes Refugium",5342,24,78,0,0,25,0
+311,"Biologischer Abbau II",5701,28,72,0,0,29,0
+312,"Meister der Bravade III",5702,28,72,0,0,29,0
+313,"Verbesserte Geweihte Erde",5703,28,78,0,0,29,0
+314,"Meister der Konjunktion II",6112,33,72,0,0,99,0
+315,"Meister des Spannungsaspekts III",6113,33,72,0,0,99,0
+316,"Verbesserte Essenzielle Würde",6114,33,78,0,2,99,0
+317,"Meister der Verteidigung",5190,1,1,0,-20,38,0
+318,"Meister der Verteidigung",5190,3,1,0,-20,44,0
+319,"Meister der Verteidigung",5190,32,1,0,-20,98,0
+320,"Meister der Verteidigung",5190,37,1,0,-20,149,0
+321,"Verbesserte Augmentierung ",5364,25,74,0,-300,26,0
+322,"Verbessertes Henochisch II",5365,25,78,0,10,26,0
+323,"",0,0,0,0,0,0,0
+324,"Biologischer Abbau",5376,28,26,0,0,29,0
+325,"Tellurische Meisterschaft",5427,16,60,0,0,17,0
+326,"Meisterschaft der Flure",5452,17,60,0,0,18,0
+327,"Meisterschaft der Meere",5476,18,70,68458,0,19,0
+328,"Auto-Verstohlenheit",5428,16,27,0,0,17,0
+329,"Auto-Verstohlenheit",5453,17,27,0,0,18,0
+330,"Auto-Verstohlenheit",5477,18,27,0,0,19,0
+331,"Verbesserte Gunst der Zwölf III",5440,16,71,0,0,17,0
+332,"Verbesserte Gunst der Zwölf III",5465,17,71,0,0,18,0
+333,"Reichste Ausbeute",5429,16,68,68093,0,17,0
+334,"Meister des Exkavierens",0,0,0,0,0,0,0
+335,"Meister der Spontanen Begutachtung",0,0,0,0,0,0,0
+336,"Reichste Ernte",5454,17,68,68159,0,18,0
+337,"Höchste Ziele",0,0,0,0,0,0,0
+338,"Meister der Spontanen Begutachtung",0,0,0,0,0,0,0
+339,"Meister der Bearbeitung",6979,8,31,0,0,9,0
+340,"Meister der Bearbeitung",6980,9,31,0,0,10,0
+341,"Meister der Bearbeitung",6981,10,31,0,0,11,0
+342,"Meister der Bearbeitung",6982,11,31,0,0,12,0
+343,"Meister der Bearbeitung",6983,12,31,0,0,13,0
+344,"Meister der Bearbeitung",6984,13,31,0,0,14,0
+345,"Meister der Bearbeitung",6985,14,31,0,0,15,0
+346,"Meister der Bearbeitung",6986,15,31,0,0,16,0
+347,"Meister der Schnellen Bearbeitung",6978,8,63,0,0,9,0
+348,"Meister der Schnellen Bearbeitung",6978,9,63,0,0,10,0
+349,"Meister der Schnellen Bearbeitung",6978,10,63,0,0,11,0
+350,"Meister der Schnellen Bearbeitung",6978,11,63,0,0,12,0
+351,"Meister der Schnellen Bearbeitung",6978,12,63,0,0,13,0
+352,"Meister der Schnellen Bearbeitung",6978,13,63,0,0,14,0
+353,"Meister der Schnellen Bearbeitung",6978,14,63,0,0,15,0
+354,"Meister der Schnellen Bearbeitung",6978,15,63,0,0,16,0
+355,"Verbesserte Elementarkorona",5681,0,0,0,0,0,0
+356,"Übung macht den Meister",6987,8,15,0,0,9,1
+357,"Übung macht den Meister",6987,9,15,0,0,10,1
+358,"Übung macht den Meister",6987,10,15,0,0,11,1
+359,"Übung macht den Meister",6987,11,15,0,0,12,1
+360,"Übung macht den Meister",6987,12,15,0,0,13,1
+361,"Übung macht den Meister",6987,13,15,0,0,14,1
+362,"Übung macht den Meister",6987,14,15,0,0,15,1
+363,"Übung macht den Meister",6987,15,15,0,0,16,1
+364,"Geölter Blitz",5239,2,1,0,0,41,0
+365,"Verbesserter Geölter Blitz",5230,2,20,0,0,41,0
+366,"Verbesserter Geölter Blitz II",5231,20,40,0,0,21,0
+367,"Verbesserter Geölter Blitz III",5240,20,76,0,0,21,0
+368,"Verbesserte Kommandos",5185,40,20,0,10,181,0
+369,"Verbesserte Kommandos II",5186,40,40,0,30,181,0
+370,"Humor",6451,40,45,0,0,181,0
+371,"Eid der Weisen",6452,40,54,0,0,181,0
+372,"Eid der Weisen II",6453,40,64,0,0,181,0
+373,"Komplexion",6454,40,66,0,0,181,0
+374,"Meister der Offensivmagie",6455,40,72,0,0,181,0
+375,"Verbessertes Kerachole",6456,40,78,0,0,181,0
+376,"Meister der Offensivmagie II",6457,40,82,0,0,181,0
+377,"Meister der Heilmagie",6826,40,85,0,0,181,0
+378,"Verbessertes Zoe",6458,40,88,0,-300,181,0
+379,"Erntereif",6401,39,50,0,0,180,0
+380,"Meister der Todessichel",6402,39,60,0,0,180,0
+381,"Verbesserter Avatar",6403,39,70,0,0,180,0
+382,"Verbessertes Höllentor",6404,39,74,0,0,180,0
+383,"Verbesserte Seelenernte",6405,39,78,0,2,180,0
+384,"Verschleierung",6406,39,80,69614,0,180,0
+385,"Verbessertes Arkanes Wappen",6407,39,84,0,0,180,0
+386,"Verbesserter Lemurenschleier",6408,39,86,0,0,180,0
+387,"Verbesserter Arkaner Kreis",6409,39,88,0,0,180,0
+388,"Innere Ruhe",6988,8,11,0,0,9,0
+389,"Innere Ruhe",6988,9,11,0,0,10,0
+390,"Innere Ruhe",6988,10,11,0,0,11,0
+391,"Innere Ruhe",6988,11,11,0,0,12,0
+392,"Innere Ruhe",6988,12,11,0,0,13,0
+393,"Innere Ruhe",6988,13,11,0,0,14,0
+394,"Innere Ruhe",6988,14,11,0,0,15,0
+395,"Innere Ruhe",6988,15,11,0,0,16,0
+396,"Meister der Sorgfältigen Bearbeitung",6989,8,82,0,0,9,0
+397,"Meister der Sorgfältigen Bearbeitung",6989,9,82,0,0,10,0
+398,"Meister der Sorgfältigen Bearbeitung",6989,10,82,0,0,11,0
+399,"Meister der Sorgfältigen Bearbeitung",6989,11,82,0,0,12,0
+400,"Meister der Sorgfältigen Bearbeitung",6989,12,82,0,0,13,0
+401,"Meister der Sorgfältigen Bearbeitung",6989,13,82,0,0,14,0
+402,"Meister der Sorgfältigen Bearbeitung",6989,14,82,0,0,15,0
+403,"Meister der Sorgfältigen Bearbeitung",6989,15,82,0,0,16,0
+404,"Meister der Vorarbeit",6990,8,86,0,0,9,0
+405,"Meister der Vorarbeit",6991,9,86,0,0,10,0
+406,"Meister der Vorarbeit",6992,10,86,0,0,11,0
+407,"Meister der Vorarbeit",6993,11,86,0,0,12,0
+408,"Meister der Vorarbeit",6994,12,86,0,0,13,0
+409,"Meister der Vorarbeit",6995,13,86,0,0,14,0
+410,"Meister der Vorarbeit",6996,14,86,0,0,15,0
+411,"Meister der Vorarbeit",6997,15,86,0,0,16,0
+412,"Meister des Schiltron",5218,19,82,0,0,20,0
+413,"Verbesserte Intervention",5219,19,82,0,0,20,0
+414,"Meister der Göttlichen Magie II",5220,19,84,0,0,20,0
+415,"Meister des Selbsterhaltungstriebs",5221,19,86,0,0,20,0
+416,"Verbesserter Heiliger Quell",5222,19,88,0,0,20,0
+417,"Verbessertes Abschütteln",5266,21,76,0,0,22,0
+418,"Meister des Urinstinkts",5267,21,82,0,0,22,0
+419,"Verbessertes Urflackern",5268,21,82,0,0,22,0
+420,"Verbessertes Äquilibrium",5269,21,84,0,0,22,0
+421,"Verbesserter Sturmlauf",5270,21,88,0,3,22,0
+422,"Verbesserter Zerfall",6064,32,84,0,0,98,0
+423,"Verbesserter Schattenschemen II",6066,32,90,0,0,98,0
+424,"Meister des Steinernen Herzens",6304,37,82,0,0,149,0
+425,"Verbesserte Aurora",6305,37,84,0,2,149,0
+426,"Verbesserte Triggerfolge",6306,37,86,0,0,149,0
+427,"Verbesserte Erda-Patronen",6307,37,88,0,0,149,0
+428,"Meister der Stahlzinnen",5241,20,54,67564,0,21,0
+429,"Meister der Heulenden Faust",5242,20,74,0,0,21,0
+430,"Meister des Zerstörers",5243,20,82,0,0,21,0
+431,"Verbesserter Donnersprung",5244,20,84,0,3,21,0
+432,"Verbesserte Bruderschaft",5245,20,88,0,0,21,0
+433,"Verbesserte Improvisation",5246,20,60,67567,0,21,0
+434,"Drachenherz",5289,22,54,67228,0,23,0
+435,"Verbesserte Coerthische Folter",5290,22,82,0,0,23,0
+436,"Verbesserter Wirbelsprenger",5291,22,84,0,2,23,0
+437,"Meister der Lanze III",5292,22,86,0,0,23,0
+438,"Verbesserte Vitalwallung",5277,22,88,0,2,23,0
+439,"Shukiho III",5417,30,84,0,0,92,0
+440,"Verbessertes Meisui",5418,30,88,0,0,92,0
+441,"Verbessertes Raiton",5419,30,90,0,0,92,0
+442,"Verbessertes Tsubamegaeshi",6155,34,84,0,2,111,0
+443,"Meikyo Shisui",6156,34,88,0,2,111,0
+444,"Meister der Pfeilsalve",5316,23,82,0,0,24,0
+445,"Verbesserter Aderlass",5317,23,84,0,3,24,0
+446,"Verbesserter Apex-Pfeil",5318,23,86,0,0,24,0
+447,"Verbesserter Troubadour",5319,23,88,0,-300,24,0
+448,"Verbesserte Lieder",5320,23,90,0,0,24,0
+449,"Meister des Splitterschusses",6017,31,82,0,0,96,0
+450,"Verbessertes Justieren",6018,31,84,0,2,96,0
+451,"Damengambit",6019,31,86,0,0,96,0
+452,"Verbesserter Taktiker",6020,31,88,0,-300,96,0
+453,"Verbessertes Komplexes Finale",6357,38,82,0,0,150,0
+454,"Verbessertes Tanzfieber",6358,38,84,0,0,150,0
+455,"Verbesserte Trance",6359,38,86,0,0,150,0
+456,"Verbesserter Schildsamba",6360,38,88,0,-300,150,0
+457,"Verbesserter Todestango",6361,38,90,0,0,150,0
+458,"Elementare Meisterschaft II",5366,7,20,0,0,55,0
+459,"Elementare Meisterschaft III",5367,7,35,0,0,55,0
+460,"Henochisch",5368,25,56,67217,0,26,0
+461,"Verbesserter Moder",5369,25,80,0,0,26,0
+462,"Elementare Meisterschaft IV",5370,25,82,0,0,26,0
+463,"Verbesserter Mana-Brunnen",5371,25,84,0,-600,26,0
+464,"Verbesserte Augmentierung II",5372,25,88,0,2,26,0
+465,"Elementare Meisterschaft V",5373,25,90,0,0,26,0
+466,"Verbesserte Ätherinfusion",5396,26,15,66639,0,69,0
+467,"Verbesserte Ätherinfusion II",5397,26,22,0,0,69,0
+468,"Meister der Rubin-Beschwörung",5682,27,30,66627,0,28,0
+469,"Meister der Topas-Beschwörung",5683,27,35,66628,0,28,0
+470,"Meister der Smaragd-Beschwörung",5684,27,45,66631,0,28,0
+471,"Entflammung",5685,27,50,66632,0,28,0
+472,"",0,0,0,0,0,0,0
+473,"Meister des Ruins II",5687,27,54,67638,0,28,0
+474,"Meister der Ätherinfusion",5690,27,58,67640,0,28,0
+475,"Verbesserter Energiesiphon",5691,27,62,0,0,28,0
+476,"Meister des Ruins III",5688,27,72,0,0,28,0
+477,"Meister der Elementarkorona",5692,27,74,0,0,28,0
+478,"Meister der Elementarkorona II",5693,27,82,0,0,28,0
+479,"Meister des Ruins IV",5689,27,84,0,0,28,0
+480,"Verbesserter Schimmerschild",5694,27,88,0,2,28,0
+481,"Hohe Beschwörung",5695,27,90,0,0,28,0
+482,"Verbesserte Magieklinge",6208,35,68,0,0,112,0
+483,"Meister der Rotmagie II",6209,35,82,0,0,112,0
+484,"Meister der Rotmagie III",6210,35,84,0,0,112,0
+485,"Verbesserte Präparation",6211,35,88,0,2,112,0
+486,"Verbesserte Manafizierung II",6212,35,90,0,0,112,0
+487,"Meister der Blendung",5343,24,82,0,0,25,0
+488,"Verbessertes Sanctus",5344,24,82,0,0,25,0
+489,"Meister der Heilmagie",6826,24,85,0,0,25,0
+490,"Verbesserter Göttlicher Segen",5345,24,88,0,2,25,0
+491,"Meister der Bravade IV",5704,28,82,0,0,29,0
+492,"Meister des Krieges",5705,28,82,0,0,29,0
+493,"Meister der Heilmagie",6826,28,85,0,0,29,0
+494,"Verbesserte Dislokation",5706,28,88,0,-300,29,0
+495,"Verbessertes Ziehen",6115,33,40,67551,0,99,0
+496,"Verbessertes Ziehen II",6116,33,50,0,0,99,0
+497,"Meister des Spannungsaspekts IV",6117,33,82,0,0,99,0
+498,"Meister des Gravitas",6118,33,82,0,0,99,0
+499,"Meister der Heilmagie",6826,33,85,0,0,99,0
+500,"Verbesserte Kongruenz",6119,33,88,0,2,99,0
+501,"Sternenfischen",5487,18,89,0,0,19,0
+502,"Verbesserte Bahamut-Beschwörung",5696,27,80,0,0,28,0
+503,"Meister der Elemente",5697,27,86,0,0,28,0
+504,"Verbesserte Kommandos",6801,19,84,0,0,20,0
+505,"Verbesserte Kommandos",6801,21,84,0,0,22,0
+506,"Verbesserte Kommandos",6801,32,84,0,0,98,0
+507,"Verbesserte Kommandos",6801,37,84,0,0,149,0
+508,"Meister der Lanze IV",5293,22,90,0,0,23,0
+509,"Verbessertes Henochisch II",5374,25,86,0,15,26,0
+510,"Meister der Physis",6459,40,60,0,0,181,0
+511,"Verbesserter Schattenschemen",6065,32,88,0,0,98,0
+512,"Meister des Zündschlags",5248,20,86,0,0,21,0
+513,"Meister des Tornadotritts",5247,20,90,0,0,21,0
+514,"Verbessertes Ikishoten",6157,34,90,0,0,111,0
+515,"Meister des Meuchelsprungs",5420,30,56,67222,0,92,0
+516,"Verbesserte Kommandos",6801,30,74,0,0,92,0
+517,"Verbesserte Kommandos",6801,31,84,0,0,96,0
+518,"Verbesserte Kommandos",6801,20,84,0,0,21,0
+519,"Meister des Fuga",6158,34,86,0,0,111,0
+520,"Verbesserte Kommandos",6801,34,66,0,0,111,0
+521,"Verbesserte Kommandos II",6802,34,84,0,0,111,0
+522,"Verbesserte Kommandos II",6802,30,84,0,0,92,0
+523,"",0,0,0,0,0,0,0
+524,"",0,0,0,0,0,0,0
+525,"",0,0,0,0,0,0,0
+526,"",0,0,0,0,0,0,0
+527,"",0,0,0,0,0,0,0
+528,"",0,0,0,0,0,0,0
+529,"",0,0,0,0,0,0,0
+530,"",0,0,0,0,0,0,0

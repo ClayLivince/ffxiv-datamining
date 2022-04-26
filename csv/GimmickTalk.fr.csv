@@ -1,0 +1,50 @@
+﻿key,0,1,2
+#,,,
+int32,byte,bit&01,str
+0,4,True,""
+1,7,False,"Une armure magitek endommagée a été abandonnée sur le bord de la route. De violents combats ont dû avoir lieu ici."
+2,7,False,"Des épées émoussées et des boucliers couverts de bosses... Cet armement ne semble pas garlemaldais. À qui peut-il appartenir ?"
+3,4,True,"Les pages du cahier sont remplies d'équations complexes formulées par le jeune Cid. Après calcul, il conclut qu'il y a de fortes chances pour que le satellite de la lune soit capable d'absorber l'énergie solaire et de la restituer sous forme d'ondes électromagnétiques.
+Il prédit aussi une issue catastrophique si Dalamud est activé sans les préparations adéquates. Son hypothèse avance que l'équivalent de plusieurs milliers d'années d'énergie solaire accumulée se déverserait en un instant et qu'elle détruirait tout dans un large rayon."
+4,7,False,"La carcasse d'une faucheuse magitek... Elle a été bien trop détruite pour pouvoir être utilisée."
+5,7,False,"La faucheuse magitek a utilisé ses dernières ressources lors de votre combat, elle ne pourra plus servir à grand-chose..."
+6,7,False,"Ce soldat a déjà rendu l'âme... Si vous aviez été dans votre corps, vous auriez peut-être pu empêcher sa mort.
+Dépêchez-vous de rejoindre le camp Bris-de-glace, avant que Zenos ne cause d'autres victimes."
+7,7,False,"Cette personne a été attaquée par les soldats subjugués et a déjà rendu son dernier souffle...
+Vous trouvez une potion militaire en fouillant ses affaires. Vous offrez une courte prière pour le repos de son âme."
+8,7,False,"Cette personne s'est visiblement battue de toutes ses forces, mais n'a pas su vaincre ses ennemis...
+Vous trouvez une potion militaire en fouillant ses affaires. Vous offrez une courte prière pour le repos de son âme."
+9,7,False,"Cette faucheuse magitek est endommagée au niveau des jambes. Elle semble avoir été utilisée il y a peu de temps. Avec un peu de carburant et une clef d'activation, vous pourriez peut-être utiliser son canon afin de vous débarrasser des ennemis en face..."
+10,7,False,"Vous avez activé la faucheuse grâce à la clé, mais sans céruleum, elle ne pourra pas fonctionner. Inspectez les carcasses d'autres armes magitek aux alentours pour trouver du carburant."
+11,7,False,"La carcasse d'une faucheuse magitek... Les voyants indiquent qu'elle dispose encore de carburant. Vous détachez son réservoir de céruleum afin de l'emmener ailleurs."
+12,7,False,"La faucheuse magitek a utilisé ses dernières ressources lors de votre combat, elle ne pourra plus servir à grand-chose..."
+13,7,False,"La carcasse d'une faucheuse magitek... Elle a été bien trop détruite pour pouvoir être utilisée."
+14,7,False,"La carcasse d'une faucheuse magitek... Les voyants indiquent qu'elle dispose encore de carburant. Cependant la machine est en trop mauvais état pour que vous puissiez détacher son réservoir..."
+15,7,False,"Ce soldat a déjà rendu l'âme... Si vous aviez été dans votre corps, vous auriez peut-être pu empêcher sa mort."
+16,7,False,"La carcasse d'une faucheuse magitek... Elle a été bien trop détruite pour pouvoir être utilisée."
+17,7,False,"Ce jeune soldat a déjà rendu son dernier souffle...
+Vous trouvez une potion militaire en fouillant ses affaires. Vous offrez une courte prière pour le repos de son âme."
+18,7,False,"Le soldat subjugué avait une potion militaire en sa possession.
+
+Dans cette bataille, vous ne pourrez pas déployer votre force habituelle. Vous devriez éviter autant que possible les combats afin de rejoindre rapidement le camp Bris-de-glace.
+Si jamais vous vous faites repérer, les soldats ennemis et armes magitek automatiques vous traqueront sans relâche. Ces dernières sont particulièrement puissantes et pourront difficilement être vaincues dans votre état actuel.
+Vous pouvez utiliser des potions militaires pour restaurer vos PV, mais il n'est possible que d'en transporter un nombre limité. Cependant, vous pourrez en trouver d'autres en fouillant les soldats et armes magitek aux alentours."
+19,7,False,"La carcasse d'une faucheuse magitek... Elle a été bien trop détruite pour pouvoir être utilisée.
+Cependant vous trouvez un flacon de Fortis dans le cockpit !"
+20,7,False,"La carcasse d'une faucheuse magitek... Elle a été bien trop détruite pour pouvoir être utilisée.
+Cependant vous trouvez une potion militaire dans le cockpit !"
+21,7,False,"La carcasse d'une faucheuse magitek... Elle a été bien trop détruite pour pouvoir être utilisée.
+Cependant vous trouvez une potion militaire dans le cockpit !"
+22,7,False,"La carcasse d'une faucheuse magitek... Elle a été bien trop détruite pour pouvoir être utilisée.
+Cependant vous trouvez une potion militaire dans le cockpit !"
+23,7,False,"Ce soldat a déjà rendu l'âme..."
+24,7,False,"Ce soldat s'est fait attaquer par derrière et n'a pas survécu à ses blessures...
+Vous trouvez une potion militaire en fouillant ses affaires. Vous offrez une courte prière pour le repos de son âme."
+25,7,False,"Ce soldat a déjà rendu l'âme..."
+26,7,False,"Ce petit sac en mauvais état recelait une potion militaire à l'intérieur !"
+27,7,False,"Ce petit sac en mauvais état recelait un flacon de Fortis à l'intérieur !"
+28,7,False,"Vous avez rempli le réservoir de céruleum de la faucheuse. Cependant, sans clef d'activation, les commandes de la machine refuseront de fonctionner. Inspectez les alentours pour trouver son pilote."
+29,7,False,"Des petites bulles apparaissent à la surface de l'eau à intervalles irréguliers... Une créature doit sûrement se cacher sous ce nénuphar."
+30,7,False,"Le nénuphar est légèrement plié sur le bord, comme si quelqu'un s'était agenouillé ici pour s'approcher de la surface de l'eau..."
+31,7,False,"Vous apercevez la carcasse d'une créature au fond de l'eau. Elle est couverte d'algues en tout genre. Elle a dû se noyer il y a bien longtemps déjà..."
+32,7,False,"De légères traces de brûlures sont visibles sur le nénuphar. Elles ont la forme d'un noulithe..."

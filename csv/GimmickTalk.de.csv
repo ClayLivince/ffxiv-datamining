@@ -1,0 +1,40 @@
+﻿key,0,1,2
+#,,,
+int32,byte,bit&01,str
+0,4,True,""
+1,7,False,"Du findest die Überreste einer zerstörten Magitek-Kampfmaschine. Hier muss ein heftiger Kampf gewütet haben."
+2,7,False,"Du findest schartige Schwerter und geborstene Schilde. Garleisch sehen sie nicht aus. Wer mag mit diesem Kriegsgerät gefochten haben?"
+3,4,True,"Die Seiten sind vollgeschrieben mit Zahlenreihen und wissenschaftlichen Formeln - offenbar handelt es sich um Cids Messdaten über Dalamud.
+
+Laut Cids Berechnungen war es möglich, dass Dalamud die Energie der Sonne bündeln und die Wellenlängen ihrer Strahlung ändern würde. Ohne weitere Forschung war es unverantwortlich, mit dem Experiment fortzufahren. Nicht auszudenken, welche katastrophalen Folgen der Welt sonst drohten."
+4,7,False,"Die Überreste eines Magitek-Schnitters. Aufgrund der schweren Schäden ist er nicht mehr zu gebrauchen."
+5,7,False,"Ein Magitek-Schnitter mit schwer beschädigten Beinen. Er scheint vollkommen verbraucht und nicht mehr einsatzfähig zu sein."
+6,7,False,"Dieser bemitleidenswerten Seele ist nicht mehr zu helfen. Eile weiter in Richtung Camp Splitterglas, um Zenos aufzuhalten!"
+7,7,False,"Diese arme Seele fiel einem Besessenen zum Opfer. Doch in einer Jackentasche findest du einen Frontentrank!"
+8,7,False,"Diese bedauernswerte Seele hat sich verbissen gewehrt, doch es hat nicht gereicht. In einer Hosentasche findest du einen Frontentrank!"
+9,7,False,"Ein Magitek-Schnitter mit schwer beschädigten Beinen. Die Maschine ist noch warm. Mit einem Kennschlüssel und Brennstoff könnte er vielleicht gestartet und als stationäres Geschütz verwendet werden."
+10,7,False,"Ein Magitek-Schnitter mit schwer beschädigten Beinen. Du hast den Kennschlüssel umgedreht, aber ohne Brennstoff lässt sich die Maschine nicht starten. Suche weiter, bis du einen Schnitter mit Erdseim im Tank findest."
+11,7,False,"Die Überreste eines Magitek-Schnitters. Die Steuerkonsole zeigt an, dass sich im Tank noch etwas Brennstoff befindet. Der Erdseim-Tank lässt sich sicher entfernen und transportieren."
+12,7,False,"Ein Magitek-Schnitter mit schwer beschädigten Beinen. Er scheint vollkommen verbraucht und nicht mehr einsatzfähig zu sein."
+13,7,False,"Die Überreste eines Magitek-Schnitters. Aufgrund der schweren Schäden ist er nicht mehr zu gebrauchen."
+14,7,False,"Die Überreste eines Magitek-Schnitters. Die Steuerkonsole zeigt an, dass sich im Tank noch etwas Brennstoff befindet. Doch die Schäden sind so stark, dass sich nichts mehr retten lässt."
+15,7,False,"Dieser bemitleidenswerten Seele ist nicht mehr zu helfen. "
+16,7,False,"Die Überreste eines Magitek-Schnitters. Aufgrund der schweren Schäden ist er nicht mehr zu gebrauchen."
+17,7,False,"Ein junger Soldat, dem nicht mehr zu helfen ist. In seinen kalten Händen hält er noch einen Frontentrank!"
+18,7,False,"Der besessene Legionär hatte einen Frontentrank!
+
+(In diesem Auftragsabschnitt kannst du deine normalen Fähigkeiten nicht einsetzen. Gehe deshalb Kämpfen möglichst aus dem Weg und rücke schnell auf Camp Splitterglas vor. Wenn du entdeckt wirst, werden sich besessene Legionäre und Magitek-Maschinen an deine Fersen heften. Letztere sind besonders gefährlich! Wenn du Schaden nimmst, kann dir nur ein Frontentrank das Leben retten. Diese Tränke findest du bei gefallenen Garlearn oder in zerstörten Magitek-Maschinen.)"
+19,7,False,"Die Überreste eines Magitek-Schnitters. Aufgrund der schweren Schäden ist er nicht mehr zu gebrauchen. Aber auf dem Pilotensitz findest du ein garleisches Heilmittel!"
+20,7,False,"Die Überreste eines Magitek-Schnitters. Aufgrund der schweren Schäden ist er nicht mehr zu gebrauchen. Aber unter dem Sitz findest du einen Frontentrank!"
+21,7,False,"Die Überreste eines Magitek-Schnitters. Aufgrund der schweren Schäden ist er nicht mehr zu gebrauchen. Aber auf der hinteren Ablage findest du einen Frontentrank!"
+22,7,False,"Die Überreste eines Magitek-Schnitters. Aufgrund der schweren Schäden ist er nicht mehr zu gebrauchen. Aber im Handschuhfach findest du einen Frontentrank!"
+23,7,False,"Dieser Seele ist traurigerweise nicht mehr zu helfen."
+24,7,False,"Diese Seele wurde gemeinerweise von hinten überfallen. Ihr ist nicht mehr zu helfen. Doch an seinem Gürtel findest du einen Frontentrank!"
+25,7,False,"Dieser Seele ist traurigerweise nicht mehr zu helfen."
+26,7,False,"Ein verdrecktes Beutelchen. Darin findet du einen Frontentrank!"
+27,7,False,"Ein verdrecktes Beutelchen. Darin findet du ein garleisches Heilmittel!"
+28,7,False,"Ein Magitek-Schnitter mit schwer beschädigten Beinen. Er ist betankt, aber ohne Kennschlüssel lässt er sich nicht starten. Vielleicht hat sich der Pilot irgendwo hier in der Nähe versteckt."
+29,7,False,"Aus dem sanft wogenden Wasser steigen immer wieder kleine Bläschen hervor. Ihre Regelmäßigkeit deutet darauf hin, dass sich in all dem Grün ein Korpokkur verbirgt."
+30,7,False,"Das Blatt ist an einer Stelle eingedrückt. Irgendjemand scheint sich hier hingekniet zu haben - um Wasser zu schöpfen, vielleicht?"
+31,7,False,"Auf dem Grund ruht ein unglückseliges Tier, dessen Körper nun Nährboden für zahlreiche Pflanzen bietet. Vermutlich tat es bei der Nahrungssuche einen falschen Schritt."
+32,7,False,"Einige Blätter weisen seltsame Brandflecken auf. Doch war es kein Feuer, das sie versengte. Alles deutet auf Magie aus dem Repertoire eines Weisen hin."

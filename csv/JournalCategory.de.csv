@@ -1,0 +1,113 @@
+﻿key,0,1,2,3,4
+#,Name,SeparateType,DataType,JournalSection,
+int32,str,byte,byte,JournalSection,byte
+0,"Ungültige Kategorie",0,0,255,0
+1,"A Realm Reborn",1,1,0,0
+2,"7. Ära des Lichts",1,1,0,0
+3,"Heavensward",1,1,0,0
+4,"Drachenkrieg - Epilog",1,1,0,0
+5,"Nach dem Drachenkrieg",1,1,0,0
+6,"Stormblood",1,1,0,0
+7,"Nach dem Befreiungskampf",1,1,0,0
+8,"Shadowbringers",1,1,0,0
+9,"Die Heimreise der Exegeten",1,1,0,0
+10,"Geflüster des Untergangs",1,1,0,0
+11,"Endwalker",1,1,1,0
+12,"Neu entdecktes Abenteuer",1,1,1,0
+13,"Primae (A Realm Reborn)",1,1,2,0
+14,"Bahamut",1,1,2,0
+15,"Kristallturm",1,1,2,0
+16,"Alexander",1,1,2,0
+17,"Primae (Heavensward)",1,1,2,0
+18,"Schatten von Mhach",1,1,2,0
+19,"Omega",2,1,2,0
+20,"Rückkehr nach Ivalice",1,1,2,0
+21,"Der Mythos der vier Tierheiligen",1,1,2,0
+22,"Eden",1,1,2,0
+23,"YoRHa: Dark Apocalypse",1,1,2,0
+24,"Schlacht um Werlyt",1,1,2,0
+25,"Pandæmonium",1,1,2,0
+26,"Mythen Eorzeas",1,1,2,0
+27,"Aufträge der Arkasodara",2,1,5,0
+28,"Aufträge der Amalj'aa",2,1,4,0
+29,"Aufträge der Sylphen",2,1,4,0
+30,"Aufträge der Kobolde",2,1,4,0
+31,"Aufträge der Sahagin",2,1,4,0
+32,"Aufträge der Ixal",2,1,4,0
+33,"Aufträge der Vanu Vanu",2,1,4,0
+34,"Aufträge der Gnath",2,1,4,0
+35,"Aufträge der Mogrys",2,1,4,0
+36,"Aufträge der Kojin",2,1,4,0
+37,"Aufträge der Ananta",2,1,4,0
+38,"Aufträge der Namazuo",2,1,4,0
+39,"Aufträge der Pixies",2,1,4,0
+40,"Aufträge der Qitari",2,1,4,0
+41,"Aufträge der Zwerge",2,1,4,0
+42,"Szenario-Nebenaufträge",2,1,3,0
+43,"Aufträge La Noscea",3,1,3,0
+44,"Aufträge Finsterwald",3,1,3,0
+45,"Aufträge Thanalan",3,1,3,0
+46,"Aufträge Coerthas",3,1,3,0
+47,"Aufträge Mor Dhona",3,1,3,0
+48,"Aufträge Ishgard",3,1,3,0
+49,"Aufträge Abalathia",3,1,3,0
+50,"Aufträge Dravania",3,1,3,0
+51,"Aufträge Azys Lla",3,1,3,0
+52,"Aufträge Gyr Abania",3,1,3,0
+53,"Aufträge Othard",3,1,3,0
+54,"Aufträge Hingashi",3,1,3,0
+55,"Aufträge Seenland",3,1,3,0
+56,"Aufträge Kholusia",3,1,3,0
+57,"Aufträge Amh Araeng",3,1,3,0
+58,"Aufträge Il Mheg",3,1,3,0
+59,"Aufträge Rak'tika",3,1,3,0
+60,"Aufträge Tempest",3,1,3,4
+61,"Aufträge Sharlayan",3,1,3,0
+62,"Aufträge Thavnair",3,1,3,0
+63,"Aufträge Garlemald",3,1,3,0
+64,"Aufträge Mare Lamentorum",3,1,3,7
+65,"Aufträge Elpis",3,1,3,9
+66,"Aufträge Ultima Thule",3,1,3,8
+67,"Gildenaufträge der Krieger",2,1,6,0
+68,"Gildenaufträge der Magier",2,1,6,0
+69,"Gildenaufträge der Handwerker",2,1,6,0
+70,"Gildenaufträge der Sammler",2,1,6,0
+71,"Lieferaufträge der Manufaktur",2,1,6,0
+72,"Lieferaufträge der Magieakademie",2,1,6,0
+73,"Jobaufträge der Krieger",2,1,6,0
+74,"Jobaufträge der Magier",2,1,6,0
+75,"Rollenaufträge",2,1,6,0
+76,"Staatliche Gesellschaften",2,1,7,0
+77,"Saisonale Aufträge",2,1,7,0
+78,"Sonstige Aufträge",2,1,7,0
+79,"Gefechtserlasse",3,2,8,0
+80,"Minenarbeiter-Freibriefe",3,2,8,0
+81,"Gärtner-Freibriefe",3,2,8,0
+82,"Fischer-Freibriefe",3,2,8,0
+83,"Zimmerer-Freibriefe",3,2,8,0
+84,"Grobschmied-Freibriefe",3,2,8,0
+85,"Plattner-Freibriefe",3,2,8,0
+86,"Goldschmied-Freibriefe",3,2,8,0
+87,"Gerber-Freibriefe",3,2,8,0
+88,"Weber-Freibriefe",3,2,8,0
+89,"Alchemisten-Freibriefe",3,2,8,0
+90,"Gourmet-Freibriefe",3,2,8,0
+91,"Ishgarder Gefechtserlasse",3,2,8,0
+92,"Ishgarder Minenarbeiter-Freibriefe",3,2,8,0
+93,"Ishgarder Gärtner-Freibriefe",3,2,8,0
+94,"Ishgarder Fischer-Freibriefe",3,2,8,0
+95,"Ishgarder Zimmerer-Freibriefe",3,2,8,0
+96,"Ishgarder Grobschmied-Freibriefe",3,2,8,0
+97,"Ishgarder Plattner-Freibriefe",3,2,8,0
+98,"Ishgarder Goldschmied-Freibriefe",3,2,8,0
+99,"Ishgarder Gerber-Freibriefe",3,2,8,0
+100,"Ishgarder Weber-Freibriefe",3,2,8,0
+101,"Ishgarder Alchemisten-Freibriefe",3,2,8,0
+102,"Ishgarder Gourmet-Freibriefe",3,2,8,0
+103,"Fraktionserlasse",2,2,8,0
+104,"Staatserlasse",2,2,8,0
+105,"Dungeons",2,3,9,0
+106,"Missionen",2,3,9,0
+107,"Prüfungen",2,3,9,0
+108,"Andere",2,3,9,0
+109,"6. Ära des Lichts",2,4,7,0

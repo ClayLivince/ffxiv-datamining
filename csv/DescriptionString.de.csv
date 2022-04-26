@@ -1,0 +1,2050 @@
+﻿key,0
+#,Text
+int32,str
+0,""
+1,""
+2,""
+3,""
+4,""
+5,""
+6,""
+7,""
+8,""
+9,""
+10,""
+11,""
+12,""
+13,""
+14,""
+15,""
+16,""
+17,""
+18,""
+19,""
+20,""
+21,""
+22,""
+23,""
+24,""
+25,""
+26,""
+27,""
+28,""
+29,"Domanisches Mahjong für Anfänger"
+30,"1. Einführung"
+31,"Domanisches Mahjong ist ein Spiel für vier Spieler. Die folgende Einführung deckt die grundlegenden Regeln ab."
+32,"2. Was ist domanisches Mahjong?"
+33,"In domanischem Mahjong versuchen Spieler, als Erste eine vollständige Hand aus 14 Ziegeln zu bilden, wobei die erhaltenen Punkte von der Schnelligkeit und der Schwierigkeit der Hand abhängen.
+Spieler beginnen mit 13 Ziegeln und ziehen in jeder Runde einen neuen Ziegel. Anschließend müssen sie einen Ziegel ablegen; entweder den neuen Ziegel oder einen Ziegel aus ihrer Hand. Dann ist der Spieler rechts am Zug und der Ablauf wiederholt sich bis zum Ende der Hand.
+
+Der Spieler, der zuerst eine vollständige Hand gebildet hat, erhält Punkte. Es werden insgesamt acht Hände in einem kompletten Spiel und vier Hände in einem schnellen Spiel gespielt, und der Spieler mit den meisten Punkten gewinnt.
+Hier ist ein Beispiel für eine vollständige Hand:"
+34,"Die 14 Ziegel bilden <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>vier Gruppen aus 3 Ziegeln und ein Paar aus identischen Ziegeln<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Eine Gruppe aus Ziegeln wird „Figur“ genannt, und die verschiedenen Arten von Figuren werden in dieser Einführung erläutert. Die Kombination aus Figuren bestimmt die Schwierigkeit der Hand und die erhaltenen Punkte beim Sieg.
+
+"
+35,"3. Die Ziegel"
+36,"Mahjongziegel bestehen aus Farbziegeln und Bildziegeln.
+
+■ Farbziegel
+Es gibt drei Farben, von denen jede von 1 bis 9 durchnummerierte Ziegel hat.
+"
+37,"■ Bildziegel
+Es gibt zwei Arten von Bildziegeln: die vier Windziegel und die drei Drachenziegel. Anders als die Farbziegel haben diese keine bestimmte Reihenfolge und können daher keine Folgen bilden. Figuren können nur durch gleiche Ziegel gebildet werden."
+38,"Es gibt 34 verschiedene Ziegel und vier von jedem Ziegel, sodass insgesamt 136 vorhanden sind.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Spieler versuchen, vor allen anderen Spielern eine vollständige Hand aus 14 Ziegeln zu bilden und so viele Punkte wie möglich zu erhalten.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+"
+39,"4. Figuren bilden"
+40,"■ Folgen
+Farbziegel können Folgen wie 2, 3, 4 oder 4, 5, 6 bilden, solange alle Ziegel die gleiche Farbe haben. Folgen wie 8, 9, 1 oder 9, 1 ,2 sind jedoch nicht zulässig."
+41,"■ Drillinge
+Farbziegel und Bildziegel können zudem Drillinge aus identischen Ziegeln bilden."
+42,"Eine vollständige Hand besteht aus 14 Ziegeln und benötigt vier Figuren und ein Paar.
+
+※ Es gibt spezielle Kombinationen, auf die diese Regel nicht zutrifft, aber Anfänger sollten sich zunächst auf die grundlegenden Hände fokussieren.
+"
+43,"5. Spielablauf"
+44,"Jeder der vier Spieler beginnt mit 13 Ziegeln und der automatisch gewählte Spielleiter macht den ersten Zug.
+Dieser Spieler nimmt einen neuen Ziegel auf und wählt einen Ziegel zum Ablegen. Dies kann entweder der neue Ziegel sein, oder ein Ziegel aus der Hand des Spielers.
+Sobald dieser Spieler einen Ziegel abgelegt hat, ist der Spieler rechts von ihm am Zug. Dieser Vorgang wiederholt sich bis zum Ende der Hand."
+45,"Die Hand endet, wenn ein Spieler eine vollständige Hand ausruft. Die Hand endet auch, wenn alle Ziegel aufgenommen wurden, ohne dass ein Spieler eine vollständige Hand ausgerufen hat."
+46,"Beim Start einer neuen Hand wird der Spieler rechts vom Spielleiter zum neuen Spielleiter. Eine Runde besteht in einem kompletten Spiel aus acht Händen. Im Laufe einer Runde hat jeder Spieler also zweimal die Rolle des Spielleiters. In einem schnellen Spiel werden vier Hände gespielt und jeder Spieler ist entsprechend einmal Spielleiter. Der Spieler mit der höchsten Punktzahl am Ende der Runde ist der Gewinner.
+
+"
+47,"6. Punkte für eine vollständige Hand"
+48,"Jeder Spieler beginnt das Spiel mit 25.000 Punkten, die sich beim Ausrufen einer vollständigen Hand erhöhen. Allerdings können Punkte auch abgezogen werden, wenn ein anderer Spieler eine vollständige Hand ausruft.
+
+Eine vollständige Hand kann auf zwei Arten gebildet werden:
+"
+49,"1. Tsumo: Wenn ein Ziegel aufgenommen wird
+Wenn eine vollständige Hand mit einem vom Spieler aufgenommenem Ziegel gebildet wird, wird der Punktwert berechnet und jeder der anderen drei Spieler muss diese Punktekosten bezahlen.
+Wenn der Spielleiter eine vollständige Hand ausruft, erhöht sich der Punktwert um 50 %.
+Wenn der Spielleiter einen anderen Spieler bezahlen muss, muss er den doppelten Punktwert bezahlen."
+50,"2. Ron: Wenn ein anderer Spieler einen Ziegel ablegt
+Wenn ein Spieler einen Ziegel ablegt, mit dem ein anderer Spieler eine vollständige Hand bilden kann, muss nur der Spieler, der den Ziegel abgelegt hat, bezahlen.
+Wenn der Spielleiter auf diese Art eine vollständige Hand bildet, ist der Punktwert um 50 % erhöht. Wenn der Spielleiter den Ziegel abgelegt hat, wird jedoch nur die übliche Menge bezahlt."
+51,"Der Spielleiter hat den Vorteil, 50 % mehr Punkte für eine vollständige Hand zu bekommen.
+Zudem wird die Rolle des Spielleiters nicht an den nächsten Spieler weitergegeben, wenn der Spielleiter eine vollständige Hand ausruft, wodurch er die Gelegenheit erhält, noch mehr Punkte zu verdienen."
+52,"7. Yaku für eine vollständige Hand benötigt"
+53,"Da es bei domanischem Mahjong darum geht, so viele Punkte wie möglich zu machen, ist es wichtig, den Unterschied zwischen Händen mit niedrigen Punkten und solchen mit hohen Punkten zu kennen."
+54,"Der Wert einer Hand wird durch spezielle Kombinationen von Figuren<Indent/>- sogenannte Yaku<Indent/>- bestimmt. Der Wert eines jeden Yaku wird in Han gemessen, wobei 6 Han der höchste und 1 Han der niedrigste Wert sind. Je schwieriger ein Yaku zu bilden ist, desto mehr Han ist es wert."
+55,"Der Han-Wert einer Hand wird verwendet, um die erhaltenen Punkte zu berechnen.
+Punkte werden wie folgt vergeben:"
+56,"　1 Han       1.000 Punkte
+　2 Han       2.000 Punkte
+　3 Han       3.900 Punkte
+
+　4 Han       8.000 Punkte
+　5 Han       8.000 Punkte
+
+　6 Han       12.000 Punkte
+　7 Han       12.000 Punkte
+
+　8 Han       16.000 Punkte
+　9 Han       16.000 Punkte
+　10 Han     16.000 Punkte
+
+　11 Han     24.000 Punkte
+　12 Han     24.000 Punkte
+
+　>12 Han   32.000 Punkte"
+57,"In bestimmten Situationen kommen weitere Berechnungen hinzu, die die Punkte erhöhen können."
+58,"Da Yaku benötigt werden, um die verdienten Punkte zu berechnen, muss eine vollständige Hand mindestens ein Yaku enthalten.
+Obwohl eine vollständige Hand normalerweise vier Figuren und ein Paar erfordert, entsteht dadurch alleine keine vollständige Hand.
+
+"
+59,"8. Grundlegende Yaku"
+60,"Es gibt viele Arten von Yaku, doch wir empfehlen zunächst einmal diese grundlegenden Yaku zu lernen:"
+61,"■ Nur Grundziegel
+Nur Farbziegel von 2 bis 8 werden verwendet.
+Die Hand darf keine Bildziegel oder Ziegel mit der Nummer 1 oder 9 enthalten."
+62,"■ Nur Pong
+Vier Drillinge und ein Paar."
+63,"■ Reine Reihe
+Enthält die Nummern 1 bis 9 in der gleichen Farbe. Wird als drei Drillinge aus 1, 2, 3, dann 4, 5, 6 und 7, 8, 9 gebildet."
+64,"■ Gemischtes Dreifach-Chi
+Die gleiche Folge (z. B. 1, 2, 3) in jeder Farbe."
+65,"■ Unreine Farbhand
+Nur Farbziegel einer Farbe plus Bildziegel."
+66,"■ Reine Farbhand
+Nur Farbziegel einer Farbe."
+67,"Eine vollständige Liste von Yaku sowie weitere nützliche Informationen finden sich auf dem Lodestone.
+
+"
+68,"9. Riichi-Yaku"
+69,"Eine spezielle Bedingung mit Namen Riichi erleichtert die Bildung von Yaku."
+70,"Die obige Hand benötigt lediglich eine 3 oder eine 6, um eine vollständige Hand zu bilden.
+Wenn einem Spieler nur noch ein Ziegel zu einer vollständigen Hand fehlt, kann er Riichi ausrufen."
+71,"Wenn die Hand bereit ist, um Riichi auszurufen, hat der Spieler die Gelegenheit dazu, bevor er einen Ziegel ablegt. Im Falle des oben gezeigten Beispiels: Wenn der ausrufende Spieler eine 3 oder eine 6 erhält (unabhängig davon, ob er den Ziegel selbst aufnimmt oder einen abgelegten von einem anderen Spieler erhält), kann er eine vollständige Hand ausrufen.
+Nachdem er Riichi ausgerufen hat, kann dieser Spieler keine aufgenommenen Ziegel mehr zu seiner Hand hinzufügen. Alle aufgenommenen Ziegel werden automatisch abgelegt, bis ein Ziegel erhalten wird, der die Hand vervollständigt. Eine vollständige Hand durch Riichi ist jedoch selbst auch ein Yaku. Daher braucht der Spieler keine anderen Yaku gebildet zu haben, um eine Hand zu vervollständigen."
+72,"■ Besonderheiten von Riichi
+　1.　Die Hand des Spielers wird automatisch ein Yaku, egal, ob sie andere Yaku enthält oder nicht.
+　2.　Die anderen Spieler wissen, dass dem Spieler, der Yaku ausruft, nur noch ein Ziegel zu einer vollständigen Hand fehlt.
+　3.　Der ausrufende Spieler kann keine Ziegel auf seiner Hand mehr austauschen.
+　4.　Der ausrufende Spieler muss 1.000 Punkte - angezeigt durch ein Punktestäbchen in der Mitte des Tisches - bezahlen, die an den Gewinner der Hand gehen.
+
+"
+73,"10. Yaku-Ziegel"
+74,"Die Bildziegel bieten eine weitere Möglichkeit, um Yaku zu bilden."
+75,"Ein Drilling aus einem dieser drei Ziegel bildet ein Yaku."
+76,"Auf ähnliche Weise kann ein Yaku mit den Windziegeln gebildet werden, allerdings gibt es hier bestimmte Bedingungen."
+77,"■ Rundenspezifische Bedingungen
+Eine Partie domanischen Mahjongs ist in acht Hände unterteilt. Die erste Runde, in der jeder Spieler einmal die Rolle des Spielleiters übernimmt, wird „Osten“ genannt. In dieser Runde bildet ein Drilling aus Ostwindziegeln ein Yaku. In der zweiten Runde („Süden“) kann ein Yaku durch einen Drilling aus Südwindziegeln gebildet werden."
+78,"■ Sitzplatzspezifische Bedingungen
+Jedem Spieler ist ein Platzwind zugeordnet, der durch ihren Sitzplatz relativ zum Spielleiter bestimmt ist.
+
+　Spielleiter = Osten
+　Rechts vom Spielleiter = Süden
+　Gegenüber vom Spielleiter = Westen
+　Links vom Spielleiter = Norden
+
+Der Platzwind jedes Spielers ändert sich entgegen des Uhrzeigersinns in dieser Reihenfolge: Osten, Süden, Westen, Norden. (Diese Anordnung unterscheidet sich von der auf einem normalen Kompass.) Ein Drilling aus Windziegeln des aktuellen Platzwindes bildet ein Yaku.
+Der Platzwind rotiert zusammen mit der Rolle des Spielleiters, und Spieler haben die Möglichkeit, ein einfaches Yaku zu bilden, indem sie ihren Platzwind im Auge behalten."
+79,"11. Pong und Chi"
+80,"Es ist schwierig, allein durch das Aufnehmen von Ziegeln eine vollständige Hand zu bilden. Allerdings können die von anderen Spielern abgelegten Ziegel durch das Ausrufen von Pong und Chi erhalten werden."
+81,"■ Pong
+Wenn du ein Paar aus identischen Ziegeln hast und ein anderer Spieler einen Ziegel ablegt, mit dem du einen Drilling bilden kannst, kannst du Pong ausrufen, um diesen Ziegel zu erhalten."
+82,"■ Chi
+Durch das Ausrufen von Chi kannst du einen von einem anderen Spieler abgelegten Farbziegel erhalten, um eine Folge zu bilden. Allerdings kann dies nur bei Spielern erfolgen, deren Zug vor deinem eigenen kommt."
+83,"Pong und Chi ermöglichen es dir, schneller eine vollständige Hand zu bilden, jedoch gibt es ein paar Nachteile dabei."
+84,"■ 1. Nachteil: Das Aufdecken deiner Hand
+Wenn du Pong oder Chi ausrufst, um einen Drilling zu bilden, wird dies den anderen Spielern offenbar. Zudem kannst du diese Ziegel nicht mehr für andere Figuren verwenden.
+Da die Ziegel mit dem Drilling fortan fest verbunden sind, entgehen dir mitunter Möglichkeiten, bessere Hände zu bilden."
+85,"■ 2. Nachteil: Das Verhindern von Riichi
+Nachdem du Pong oder Chi ausgerufen hast, kannst du kein Riichi mehr ausrufen.
+Da du kein Riichi-Yaku mehr bilden kannst, musst du einen Weg finden, ein anderes Yaku zu bilden. Zudem gibt es bestimmte Yaku, die voraussetzen, dass du kein Pong oder Chi ausgerufen hast, sodass auch diese nicht länger verfügbar sind. In einigen Fällen begrenzen Pong und Chi deine Möglichkeiten, Punkte zu erzielen."
+86,"12. Glücksziegelboni"
+87,"In jeder Hand werden bestimmte Ziegel als Glücksziegel festgelegt und gewähren Bonus-Han, wenn sie Teil einer vollständigen Hand sind. Glücksziegel gewähren zwar Han-Boni, sind aber selbst keine Yaku. Daher muss ein Yaku gebildet werden, um von Glücksziegeln zu profitieren."
+88,"■ Glücksziegel
+Zu Beginn jeder Hand wird zufällig ein Glücksziegel ausgewählt und fortwährend angezeigt."
+89,"■ Aka-Glücksziegel
+Jede Farbe enthält vier Ziegel mit der Nummer 5. Einer dieser vier ist rot und wird Aka-Glücksziegel genannt. Durch die Verwendung eines Aka-Glücksziegels erhältst du einen Bonus-Han für eine vollständige Hand. Es gibt insgesamt drei Aka-Glücksziegel, einen für jede Farbe."
+90,"■ Ura-Glücksziegel
+Wenn eine vollständige Hand nach einem Riichi ausgerufen wird, wird der Ura-Glücksziegel aufgedeckt. Dieser wird erst gezeigt, nachdem eine vollständige Hand ausgerufen wurde und ist daher nur ein Überraschungsbonus. Allerdings bietet er einen zusätzlichen Anreiz dazu, Riichi auszurufen.
+
+"
+91,"13. Kang"
+92,"Da es von jedem Ziegel vier gibt, ist es möglich, alle vier zu sammeln. Dies wird Kang genannt."
+93,"Ein Kang ist für sich genommen kein Yaku, aber es gewährt zusätzliche Boni bei der Berechnung der erhaltenen Punkte für eine vollständige Hand. Ein Kang erhöht zudem die Anzahl der Glücksziegel, durch die weitere Vorteile entstehen können.
+Ähnlich wie bei Pong und Chi werden die Ziegel beim Ausrufen von Kang geblockt und können nicht mehr ausgetauscht oder in anderen Figuren verwendet werden."
+94,"14. Spielerisch Lernen"
+95,"Domanisches Mahjong ist ein kompliziertes Spiel, selbst dann, wenn man alle Regeln gelernt hat. Allerdings werden viele der Aktionen, die Spieler sonst selbst über<SoftHyphen/>nehmen, hier automatisch durchgeführt, also versuch doch einfach mal dein Glück, ohne dir zu viele Gedanken über weniger wichtige Details zu machen. Der Anfängertisch ist ein guter Startpunkt dafür.
+
+Sobald du die Grundlagen verinnerlicht hast, kannst du auch andere Abenteurer über die Inhaltssuche herausfordern.
+
+Detaillierte Erklärungen findest du auch unter „Spielanleitung“ auf dem Lodestone."
+96,"Mahjong spielen"
+97,"Gegen NPCs spielen"
+98,"Im Gold Saucer werden Spiele gegen Anfänger, Fortgeschrittene und Profis angeboten."
+99,"Es ist auch möglich, während einer laufenden Inhaltssuche gegen diese Gegner anzutreten. Allerdings wird das Spiel abgebrochen, wenn über die Inhaltssuche eine Gruppe gefunden und die Teilnahme bestätigt wird."
+100,"Gegen andere Spieler spielen"
+101,"Du kannst andere Spieler über die Kategorie „Gold Saucer“ in der Inhaltssuche zu einer Partie herausfordern.
+
+■ Anfänger-Mahjong (Gewertet)
+Diese Art von Partie ist unmittelbar verfügbar. Nachdem du dich alleine registriert hast, werden weitere Mitspieler gesucht.
+Dein Abschneiden beeinflusst deine Wertung.
+　1.: +30 Punkte　2.: +15 Punkte　3.: Keine Änderung
+　4.: 2. Kyu oder höher, -10 Punkte
+Je höher dein Rang ist, desto mehr Punkte verlierst du, wenn du Letzter wirst.
+
+■ Fortgeschrittenen-Mahjong (Gewertet)
+Nur Spieler mit dem Rang 1. Dan oder höher können sich registrieren. Nachdem du dich alleine registriert hast, werden weitere Mitspieler gesucht.
+Wertungen ändern sich wie folgt:
+　1.: +60 Punkte　2.: +15 Punkte　3.: Keine Änderung
+　4.: -30 Punkte
+Je höher dein Rang ist, desto mehr Punkte verlierst du, wenn du Letzter wirst.
+
+■ 4-Spieler-Mahjong (Kuitan aktiviert)
+Du musst eine Gruppe aus vier Spielern bilden, um die Partie zu beginnen. Wertungen und Ränge werden nicht beeinflusst.
+※ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Bei der Kuitan-Regel können Yaku vom Typ „Nur Grundziegel“ benutzt werden, nachdem Pong oder Chi ausgerufen wurden.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+■ 4-Spieler-Mahjong (Kuitan deaktiviert)
+Du musst eine Gruppe aus vier Spielern bilden, um die Partie zu beginnen. Wertungen und Ränge werden nicht beeinflusst.
+※ <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Bei deaktivierter Kuitan-Regel können Yaku vom Typ „Nur Grundziegel“ nicht benutzt werden, nachdem Pong oder Chi ausgerufen wurden.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+"
+102,"■ Regeln
+・ Jeder Spieler hat eine begrenzte Zeit für seinen Zug. Wenn ein Spieler innerhalb des Zeitlimits keine Aktion durchführt, wird automatisch ein Ziegel abgelegt. Bei 4-Spieler-Mahjong (Kuitan aktiviert/deaktiviert) gibt es kein Zeitlimit.
+・ Es gibt ein Zeitlimit für die Periode zwischen Händen. Wenn eine Hand mehr als 80 Minuten dauert, ist die folgende Hand die letzte, die gespielt wird. Sobald diese Hand endet, ist die Partie vorbei, die finalen Platzierungen werden festgelegt und die Ergebnisse aufgezeichnet.
+・ Eine Partie dauert maximal 120 Minuten. Danach endet die Partie automatisch. Ergebnisse werden nicht aufgezeichnet.
+"
+103,"■ Chat
+・ Du kannst während einer 4-Spieler-Mahjong-Partie mit den anderen Spielern chatten.
+・ Der Chat kann über die Schaltfläche unten rechts im Bildschirm ein- und ausgeschaltet werden. Wenn du den Chat ausschaltest kannst du keine Nachrichten mehr senden und empfangen. Icons auf dem Bildschirm zeigen dir an, ob andere Spieler an dem Chat teilnehmen oder nicht.
+"
+104,"■ Wertung und Rang
+・ Partien, die über „Anfänger (gewertet)“ und „Fortgeschrittene (gewertet)“ gespielt werden, beeinflussen deine Wertung und deinen Rang.
+・ Deine Wertung startet bei 1.500 und erhöht oder verringert sich je nach deiner Platzierung in jeder Partie.
+・ In den niedrigeren Rängen kannst du nicht degradiert werden, aber sobald du höhere Ränge erreicht hast, besteht die Gefahr eines Abstiegs, wenn du schlecht abschneidest.
+・ Wertungen und Ränge werden nur anhand der Wertungen deiner Gegner und deiner Platzierung in der Partie berechnet.
+(Die Anzahl Punkte, mit der du eine Partie beendest, wird nicht miteinbezogen.)
+・ Deine Wertung und dein Rang für Mahjong können über das Gold Saucer-Menü eingesehen werden.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ Die Wertung und der Rang werden lokal gespeichert. Wenn du dich von einem anderen System aus einloggst, werden deine Wertung und dein Rang nicht korrekt angezeigt.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+105,"■ Eine Partie aufgeben
+・ Wenn Spieler sich während einer Partie Mahjong ausloggen, legen sie automatisch Ziegel ab, sobald sie am Zug sind. Wenn Spieler sich wieder einloggen, können sie ab dem nächsten Zug normal weiterspielen.
+・ Wenn Spieler eine Partie aufgeben, läuft sie ohne sie weiter und die Ziegel dieser Spieler werden automatisch abgelegt. Sie erhalten zudem die normalen Strafen für das Abbrechen eines Inhalts und können sich nicht für eine neue Partie Mahjong registrieren, bis die vorherige Partie endet.
+・ Wenn Spieler eine gewisse Zeit lang keine Eingaben tätigen, werden sie automatisch aus der Partie entfernt.
+
+"
+106,"Im Spielbildschirm zurechtfinden"
+107,"Das HUD verstehen"
+108,"1. Zeigt die 13 Ziegel deiner Hand. Wenn du einen Ziegel aufnimmst, wird er als 14. Ziegel rechts von deiner Hand angezeigt. Wähle einen Ziegel zum Ablegen aus, wenn du am Zug bist."
+109,"2. Wenn du Riichi, Tsumo, Ron, Pong, Chi oder Kang ausrufen kannst, erscheint eine entsprechende Anzeige. Im Falle von Pong, Chi und Kang kann diese Anzeige ignoriert werden.
+Schalte „Ausrufe anzeigen“ aus, um die Anzeige auszuschalten. Allerdings wird diese Option beim Start einer neuen Hand immer eingeschaltet.
+Mit der Option „Automatisch vollständige Hand ausrufen“ kannst du automatisch Tsumo und Ron ausrufen lassen. Diese Option ist beim Start standardmäßig ausgeschaltet."
+110,"3. Das Sternensysmbol zeigt an, welcher Spieler der Spielleiter ist. Es wird auch in der Mitte des Tisches angezeigt.
+Die Kompassrichtung unter dem Namen des jeweiligen Spielers ist dessen derzeitiger Rundenwind. Spieler können ein Yaku bilden, indem sie drei Windziegel sammeln, die zu ihrem Platzwind passen. Die Rolle des Spielleiters rotiert entgegen der Uhrzeigerrichtung von Osten nach Süden und dann nach Westen und Norden."
+111,"4. Eine Partie domanischen Mahjongs besteht aus acht Händen. Die ersten vier sind die Ostwindrunde und die letzten vier die Südwindrunde. Durch das Sammeln von drei Windteilen, die zum derzeitigen Rundenwind passen, kann ein Yaku gebildet werden."
+112,"5. Diese Stäbchen zeigen die Punkte an, die bei einem Unentschieden in die nächste Runde übertragen werden. Wenn ein Spieler Riichi ausruft, werden damit auch die 1.000 Punkte angezeigt, die der Spieler zahlen muss. Wenn ein Spieler eine Hand gewinnt, werden diese Punkte zu dessen Punktzahl addiert. Ein Stäbchen mit mehreren schwarzen Punkten ist 100 Punkte wert, und ein Stäbchen mit einem einzelnen roten Punkt ist 1.000 Punkte wert.
+Jedes Mal, wenn eine Hand wiederholt wird, erhöht sich ein spezieller Bonus, der als Honba bezeichnet wird, um 1. Dieser wird ebenfalls hier angezeigt. Wenn ein Spieler eine vollständige Hand gebildet hat, erhält er für jedes Honba zusätzlich 300 Punkte."
+113,"6. Zeigt den Glücksziegel für die derzeitige Hand an. Wenn die vollständige Hand eines Spielers einen mit dem Glücksziegel identischen Ziegel enthält, erhält der Spieler Bonus-Han, wodurch die verdienten Punkte erhöht werden."
+114,"7. Schaltflächen für verschiedene Einstellungen. Weitere Informationen findest du unter Hilfsfunktionen im Bereich Mahjong spielen.
+
+"
+115,"Hilfsfunktionen"
+116,"■ Gefährliche Ziegel anzeigen
+Wenn du einen Ziegel ablegst, besteht immer die Gefahr, dass ein Gegner diesen Ziegel für sich beansprucht, um seine Position zu verbessern oder gar die Hand zu gewinnen. Diese Markierungen zeigen Ziegel an, bei denen ein hohes Risiko besteht, dass ein Gegner sie für sich beansprucht.
+Bedenke, dass dieses Risiko auch bei Ziegeln ohne Markierungen besteht. Das Einschalten dieser Funktion kann dir jedoch dabei helfen, eine Niederlage abzuwenden."
+117,"Die gefährlichsten Ziegel haben diese Art von Markierung."
+118,"Auch bei Ziegeln mit diesen Markierungen solltest du vorsichtig sein."
+119,"■ Tipps
+Schalte diese Funktion ein, um Empfehlungen zu erhalten, welche Ziegel du ablegen und wann du Pong oder Chi ausrufen solltest und so weiter. Das Befolgen dieses Rates wird dich nicht immer zum Sieg führen, aber es kann trotzdem recht nützlich sein.
+
+"
+120,""
+121,"Stahlschwingen"
+122,"Grundlegendes"
+123,"Stahlschwingen ist ein umfangreicher PvP-Spielinhalt, bei dem sich bis zu 48 Spieler, aufgeteilt in zwei Teams - den Raben und den Falken -, im Wettkampf gegen<SoftHyphen/>über<SoftHyphen/>stehen.
+
+Ziel eines jeden Matches ist es, den Kern des gegnerischen Teams zu zerstören. Um dieses Ziel zu erreichen, müssen die Teams ihr Vorgehen koordinieren. Dabei können sie unter anderem riesige Kriegsmaschinen steuern oder den Marionetten des eigenen Teams Geleitschutz bieten, die automatisiert in den Kampf gegen den gegnerischen Kern ziehen."
+124,"■ Die Teams
+Jedes Team bildet eine Allianz aus 24 Spielern, die sich wiederum aus sechs Leichten Trupps zusammensetzt.
+
+Jedes Match ist auf 15 Minuten Spielzeit ausgelegt.
+
+■ Schneller Wiedereinstieg
+Sollte man in einem Match kampfunfähig werden, so wird man nach kurzer Wartezeit automatisch am Startpunkt des eigenen Teams wiederbelebt. Solange man sich nach dem Wiedereinstieg am Startpunkt aufhält, wird man durch den Status „Unverwundbar“ geschützt. Erst wenn man den Startpunkt verlässt, wird man wieder verwundbar.
+
+■ Reittiere
+Bei Stahlschwingen kann der Spieler wie auch im offenen Gelände auf seinem Reittier aufsitzen. Dies ist selbst im Kampf möglich.
+
+Da ein Spieler jedoch den Status „Lahm“ erleidet, wenn er während des Reitens von Gegnern getroffen wird, empfiehlt es sich gerade dann, ein wachsames Auge auf die Umgebung zu haben.
+
+■ Rückführung
+Man kann während eines Matches auch das Kommando Rückführung verwenden. Man wird dann automatisch zum Startpunkt des eigenen Teams teleportiert. In Stahlschwingen kann man auch im Kampf die Rückführung verwenden. Eine Re<SoftHyphen/>ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zeit für das Kommando gibt es nicht. Allerdings bricht der Zauber ab, wenn ein Spieler beim Ausführen getroffen wird.
+
+■ Belohnung
+Im Spielinhalt „Stahlschwingen“ kann man neben regulärer Routine natürlich auch PvP-Routine und Wolfsmarken sowie Allagische Steine erwerben.
+
+Bei einem Sieg winken außerdem besondere Errungenschaften und Reittiere."
+125,"Kerne und Türme"
+126,"In Stahlschwingen gewinnt dasjenige Team das Match, dem es als Erstes gelingt, den gegnerischen Kern zu zerstören.
+
+Sollte es keinem der beiden Teams gelingen, den gegnerischen Kern zu vernichten, so gewinnt das Team, das den meisten Schaden am Kern des Gegners verursacht hat.
+
+Falls die Kerne beider Teams keinen oder gleich viel Schaden genommen haben, wird die Anzahl der Türme verglichen. Das Team mit den meisten verbleibenden Türmen gewinnt dann die Partie.
+
+Wenn auch hier ein Gleichstand herrschen sollte, wird der Schaden verglichen, der an den Türmen verursacht wurde und das Team, das am meisten Schaden verursacht hat, wird zum Sieger erkoren."
+127,"■ Die Kerne
+Jedes Team verfügt über einen Kern, der am eigenen Startpunkt platziert ist. Ziel ist es, den eigenen Kern zu schützen und den des Gegners zu zerstören. 
+
+Die Kerne werden durch ein Magitek-Feld beschützt, das von den Türmen des eigenen Teams generiert wird. Solange die Türme stehen, kann der Kern keinen Schaden nehmen. Daher muss man zunächst die schützenden Türme des gegnerischen Teams zerstören, bevor man deren Kern Schaden zufügen kann."
+128,"■ Die Türme
+Jedem Team und Kern sind je zwei Türme zugeordnet. Zweck der Türme ist es, den Kern des jeweiligen Teams zu beschützen.
+
+Dazu generieren die Türme ein sogenanntes Magitek-Feld. Dieses Energiefeld dient dem eigenen Team auch als Rückzugsraum, falls es durch den Gegner in Bedrängnis gerät, denn es heilt nach und nach LP und reduziert den erlittenen Schaden.
+
+Gelingt es einem Team die gegnerischen Türme zu zerstören, erhalten alle Trupps der Allianz den Status Motivation."
+129,"■ Das Magitek-Feld
+Ein Magitek-Feld ist ein hochenergetisches Schutzfeld, das einen Kern beschützt. Seine Schutzwirkung ist abhängig von der Anzahl der verbliebenen Türme, die das Feld speisen.
+
+Falls beide Türme eines Feldes noch aktiv sind, ist deren Kern nicht nur unzerstörbar, es schädigt auch alle Feinde, die versuchen, sich dem Kern zu nähern. Für die Mitglieder des eigenen Teams ist dieser Effekt unschädlich, doch alle Gegner, die in seinen Wir<SoftHyphen/>kungs<SoftHyphen/>be<SoftHyphen/>reich kommen, erleiden schrittweise schweren Schaden.
+
+Wird einer der beiden Türme zerstört, schwächt sich dieser Effekt ab und der Kern kann Schaden nehmen. Außerdem erleiden Feinde im Bereich des Feldes keinen Schaden mehr. Fallen beide Türme, so erlischt auch das Magitek-Feld vollständig und der Kern ist den Angriffen der Gegner schutzlos ausgeliefert."
+130,"Kriegsmaschinen"
+131,"Kriegsmaschinen sind mächtige Waffen, die Spieler besteigen und auf dem Schlachtfeld steuern können. Es gibt drei unter<SoftHyphen/>schied<SoftHyphen/>liche Kriegsmaschinen, die alle ihre eigenen Vor- und Nachteile haben."
+132,"■ Chaser
+Diese hochmobile Kriegsmaschine zeichnet sich durch Kommandos aus, die besonders effektiv gegen andere Kriegsmaschinen und Spieler sind. Seine hohe Mobilität geht zu Lasten seiner Robustheit."
+133,"■ Unterdrücker
+Der Unterdrücker ist eine wahre Belagerungswaffe und besonders effektiv gegen Türme und Kerne. Allerdings ist er auch sehr schwerfällig und im Kampf gegen Spieler und andere Kriegswaffen hoffnungslos unterlegen."
+134,"■ Brutalus
+Der Brutalus ist die stärkste Kriegsmaschine auf dem Schlachtfeld. Ob gegen Spieler, andere Kriegsmaschinen oder Bauwerke, der Brutalus weiß immer zu überzeugen. Die Macht, das Schlachtenglück zu wenden, kommt zu einem sehr hohen Preis für das Besteigen dieses Kolosses."
+135,"■ Bedingungen zur Verwendung von Kriegsmaschinen
+
+Für alle Kriegsmaschinen gilt, dass nur eine pro Trupp gleichzeitig verwendet werden kann.
+
+Von den Unterdrückern können maximal zwei pro Team gleichzeitig im Einsatz sein.
+
+Der Brutalus kann erst eingesetzt werden, wenn das Team einen Turm verloren hat und insgesamt können nur so viele Brutalus verwendet werden, wie Türme zerstört wurden.
+
+■ Besondere Eigenschaften von Kriegsmaschinen
+
+Wenn ein Spieler in eine Kriegsmaschine einsteigt, werden die eigenen LP durch die LP der Kriegsmaschine ersetzt. Während man eine Kriegsmaschine steuert, kann man von seinen Verbündeten nicht geheilt werden und die LP der Kriegsmaschine regenerieren sich auch nicht.
+
+Außerdem verfügen Kriegsmaschinen über eine „EP“ genannte Spezialressource, die verbraucht wird, wenn ihre Kommandos angewendet werden. Wie auch die LP regenerieren sich die EP der Kriegsmaschine nicht automatisch. Allerdings verfügen alle Kriegsmaschinen über das Kommando Auftanken, mit der EP wieder<SoftHyphen/>her<SoftHyphen/>gestellt werden können. Bei der Anwendung des Kommandos Auftanken wird Erdseim-Energie verbraucht, die vom Trupp gesammelt wurde.
+
+■ Erdseim
+Um eine Kriegsmaschine aktivieren zu können, wird eine bestimmte Menge an Erdseim benötigt. Erdseim kann man entweder in Behältern auf dem Schlachtfeld finden oder aus besiegten Marionetten gewinnen. Jeder Trupp kann maximal 100 Einheiten Erdseim-Energie sammeln. Ein Trupp teilt sich dabei die gesammelte Erdseim-Energie. Es ist daher ratsam, sich vor dem Besteigen einer Kriegsmaschine mit seinem Trupp abzusprechen."
+136,"■ Kriegsmaschinen-Konsole
+Wenn genügend Erdseim gesammelt wurde, kann man an der Kriegsmaschinen-Konsole, die sich in der Nähe des Startpunkts befindet, den gewünschten Typ von Kriegsmaschine wählen.
+Außerdem kann man über die Konsole auch weitere Informationen zu den verschiedenen Kriegsmaschinen erhalten."
+137,"Marionetten"
+138,"Marionetten sind selbständig agierende, kleinformatige Kriegsmaschinen, die das eigene Team dabei unterstützen, die Türme und den Kern des gegnerischen Teams zu zerstören.
+
+Die Marionetten werden in regelmäßigen Abständen am eigenen Kern produziert und laufen dabei einen vorprogrammierten Pfad zum Gegner ab. Begegnen sie auf dem Weg zu ihrem Ziel gegnerischen Marionetten, bekämpfen sie diese automatisch bis entweder sie selbst oder der Gegner vernichtet ist.
+
+Schafft es eine Marionette bis zu einem Turm oder einem Kern, zerstört sie sich selbst und richtet dabei massiven Schaden an den Bauwerken an.
+
+Marionetten ignorieren Spieler vollständig und greifen nur andere Marionetten oder Bauwerke an."
+139,"■ Wikinger-Marionette
+Eine Marionette, die auf den physischen Nahkampf spezialisiert ist."
+140,"■ Magier-Marionette
+Eine Marionette, die auf den magischen Fernkampf spezialisiert ist."
+141,"■ Besondere Eigenschaften von Marionetten
+
+Marionetten verfügen über den gleichnamigen Status Marionette und einen Stapelzähler. Wenn die Stapelzahl auf Null fällt, verschwindet die Marionette automatisch. Marionetten können prinzipiell geheilt werden, allerdings ist der Effekt von Heilungsmagie vermindert.
+
+■ Marionetten und Erdseim
+
+Durch das Zerstören von Marionetten kann man Erdseim sammeln, allerdings wird die gewonnene Menge anhand des verursachten Schadens der beteiligten Trupps aufgeteilt. Der Anteil des Schadens, den Marionetten untereinander verursacht haben, wird dabei nicht berücksichtigt."
+142,"Dampfkanonen"
+143,"Dampfkanonen sind festinstallierte Geschütze, die in der Nähe der Kerne der jeweiligen Teams platziert sind. Sie können von Spielern bemannt werden und sind schlagkräftige Verteidigungswaffen, die den Ansturm der gegnerischen Allianz verlangsamen oder gar aufhalten können."
+144,"Motivation"
+145,"Durch das Besiegen von gegnerischen Spielern erhält der eigene Trupp den Status Motivation. Dieser Status kann bis zu 20 Mal gestapelt werden und erhöht den verursachten Schaden sowie die Wirkung von Heilungsmagie.
+
+Wenn die maximale Stapelzahl erreicht wird, wechselt der Status zu „Maximale Motivation“, wodurch der Effekt des Status noch einmal verstärkt wird."
+146,"■ Motivation und Stapelzahl
+
+Die Anzahl der erhaltenen Motivationsstapel orientiert sich an der Anzahl der Motivationsstapel, über die der Gegner verfügte, als er besiegt wurde.
+
+0-9 Stapel: +1 Motivations-Stapel
+10-19 Stapel: +2 Motivations-Stapel
+Maximale Motivation: +3 Motivations-Stapel
+"
+147,""
+148,""
+149,""
+150,""
+151,""
+152,"Die Verborgene Schlucht"
+153,"Kartenbeschreibung"
+154,"Die Minen, welche die Amajina Bergbau AG unter großem Aufwand in die Verborgene Schlucht getrieben hat, erwiesen sich als finanzielles Desaster. Lange Zeit lag das Areal brach, doch jetzt haben die Aben<SoftHyphen/>teurer<SoftHyphen/>gilden es als Übungsplatz entdeckt.
+
+Die Besonderheit dieser Karte ist der Erdseim-Zug, ein Magitek-Apparat aus den Werkstätten der bastelfreudigen Goblins, der automatisch Nachschub an eine Verladestation liefert. Das Team, das diese Verladestation unter seine Kontrolle bringt, erhält einen schlachtentscheidenden Vorteil."
+155,"Der Erdseim-Zug"
+156,"Der Erdseim-Zug bewegt sich rasant auf den vorgesehenen Gleisen, die das Schlachtfeld zentral von Norden nach Süden durchqueren, bis er die Verladestation erreicht. Der Zug ist schwer beladen mit Hilfsgütern und das Team, das die Verladestation kontrolliert, wird regelmäßig mit wertvollem Nachschub beliefert.
+
+■ Erdseim-Zug in der Fahrt
+
+Es sollte nicht verwundern, dass ein gewollter oder ungewollter Kontakt mit dem Erdseim-Zug in voller Fahrt ungesund für Spieler ist und zur sofortigen Kampfunfähigkeit führt. Zum Glück informieren die installierten Warnsignale an der Bahnstrecke rechtzeitig über eine bevorstehende Durchfahrt. Man sollte sie besser beachten ..."
+157,"■ Verladestation
+In der Verladestation hält der Erdseim-Zug, um sein Frachtgut zu entladen. Sie kann nur von Spielern betreten werden. Der Zutritt mit Kriegsmaschinen ist nicht möglich.
+
+Die Verladestation hat zwei Zustände: „besetzt“ und „entlädt“.
+
+■ Besetzen der Verladestation
+
+Wenn der Erdseim-Zug in der Verladestation hält, wird eine Verladezone generiert. Halten sich Spieler in der Verladezone auf, wird automatisch eine Radialleiste aufgeladen. Ist sie aufgefüllt, wechselt der Status der Station zu „besetzt“.
+
+Die Ge<SoftHyphen/>schwindig<SoftHyphen/>keit, mit der er sich füllt, richtet sich dabei nach der Anzahl der Spieler der jeweiligen Teams, die sich in der Verladezone aufhalten. Es werden maximal vier Spieler pro Team für den Entladevorgang berücksichtigt. Halten sich mehr als vier Spieler des eigenen Teams dort auf, wird deren Beitrag nicht gezählt.
+
+Spieler, die sich in der Verladezone aufhalten, erhalten außerdem den Status „Fest entschlossen“ und ihr ausgeteilter Schaden wird erheblich gesteigert. Man sollte diesen Status nutzen, um dafür zu sorgen, dass sich nur Spieler des eigenen Teams in der Verladezone aufhalten, um die Verladestation effektiv besetzen zu können.
+
+■ Entladen des Erdseim-Zugs
+
+Wenn die Verladestation schließlich von einem Team besetzt wurde, beginnt ein weiterer Ladebalken sich zu füllen, der den Fortschritt des Entladevorgangs darstellt. Solange das eigene Team in Überzahl ist, wird der Balken weiter aufgeladen. Sollte jedoch die Anzahl der Spieler beider Teams im Verladebereich gleich sein, so wird der Entladevorgang gestoppt. Wenn der Ladebalken des eigenen Teams vollständig gefüllt wurde, erhält man den Nachschub vom Erdseim-Zug.
+
+Anschließend verlässt der Erdseim-Zug die Station wieder, um neue Güter aufzunehmen. Der Zug kehrt jedoch nach einer gewissen Zeit wieder zurück zur Verladestation. Dabei werden alle Radialleisten und Ladebalken zurückgesetzt."
+158,"■ Nachschub
+Insgesamt gibt es vier Arten von Nachschub-Materialien, die sich je nach Matchzeit ändern.
+
+In der ersten Hälfte des Matches werden Haupt-Erdseim-Tanks, Gobbrühe und Gobmaschinen geliefert. In der zweiten Hälfte des Matches werden aus<SoftHyphen/>schließ<SoftHyphen/>lich Gobkisten transportiert.
+
+Unabhängig von der Art von Nachschub wird dem gesamten Team außerdem Motivation gewährt.
+
+■ Haupt-Erdseim-Tank
+Gewährt 50 Einheiten Erdseim für alle Mitglieder des Teams.
+
+■ Gobbrühe
+Füllt den Adrenalinbalken des gesamten Teams auf.
+
+■ Gobmaschinen
+In der Nähe des eigenen Kerns taucht auf dem nördlichen und auf dem südlichen Flügel je eine mächtige Gobmaschine auf, die stärker als gewöhnliche Marionetten ist und äußerst effektiv Türme und Kerne zertrümmert.
+
+■ Gobkisten
+Gobkisten sind der ultimative Nachschub, denn sie vereinen die Effekte des Haupt-Erdseim-Tanks, der Gobbrühe und der Gobmaschinen in einem Paket."
+159,"Der Goblin-Söldner"
+160,"Der Goblin-Söldner taucht kurz nach Matchbeginn zufällig entweder im nördlichen oder südlichen Söldnerlager auf. Es handelt sich dabei zunächst um einen neutralen Charakter, der alle Spieler in seine Nähe gleichermaßen angreift. Doch man kann ihn mit schlagkräftigen Argumenten davon überzeugen, sich mit dem eigenen Team zu verbünden."
+161,"■ Goblin-Söldner-Allianz
+
+Sobald man den Goblin-Söldner erfolgreich an sein Team gebunden hat, startet dieser (wie auch die Marionetten) am eigenen Kern und marschiert zielstrebig auf gegnerische Türme bzw. den feindlichen Kern zu.
+
+Um den Söldner für das eigene Team zu gewinnen, muss man dem neutralen Goblin-Söldner in einer Art Tauziehen mehr Schaden zufügen, als das gegnerische Team. Falls die LP des Goblin-Söldners vorher auf Null reduziert werden, erhält das Team den Zuschlag, das dabei den meisten Schaden verursacht hat.
+
+■ Söldner-Aufmarsch
+
+Nachdem erfolgreich eine Allianz mit einem Söldnerlager geschlossen wurde, beginnt der Söldner vom eigenen Kern aus seinen Marsch auf die Befestigungen des Feindes. Hat man mit dem Söldnerlager im Norden eine Allianz, so wählt der Goblin-Söldner den nördlichen Flügel, hat man einen Allianz mit dem Lager im Süden, so wählt er den Pfad über den südlichen Flügel.
+
+Der Goblin-Söldner erhält den Status „Vertraglich gebunden“, der mit einem Zähler versehen ist. Erreicht der Zähler Null, ist die Allianz nichtig und der Söldner verlässt unmotiviert seinen Posten.
+
+Nach einer kurzen Weile taucht der Goblin-Söldner jedoch wieder als neutraler Charakter in einem der beiden Söldnerlager auf und kann erneut in eine Allianz berufen werden."
+162,"Unterkünfte"
+163,"1. Wohngebiete"
+164,"In Wohngebieten stehen Grundstücke, Unterkünfte und Wohnungen zum Kauf, um sich ein eigenes Zuhause zu schaffen. Alles beginnt mit dem Kauf eines Grundstücks, auf dem dann ein Haus gebaut werden kann. Sowohl Land als auch Wohnungen stehen allen gleichermaßen zur Verfügung, ganz egal, welcher Staatlichen Ge<SoftHyphen/>sell<SoftHyphen/>schaft man angehört.
+
+■ Verfügbare Wohngebiete
+
+・ Dorf des Nebels in Limsa Lominsa
+・ Lavendelbeete in Gridania
+・ Kelchkuppe in Ul'dah
+・ Empyreum in Ishgard
+・ Shirogane in Kugane
+
+"
+165,"2. Grundstücke"
+166,"Um sich ein eigenes Haus zu bauen, muss man vorher ein Grundstück kaufen. Die Größe des Grundstücks bestimmt auch die spätere Größe des Hauses<Indent/>- klein, mittelgroß oder groß. Auch kleine Häuser passen nicht auf ein großes Grundstück, Vorausplanen ist also oberstes Gebot!
+
+■ Häusergrößen und deren maximale Zahl an Einrichtungsgegenständen
+
+・ Kleines Haus mit Platz für 200 Möbel und 20 Gartenmöbel
+・ Mittelgroßes Haus mit Platz für 300 Möbel und 30 Gartenmöbel
+・ Großes Haus mit Platz für 400 Möbel und 40 Gartenmöbel
+
+"
+167,"3. Grundstücke kaufen und aufgeben"
+168,"■ Ein Grundstück kaufen
+
+Am Eingang zu jedem Grundstück steht eine Informationstafel, auf der der momentane Verkaufspreis eingesehen werden kann. Bezahlt wird ein Grundstück ganz regulär mit Gil.
+
+Jeder Bezirk unterliegt einem von zwei Kaufsystemen: der reguläre Verkauf und der Grundstückskauf per Losverfahren. Welchem dieser Systeme ein Bezirk momentan unterliegt, kann den Informationstafeln vor den individuellen Grundstücken entnommen werden.
+
+■ Ein Grundstück aufgeben
+
+Unter „Unterkünfte“ (Hauptmenü → Soziales) kann ein erworbenes Grundstück auch wieder aufgegeben werden. Der Kaufpreis wird dabei allerdings nicht rückerstattet.
+
+・ Voraus<SoftHyphen/>setzungen für die Aufgabe eines Grundstücks
+
+1. Alle Möbel und Gartenmöbel wurden entfernt.
+2. Alle Möbel und Gartenmöbel wurden aus dem Lagerhaus entfernt.
+3. Das Gebäude wurde niedergerissen.
+
+"
+169,"4. Ungenutzte Grundstücke und Zwangsräumung"
+170,"Wenn ein Grundstück von seinem Besitzer eine bestimmte Zeit lang nicht besucht wird, kommt es zu einer Zwangsräumung. Das bedeutet, dass es automatisch aufgegeben und wieder zum Verkauf gestellt wird.
+
+■ Voraus<SoftHyphen/>setzungen für eine Zwangsräumung
+
+1. Wenn eine Unterkunft 30 Tage (Erdenzeit) lang nicht von ihren Besitzern betreten wird, beginnt die Vorbereitung der Zwangsräumung.
+2. Wurde die Unterkunft nach insgesamt 45 Tagen (Erdenzeit) immer noch nicht betreten, wird die Zwangsräumung durchgeführt.
+
+Betritt der Besitzer die Unterkunft vor der tatsächlichen Zwangsräumung, wird der Prozess abgebrochen und die Unterkunft bleibt bestehen.
+
+※ Bei der Unterkunft einer Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft gelten in diesem Fall all ihre Mitglieder gleichermaßen als Besitzer, aber bei persönlichen Unterkünften nur der Charakter, dem die Unterkunft tatsächlich gehört.
+
+■ Nach einer Zwangsräumung
+
+Wird eine Zwangsräumung vollstreckt, kann beim Unterkunftsbeamten innerhalb der nächsten 35 Tage (Erdenzeit) ein Teil des Grundstückspreises und des Mobiliars reklamiert werden.
+
+・ Wiederverwendbares und Reklamierbares
+- 80<Indent/>% des Grundstückspreises
+- Ein Teil der Bauelemente, Ausstattung und des Zimmer- und Gartenmobiliars
+
+・ Zur Reklamation befugte Charaktere
+
+- Mitglieder einer Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft, die das Recht „Grundstück kaufen/zurückgeben“ haben
+- Der Besitzer der privaten Unterkunft
+
+"
+171,"5. Ein Haus bauen"
+172,"Um auf einem leeren Grundstück ein Haus zu bauen, wird eine Baugenehmigung benötigt. Eine solche Genehmigung kommt in diversen Ausführungen und bestimmt nicht nur die Größe des Hauses, sondern auch in welchem Wohngebiet es gebaut werden darf. Stimmt die Größe oder das Gebiet nicht mit dem gekauften Grundstück überein, kann mit der Baugenehmigung auch kein Haus gebaut werden.
+Beim Kauf der Baugenehmigung ist also Vorsicht geboten<Indent/>- doch sobald man in Besitz einer passenden Genehmigung ist, kann man über „Unterkünfte“ (Hauptmenü → Soziales) ein Gebäude errichten.
+
+"
+173,"6. Zimmer- und Gartenobjekte"
+174,"Das Mobiliar ist in die Kategorien Zimmer- und Gartenobjekte aufgeteilt. Wie der Name bereits verrät, können Zimmerobjekte nur im Haus und Gartenobjekte nur im Garten platziert werden.
+Hat man Mobiliar im Inventar, kann man es über „Unterkünfte“ (Hauptmenü → Soziales) nach Herzenslust aufstellen, solange man sich in der Unterkunft selbst oder im Garten befindet. Einmal aufgestellt, können die Gegenstände weder an andere Spieler weitergegeben noch auf dem Markt angeboten werden. Bei einer Zwangsräumung werden alle platzierten Gegenstände automatisch gelöscht.
+
+"
+175,"7. Bauelemente"
+176,"Außer Mobiliar kann die eigene Unterkunft auch mit Bauelementen individualisiert werden. Diese findet man unter „Bauelemente ändern“ im Menüpunkt „Unterkünfte“ (Hauptmenü → Soziales).
+
+■ Innere Bauelemente
+・ Innenwand
+・ Boden
+・ Deckenleuchte
+
+■ Äußere Bauelemente
+・ Dach
+・ Außenwand
+・ Fenster
+・ Tür
+・ Dachdekoration
+・ Fassadendekoration
+・ Tafel
+・ Zaun
+
+Bereits installierte Bauelemente werden wieder ins eigene Inventar gelegt, sobald man sie mit Alternativen überschreibt. Einmal installiert, können die Gegenstände weder an andere Spieler weitergegeben noch auf dem Markt angeboten werden.
+
+"
+177,"8. Die Ge<SoftHyphen/>sell<SoftHyphen/>schaftswerkstätte"
+178,"■ Eine Werkstätte einrichten
+
+In der Unterkunft einer Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft kann eine sogenannte Ge<SoftHyphen/>sell<SoftHyphen/>schaftswerkstätte eingerichtet werden."
+179,"In ihr werden die Ge<SoftHyphen/>sell<SoftHyphen/>schaftsprojekte einer Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft ausgeführt, aber auch Luftschiffe und Tauchboote gebaut, die daraufhin Erkundungen in unentdeckte Gebiete unternehmen können.
+Der Bau einer Ge<SoftHyphen/>sell<SoftHyphen/>schaftswerkstätte kostet allerdings zusätzliche Gil, die nicht im Grundstückspreis oder der Baugenehmigung enthalten waren. Ist die Werkstätte einmal eingerichtet, gelangst du über den „Eingang zu anderen Zimmern“ im Inneren des Gebäudes dorthin.
+
+
+■ Die Ge<SoftHyphen/>sell<SoftHyphen/>schaftswerkstätte entfernen
+
+Wird die Ge<SoftHyphen/>sell<SoftHyphen/>schaftswerkstätte nicht mehr gebraucht, kann sie ohne Weiteres entfernt werden. Allerdings werden dabei auch alle Aufzeichnungen über dort ausgeführte Projekte verworfen.
+
+・ Vorgang des Entfernens der Werkstätte
+- Alle Luftschiff- und Tauchboot-Expeditionen müssen demontiert sein.
+- Die Gebühr für den Bau der Werkstätte wird nicht rückerstattet.
+- Der Fortschritt aller Ge<SoftHyphen/>sell<SoftHyphen/>schaftsprojekte wird zurückgesetzt.
+
+"
+180,"9. Persönliche Zimmer"
+181,"■ Persönliche Zimmer
+
+In der Unterkunft einer Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft stehen allen Mitgliedern persönliche Zimmer zur Verfügung, die gegen eine Gilgebühr erworben werden können. Sie sind über den „Eingang zu anderen Zimmern“ im Inneren des Gebäudes jederzeit zugänglich.
+
+・ Voraus<SoftHyphen/>setzungen für den Kauf eines privaten Zimmers
+
+1. Mit einer Klasse muss Stufe 50 erreicht sein.
+2. In der Staatlichen Ge<SoftHyphen/>sell<SoftHyphen/>schaft muss mindestens der Rang eines Zweiten Sturmbootsmanns, Zweiten Schlangenpriesters be<SoftHyphen/>ziehungs<SoftHyphen/>weise Zweiten Legionsfähnrichs erreicht sein.
+
+・ Voraus<SoftHyphen/>setzungen für die Aufgabe eines privaten Zimmers
+
+Verlässt ein Mitglied die Freie Ge<SoftHyphen/>sell<SoftHyphen/>schaft, wird das entsprechende Zimmer automatisch geräumt. Wird solch eine Räumung vollstreckt, kann beim Unterkunftsbeamten innerhalb der nächsten 35 Tage (Erdenzeit) ein Teil des Grundstückspreises und des Mobiliars reklamiert werden.
+
+・ Wiederverwendbares und Reklamierbares
+
+- Ein Teil des Zimmer- und Gartenmobiliars
+
+・ Zur Reklamation befugte Charaktere
+
+- Der Besitzer des privaten Zimmers
+
+"
+182,"10. Wohnungen in Ge<SoftHyphen/>sell<SoftHyphen/>schaftswohnhäusern"
+183,"Jedes Wohngebiet hat auch ein Ge<SoftHyphen/>sell<SoftHyphen/>schaftswohnhaus, in denen Wohnungen zur Verfügung stehen, die ohne eigenes Grundstück bezogen und nach Belieben eingerichtet werden können.
+
+・ Verfügbare Ge<SoftHyphen/>sell<SoftHyphen/>schaftswohnhäuser
+
+- Fockmast im Dorf des Nebels, Limsa Lominsa
+- Lilienhügel in den Lavendelbeeten, Gridania
+- Nanamo-Windrad auf der Kelchkuppe, Ul'dah
+- Adlerblick im Empyreum, Ishgard
+- Kobai Goten in Shirogane, Kugane
+
+
+■ Eine Wohnung erwerben
+
+Sobald eine Wohnung in einem Ge<SoftHyphen/>sell<SoftHyphen/>schaftswohnhaus erworben ist, kann man sich jederzeit über das Ätheryten<SoftHyphen/>netzwerk dorthin teleportieren. Die Chocobo-Ställe vor den Gebäuden stehen den Bewohnern ebenfalls zur freien Verfügung.
+
+・ Voraus<SoftHyphen/>setzungen für den Kauf einer Wohnung
+
+1. Mit einer Klasse muss Stufe 50 erreicht sein.
+2. In der Staatlichen Ge<SoftHyphen/>sell<SoftHyphen/>schaft muss mindestens der Rang eines Zweiten Sturmbootsmanns, Zweiten Schlangenpriesters be<SoftHyphen/>ziehungs<SoftHyphen/>weise Zweiten Legionsfähnrichs erreicht sein.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Um eine Wohnung im Adlerblick zu erwerben, muss der Auftrag des Hauptszenarios (Heavensward) „Das Ende eines langen Weges“ abgeschlossen sein.
+Um eine Wohnung im Kobai Goten zu erwerben, muss der Auftrag des Hauptszenarios „Misere auf der <Emphasis>Misery</Emphasis>“ abgeschlossen sein.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+
+■ Eine Wohnung aufgeben
+
+Selbstverständlich kann eine Wohnung auch aufgegeben werden, wenn sie nicht mehr benötigt wird.
+
+・ Voraus<SoftHyphen/>setzungen für das Aufgeben einer Wohnung
+
+1. Alle Möbel wurden entfernt.
+2. Alle Möbel wurden aus dem Lagerhaus entfernt.
+
+"
+184,"11. Wohngemeinschaften"
+185,"Die Wohngemeinschaft ist eine spezielle Option, mit der private Unterkünfte mit befreundeten Charakteren geteilt werden können, indem man sie zu Mitbewohnern macht. Eine Wohngemeinschaft kann maximal aus drei Charakteren bestehen<Indent/>- dem Besitzer selbst und bis zu zwei Mitbewohnern.
+Über den Unterpunkt „Wohngemeinschaft“ im Menüpunkt „Unterkünfte“ (Hauptmenü → Soziales) lässt sich solch eine Gemeinschaft mit wenigen Schritten bilden. Dort lassen sich auch die Rechte der individuellen Mitbewohner festlegen und ändern, oder die Gemeinschaft ganz auflösen.
+
+"
+186,"12. Umzüge"
+187,"■ Über Umzüge
+
+Mit einem Umzug kann eine ganze Unterkunft auf ein anderes Grundstück verlegt werden. Alle in der Unterkunft befindlichen Möbel werden dabei in eine Aufbewahrungsstelle gebracht.
+
+・ Zum Umzug befugte Charaktere
+
+- Mitglieder einer Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft, die das Recht „Grundstück kaufen/zurückgeben“ haben
+- Der Besitzer der privaten Unterkunft
+
+・ Kosten eines Umzugs
+
+- 15 % des Mindestwertes des alten Grundstücks werden vom Preis des neuen Grundstücks abgezogen.
+
+・ Vom Umzug betroffene Unterkunftsaspekte
+
+- Persönliche Zimmer und die Ge<SoftHyphen/>sell<SoftHyphen/>schaftswerkstätte
+- Bauelemente für das Innere des Gebäudes
+※ Die Innenelemente werden beibehalten, solange der Umzug nicht auf ein kleineres Grundstück erfolgt. In diesem Fall gehen die Elemente zusammen mit dem betroffenen Stockwerk verloren.
+
+・ Beim Umzug ins Lagerhaus verlegte Gegenstände
+
+- Platzierte Zimmer- und Gartenobjekte
+※ Falls dort nicht genügend Platz vorhanden ist, kann der Umzug nicht stattfinden.
+
+・ Beim Umzug nicht ins Lagerhaus verlegte Gegenstände
+
+- Der Chocobo-Stall und der Miniatur-Ätheryt werden automatisch auf dem neuen Grundstück im Garten platziert.
+
+
+■ Weiteres Wichtiges
+
+Gebäude, die seit 30 Tagen (Erdenzeit) nicht von ihrem Besitzer betreten wurden, können nicht umziehen. Ein Umzug hat den gleichen Effekt wie das Betreten eines Gebäudes durch seinen Besitzer und setzt die Zeit bis zur automatischen Rückgabe des Grundstücks zurück.
+
+"
+188,"13. Lagerhäuser"
+189,"Alle Unterkünfte verfügen über ein Lager für die vorhandenen Möbel. Die Größe des Lagerhauses richtet sich nach der Größe der Unterkunft.
+
+■ Platz in den Lagerhäusern
+
+・ Zimmer: 100 Möbel
+・ Wohnung: 100 Möbel
+・ Kleines Haus: 200 Möbel und 20 Gartenmöbel
+・ Mittelgroßes Haus: 300 Möbel und 30 Gartenmöbel
+・ Großes Haus: 400 Möbel und 40 Gartenmöbel
+
+■ Folgende Gartenmöbel können nicht eingelagert werden
+
+・ Chocobo-Stall
+・ Miniatur-Ätheryt
+
+■ Wichtige Hinweise
+・ In eingelagerten Blumentöpfen und Beeten wachsen keine Pflanzen.
+・ In eingelagerten Ätherrad-Ständern werden keine Ätherräder aufgeladen.
+・ Im Fall einer Zwangsräumung der Unterkunft, können die eingelagerten Gegenstände innerhalb von 35 Tagen von dem Unterkunftsbeamten abgeholt werden.
+
+"
+190,"14. Karte der Wohngebiete"
+191,"Auf der Karte der Wohngebiete werden folgende Informationen angezeigt.
+
+■ Grundstück steht zum Verkauf"
+192,"■ Grundstück wurde verkauft, aber noch nicht bebaut"
+193,"■ Ge<SoftHyphen/>sell<SoftHyphen/>schaftsunterkunft (Zutritt erlaubt/Zutritt verboten)
+  Unterkunft der eigenen Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft (Zutritt erlaubt/Zutritt verboten)"
+194,"■ Persönliche Unterkunft (Zutritt erlaubt/Zutritt verboten)
+  Die eigene Persönliche Unterkunft (Zutritt erlaubt/Zutritt verboten)"
+195,"■ Eigene Wohngemeinschaft (Zutritt erlaubt/Zutritt verboten)"
+196,"15. Regelung der Beleuchtung"
+197,"Die Beleuchtung in den Unterkünften kann in fünf Stufen geregelt werden.
+
+Die Einstellung erfolgt über „Beleuchtung anpassen“ im Hauptmenü der Unterkunft.
+
+"
+198,"16. Zweck der Unterkunft"
+199,"Der Zweck einer Unterkunft kann nun mit bis zu drei Stichwörtern beschrieben werden.
+
+Die Stichwörter können in den Unterkunftseinstellungen (Hauptmenü → Soziales → Unterkünfte → Einstellungen einer Unterkunft ändern → Zweck der Unterkunft) eingestellt werden und erscheinen im Profil der Unterkunft.
+
+"
+200,"Funktionale Möbel"
+201,"Produktionsanlagen"
+202,"Produktionsanlagen können von Handwerkern genutzt werden, um die Synthese zu erleichtern.
+
+■ Maximale Anzahl an Produktionsanlagen je Unterkunft
+
+・ Zimmer: 2 Produktionsanlagen
+・ Wohnung: 2 Produktionsanlagen
+・ Kleines Haus: 4 Produktionsanlagen
+・ Mittelgroßes Haus: 6 Produktionsanlagen
+・ Großes Haus: 8 Produktionsanlagen
+
+■ Arten von Produktionsanlagen
+Es gibt 8 Arten von Produktionsanlagen, die jeweils von einer Handwerksklasse genutzt werden können.
+　・ Zimmerer-Werkbänke für Zimmerer
+　・ Essen für Grobschmiede
+　・ Plattner-Öfen für Plattner
+　・ Goldschmied-Werkbänke für Goldschmiede
+　・ Gerber-Werkbänke für Gerber
+　・ Webstühle für Weber
+　・ Alchemisten-Kessel für Alchemisten
+　・ Herde für Gourmets
+
+"
+203,"Beete"
+204,"Beete können in Gärten angelegt werden, um darin Pflanzen anzubauen und zu ernten.
+
+■ Maximale Anzahl an Beeten je Unterkunft
+
+・ Kleines Haus: 1 Beet
+・ Mittelgroßes Haus: 2 Beete
+・ Großes Haus: 3 Beete
+
+■ Maximale Anzahl an Furchen je Beet
+Es gibt drei Beetgrößen mit unter<SoftHyphen/>schied<SoftHyphen/>lich vielen Furchen, die für den Anbau benötigt werden.
+
+・ Rundes Gartenbeet: 4 Furchen
+・ Eckiges Gartenbeet: 6 Furchen
+・ Luxus-Gartenbeet: 8 Furchen"
+205,"Mögliche Aktionen an Beeten
+■ Aussäen
+Zum Aussäen brauchst du Samen und Erde.
+Die Art und die Qualität der Erde beeinflussen die Qualität und die Menge der Ernte.
+Die Wachstumsgeschwindigkeit und die Erntezeit hängen von der Pflanzenart ab.
+
+■ Düngen
+Dünger führt der Erde Nährstoffe zu und beschleunigt das Wachstum.
+
+■ Pflanze vernichten
+Pflanzen, die nicht gepflegt werden, können verwelken.
+Der Anbau kann durch die Vernichtung der Pflanzen abgebrochen werden.
+
+■ Ernten
+Sobald eine Pflanze reif ist, kannst du sie abernten.
+
+■ Kreuzen
+Wenn zwei Pflanzen in benachbarten Furchen miteinander gekreuzt werden, erhältst du vielleicht bei der Ernte eine neue Art von Samen.
+
+"
+206,"Blumentöpfe"
+207,"Ähnlich wie Beete in den Gärten können Blumentöpfe in den Räumen von Unterkünften aufgestellt werden, um darin Pflanzen anzubauen und zu ernten.
+Einige Blumenarten, die sich als Materialien für Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände eignen, können nur in Blumentöpfen angepflanzt werden.
+
+■ Maximale Anzahl an Blumentöpfen je Unterkunft
+
+・ Zimmer: 2 Blumentöpfe
+・ Wohnung: 2 Blumentöpfe
+・ Kleines Haus: 2 Blumentöpfe
+・ Mittelgroßes Haus: 3 Blumentöpfe
+・ Großes Haus: 4 Blumentöpfe
+
+Mögliche Aktionen an Blumentöpfen
+■ Aussäen
+Zum Aussäen brauchst du Samen und Erde.
+Die Art und die Qualität der Erde beeinflussen die Qualität und die Menge der Ernte.
+Die Wachstumsgeschwindigkeit und die Erntezeit hängen von der Pflanzenart ab.
+
+■ Düngen
+Dünger führt der Erde Nährstoffe zu und beschleunigt das Wachstum.
+
+■ Pflanze vernichten
+Pflanzen, die nicht gepflegt werden, können verwelken.
+Der Anbau kann durch die Vernichtung der Pflanzen abgebrochen werden.
+
+■ Ernten
+Sobald eine Pflanze reif ist, kannst du sie abernten.
+
+■ Blumen züchten
+Einige Blumenarten eignen sich als Synthesematerial oder können in Blumenvasen aufgestellt werden.
+Abhängig davon, wie oft und wie viel gedüngt wird, verfärben sich die Blumen. Es gibt 9 unter<SoftHyphen/>schied<SoftHyphen/>liche Farben.
+
+・ Scharlachroter Presskuchen erhöht den roten Farbanteil.
+・ Tiefblauer Presskuchen erhöht den blauen Farbanteil.
+・ Goldgelber Presskuchen erhöht den gelben Farbanteil."
+208,"Das Orchestrion"
+209,"In jeder Unterkunft kann ein Orchestrion aufgestellt werden, um damit Musik abzuspielen.
+
+■ Notenrollen
+Notenrollen sind spezielle Gegenstände, die jeweils ein bestimmtes Musikstück enthalten.
+Benutze eine Notenrolle, um das entsprechende Musikstück in die Auswahlliste des Orchestrions zu über<SoftHyphen/>nehmen. Ab dann kannst du es beliebig oft abspielen.
+
+■ Wiedergabeliste
+Bei der Verwendung des Orchestrions wird eine Wiedergabeliste angezeigt.
+In der Wiedergabeliste können bis zu acht Musikstücke gespeichert werden.
+Über die Schalter unterhalb der Wiedergabeliste oder im Untermenü eines Musikstücks können folgende Wiedergabearten eingestellt werden.
+"
+210,"1. Nacheinander abspielen: Die Titel werden der Reihe nach abgespielt.
+2. In zufälliger Folge abspielen: Die Titel werden in zufälliger Reihenfolge abgespielt.
+3. Nur einen Titel abspielen: Nur der ausgewählte Titel wird abgespielt und immer wieder wiederholt.
+
+
+Die Option „Titel wählen“ unterhalb der Wiedergabeliste ermöglicht es, nur einzelne Titel auszuwählen und abzuspielen.
+"
+211,"Ätherräder"
+212,"Ätherräder dienen in Unterkünften einer Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft dazu, bestimmte Ge<SoftHyphen/>sell<SoftHyphen/>schaftskommandos einzusetzen. Dafür müssen sie in Ätherrad-Ständern mit Äther aufgeladen werden.
+
+Sobald ein Ätherrad in einen Ständer eingesetzt wird, beginnt der Ladevorgang. Nach einiger Zeit verwandelt sich das Rad in ein geladenes Rad.
+
+An einem geladenen Rad kann jeweil ein bestimmtes Ge<SoftHyphen/>sell<SoftHyphen/>schaftskommando ausgelöst werden.
+
+"
+213,"Aquarien"
+214,"Aquarien sind Einrichtungsgegenstände, in denen Fische gehalten werden können.
+Ein Aquarium kann entweder Süßwasser- oder Salz<SoftHyphen/>was<SoftHyphen/>ser<SoftHyphen/>fische aufnehmen und mit einem Dekorationsset umdekoriert werden.
+
+■ Maximale Anzahl von Aquarien je Unterkunft
+・ Zimmer: 4 Aquarien
+・ Wohnung: 4 Aquarien
+・ Kleines Haus: 6 Aquarien
+・ Mittelgroßes Haus: 8 Aquarien
+・ Großes Haus: 10 Aquarien"
+215,"■ Größe und Platzverbrauch der Fische
+Fische verbrauchen je nach Größe unter<SoftHyphen/>schied<SoftHyphen/>lich viel Platz im Aquarium.
+・ Fischgröße S: 1 Platz
+・ Fischgröße M: 2 Plätze
+・ Fischgröße L: 4 Plätze
+・ Fischgröße XL: 7 Plätze
+
+■ Platz im Aquarium
+Es gibt Aquarien in unter<SoftHyphen/>schied<SoftHyphen/>lichen Größen, die unter<SoftHyphen/>schied<SoftHyphen/>lich viel Platz bieten.
+・ Aquarium S: 1 Platz (für max. 1 Fisch)
+・ Aquarium M: 2 Plätze (für max. 2 Fische)
+・ Aquarium L: 4 Plätze (für max. 3 Fische)
+・ Aquarium XL: 7 Plätze (für max. 4 Fische)
+
+"
+216,"Chocobo-Ställe"
+217,"Chocobo-Ställe können in Gärten aufgestellt werden, um darin Chocobos unterzubringen.
+In einem Stall kannst du deinen eigenen Chocobo oder andere Chocobos der Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft trainieren, wodurch sie an Erfahrung gewinnen.
+
+■ Chocobos trainieren
+Ein Chocobo kann einmal pro Stunde (Erdenzeit) trainiert werden."
+218,"■ Maximal-Rang erhöhen
+Wenn ein Chocobo seinen Maximal-Rang erreicht hat, kann man ihm Thavnair-Zwiebel zu essen geben, um seinen Maximal-Rang um 1 zu erhöhen (bis zu einem absoluten Höchstwert von 20).
+
+■ Sauberkeit
+Ställe verschmutzen mit der Zeit und müssen gereinigt werden.
+Der Zustand eines Stalls wird in den drei Stufen Normal, Dreckig und Blitzblank angegeben.
+Je sauberer ein Stall ist, desto mehr Erfahrung gewinnen die darin untergebrachten Chocobos beim Training.
+
+"
+219,"Diarien"
+220,"Diarien sind Einrichtungsgegenstände, in denen Bewohner und Gäste Nachrichten hinterlassen und so miteinander in Kontakt treten können.
+Es gibt zwei unter<SoftHyphen/>schied<SoftHyphen/>liche Arten von Diarien für Innenräume und für Gärten. Im Innenbereich und im Außenbereich einer Unterkunft kann jeweils ein Diarium platziert werden."
+221,"Ein Bewohner, der über die Berechtigung „Diarium verwalten“ verfügt, kann ein Grußwort in ein Diarium der Unterkunft schreiben.
+Des Weiteren sind an einem Diarium folgende Aktionen möglich.
+
+■ Diarium-Einstellungen ändern
+Ein Diarium kann grundsätzlich auf privat gestellt werden. In einem privaten Diarium können Besucher nur die Nachrichten lesen, die manuell freigegeben wurden.
+
+■ Nachricht schreiben
+Jeder Spieler kann in jedem Haus eine Nachricht pro Tag in ein Diarium schreiben.
+※ Der Timer wird täglich um <ResetTime>01</ResetTime><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>:00 Uhr (Erdenzeit) zurückgesetzt.
+
+■ Nachricht löschen
+Nachrichten können entweder von dem Verfasser der Nachricht oder dem Verwalter des Diariums gelöscht werden.
+
+■ „Gefällt mir“ hinterlassen
+Spieler können ein „Gefällt mir“ in einem Diarium hinterlassen, z. B. wenn ihnen die Einrichtung der Unterkunft besonders gut gefällt.
+ Die Anzahl der möglichen „Gefällt mir“ ist begrenzt und steigt täglich um <ResetTime>01</ResetTime><If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>:00 Uhr (Erdenzeit) um 5 bis zu einem Maximum von 50.
+※ In eigenen Unterkünften kann kein „Gefällt mir“ hinterlassen werden.
+
+"
+222,"Kleiderpuppen"
+223,"Mit Kleiderpuppen können Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände in den eigenen Unterkünften ausgestellt werden.
+Für jede Kleiderpuppe kann ein Geschlecht, eine Charakter- oder Job-Klasse und eine Pose ausgewählt werden.
+Die ausgestellten Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände können auch zum Verkauf angeboten werden (wenn sie grundsätzlich verkäuflich sind)."
+224,"■ Verwaltung durch Gehilfen
+Kleiderpuppen können von Gehilfen verwaltet werden, wobei ein Gehilfe mehrere Kleiderpuppen betreuen kann. Verkaufserlöse landen in der Obhut des Gehilfen.
+
+■ Maximale Anzahl von Kleiderpuppen je Unterkunft
+・ Zimmer: 4 Kleiderpuppen
+・ Wohnung: 4 Kleiderpuppen
+・ Kleines Haus: 6 Kleiderpuppen
+・ Mittelgroßes Haus: 8 Kleiderpuppen
+・ Großes Haus: 10 Kleiderpuppen
+
+■ Ausrüstung verkaufen
+Die Gegenstände müssen grundsätzlich verkäuflich sein und können aus dem Charakter-Inventar, dem Arsenal oder dem Gehilfeninventar ausgewählt werden.
+
+Die ausgestellten Gegenstände verbrauchen die Kapazität des Gehilfen. Wenn die Kapazität des Gehilfen ausgeschöpft ist, können keine weiteren Gegenstände ausgestellt werden.
+
+■ Als Set verkaufen
+Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände, die als Set zu<SoftHyphen/>sammen<SoftHyphen/>gestellt wurden, können über den Markt gesucht, aber nur an der Kleiderpuppe erworben werden.
+
+Wenn ein Set-Gegenstand auf dem Markt gefunden wurde, kann der Ausstellungsort von dem Anbieter im Chat erfragt werden.
+※ Das sollte beachtet werden, ehe die Gegenstände als Set angeboten werden.
+
+■ Ausrüstung ausstellen
+Kleiderpuppen können natürlich auch genutzt werden, um Ausrüstung auszustellen, ohne sie zu verkaufen. Zu diesem Zweck können auch unverkäufliche Gegenstände ausgewählt werden.
+※ Projektionen können nicht ausgestellt werden.
+
+Auch Gegenstände, die nur gezeigt werden, verbrauchen die Kapazität des Gehilfen, der die Kleiderpuppe verwaltet.
+
+"
+225,"Die kopierte Fabrik"
+226,"Unter<SoftHyphen/>suchungs<SoftHyphen/>bericht #1"
+227,"Wir stecken mitten in der Untersuchung der umliegenden Gegend. Die harsche Dürre hört und hört nicht auf<Indent/>... Außerdem sind im Ökosystem ebenfalls gravierende Veränderungen festzustellen. In den schlammigen Wassern der einzigen Quelle hat sich eine äußerst sonderbare Fischart eingenistet."
+228,"Unter<SoftHyphen/>suchungs<SoftHyphen/>bericht #2"
+229,"Wir sind zum nächsten Punkt gezogen. Es ist erstaunlich, wie grün hier alles ist! An frischem Wasser mangelt es ebenfalls nicht. Ich kann mir nicht erklären, wieso sich dieses Gebiet so gravierend von dem letzten unterscheidet, obwohl wir kaum Distanz zurückgelegt haben<Indent/>..."
+230,"Unter<SoftHyphen/>suchungs<SoftHyphen/>bericht #3"
+231,"Immer noch nicht fertig mit der Untersuchung<Indent/>... Aber ich sollte mich nicht beschweren. Es ist besser, als an die Front geschickt zu werden und mausetot zurückzukehren. Zu berichten gibt es über diese Gegend allerdings kaum etwas."
+232,"Aufzeichnungen einer defekten Maschine"
+233,"Dunkel. Hier ist es dunkel. Großer Bruder ist auch nicht da.
+Einsam. Hier ist es einsam. Freunde: finden. Feinde: töten."
+234,"Forschungsbericht zu den Maschinenwesen #1"
+235,"Im Grunde ist das Handlungsprinzip der Maschinen sehr einfach: den Feind vernichten. Doch mit jeder Weiterentwicklung, jedem neuen Modell spannte sich ihr Netzwerk weiter und gewann an Form."
+236,"Forschungsbericht zu den Maschinenwesen #2"
+237,"Von da an gab es kein Halten mehr. Kleine Abweichungen innerhalb ihres Systems sorgten für Individualität und Diversität gleichermaßen. Sie werden diesem Netzwerk alles einverleiben, jede letzte Ecke dieser Welt. Bis nichts mehr bleibt, was es einzuverleiben gäbe."
+238,"Archive einer gebrochenen Waffe #1"
+239,"Wieder und wieder hat rotes Blut das reine Weiß dieser Klinge benetzt. Um sie zu durchstoßen, diese endlose Spirale aus Leben und Sterben. Selbst, wenn der Grund für all das Kämpfen längst vergessen ist."
+240,"Archive einer gebrochenen Waffe #2"
+241,"Ohne Zweifel, ohne Misstrauen hat diese Welt vor sich hin gelebt. Die Augen um jeden Preis geschlossen gehalten, um der Realität nicht in ihr hartes Gesicht blicken zu müssen."
+242,"Archive einer gebrochenen Waffe #3"
+243,"Wir glaubten an sie. Diese Welt voller Schmerz, die schon längst im Sterben lag. Letztlich sind es Scherben von Erinnerungen, die ein winziges Licht in unseren Herzen zu entzünden vermögen. Auch ich begriff erst, als ich alles verloren hatte."
+244,"Archive einer gebrochenen Waffe #4"
+245,"Keine Wut, kein Bedauern mehr, überhaupt in diese Welt geboren worden zu sein. Ich werde in ihr und für sie kämpfen, bis ich nicht mehr bin. Diese Klinge soll das Zeugnis meines Schwurs sein. "
+246,"Zerfetztes Flugblatt"
+247,"Dank... ... ....ischauen!
+
+Accord's is... ...ebende Handelsket... ... ...anzen Welt.
+... ... ...usive Schwertern, die den regio... ... ...n Landes entsprechen!"
+248,"Neues Spiel+"
+249,"Über Neues Spiel+"
+250,"Mit der Funktion „Neues Spiel+“ können bereits abgeschlossene Abschnitte des Hauptszenarios noch einmal mit dem aktuellen Charakter durchlebt werden.
+
+Wähle dazu einfach das gewünschte Kapitel unter dem Reiter „Kapitelauswahl“."
+251,"Kapitelauswahl"
+252,"Das Hauptszenario ist für jede Erweiterung in mehrere Kapitel unterteilt. Die Beschreibung gibt dir einen Anhaltspunkt, wo in der Geschichte das jeweilige Kapitel spielt.
+
+Du kannst die Kapitel frei auswählen, unabhängig von deinem Spielfortschritt innerhalb des Neuen Spiels+."
+253,"Funktionsweise"
+254,"Starten"
+255,"Öffne das Menü „Neues Spiel+“ (Hauptmenü → Inhalte) in einer Region, die keiner Teleportbeschränkung unterliegt (z.B. Städte, freies Gelände).
+
+Wähle ein Kapitel und schon weist der Szenarioführer in der Bildschirmecke oben links dich zu deinem nächsten Auftrag."
+256,"Besondere Regeln"
+257,"■ Beginn und Pausieren
+In den folgenden Situationen kann kein Neues Spiel+ begonnen oder pausiert werden:
+- In Kämpfen
+- In laufenden Inhalten
+- Während Videosequenzen und bestimmten Ereignissen
+- Beim Reiten
+- Während aktiver Freibriefe
+- Während du einem NPC Geleit gibst
+
+■ Fortschritt
+- Es kann immer nur ein Auftrag innerhalb von Neues Spiel+ gespielt werden.
+- Aufträge müssen einer nach dem anderen abgeschlossen werden.
+- Es können (mit Ausnahmen) nur Aufträge gespielt werden, die bereits abgeschlossen wurden.
+- Alle Aufträge stehen in ihrer aktuellen Version zur Verfügung.
+- Die Schwierigkeit von Auftragskämpfen kann bei Beginn neu gewählt werden.
+- Wenn in der Charakter<SoftHyphen/>konfiguration die Option „Bereits gesehene Videosequenzen für Inhalte überspringen“ aktiviert ist, werden entsprechende Videosequenzen übersprungen.
+- Hergestellte Gegenstände bleiben auch nach dem Abliefern erhalten.
+
+■ Abschließen von Aufträgen
+- Für das Abschließen von Aufträgen gibt es keine Vergütungen.
+- Es erscheinen Meldungen zum Freispielen von Inhalten und Kommandos, die aber keinen Einfluss auf den Spielfortschritt des Charakters haben.
+
+■ Weiteres
+- Während ein Neues Spiel+ läuft, können andere Aufträge nicht fortgeführt werden.
+- Auch wenn sich die Spielwelt abhängig vom Verlauf des Hauptszenarios ändert, kann sich der Zustand der Spielwelt vom ersten Spieldurchlauf unterscheiden.
+
+"
+258,"Speichern des Fortschritts"
+259,"Der Spielfortschritt wird wie im normalen Spiel automatisch gespeichert. Änderungen am Charakter, die nicht den Fortschritt von Aufträgen betreffen, behalten auch über Neues Spiel+ hinaus ihre Wirkung.
+
+Innerhalb von Neues Spiel+ wird nur ein Spielstand gespeichert. Bei Beginn eines neuen Kapitels geht also der Fortschritt im zuvor gespielten Kapitel verloren.
+
+"
+260,"Pausieren"
+261,"Das Neue Spiel+ kann pausiert werden. Dies kann erforderlich sein, um bestimmte Funktionen auszuführen, die während eines Neuen Spiels+ gesperrt sind (siehe dazu „Wichtige Hinweise“).
+
+In den folgenden Fällen wird das Neue Spiel+ automatisch pausiert:
+- Der Charakter wird ausgeloggt bzw. das Spiel wird beendet.
+- Ein Inhalt wird betreten, für den der Charakter vor Beginn des Neuen Spiels+ registriert war.
+
+"
+262,"Abschluss"
+263,"Nach Abschluss des letzten Auftrags eines Kapitels endet das Neue Spiel+ und der Fortschritt wird gelöscht.
+"
+264,"Wichtige Hinweise"
+265,"Teilnahme an Inhalten"
+266,"Über die Inhalts- bzw. Raid-Suche kann wie gewohnt an bereits abgeschlossenen Inhalten teilgenommen werden.
+
+Es gelten aber zwei Besonderheiten:
+
+1. Bei Betreten von Inhalten, für deren Teilnahme der Charakter vor Beginn des Neuen Spiels registriert wurde, wird das Neue Spiel+ pausiert.
+Das Neue Spiel+ kann nach Beendigung des Inhalts fortgesetzt werden.
+
+2. Es kann auch an noch nicht abgeschlossenen Inhalten teilgenommen werden, wenn sie zu dem aktiven Neuen Spiel+ gehören.
+
+"
+267,"Gesperrte Funktionen"
+268,"Die folgenden Spielelemente sind während eines Neuen Spiels+ nicht verfügbar. Pausiere das Spiel, um sie wie gewohnt zu nutzen.
+
+■ Interaktionen mit bestimmten NPCs bzw. Objekten:
+- Marktbrett
+- Gehilfenklingel
+- Jagdbrett und Clan-Jagdbrett
+- bestimmte Post-Mogry
+- Meteorologen
+- bestimmte Händler
+- bestimmte Reparateure
+- bestimmte NPCs mit Gesprächsoptionen
+- funktionale Einrichtung in Gästezimmern
+- Stadtätheryten und nicht harmonisierte Ätheryten
+- bestimmte andere Objekte
+
+■ Funktionen in Zusammenhang mit:
+- allen Arten von Freibriefen
+- Triple Triad-Partien
+- Inhalten, die durch Interaktion mit NPCs betreten werden
+- Attraktionen im Gold Saucer
+- Unterkünften
+- Staatlichen Ge<SoftHyphen/>sell<SoftHyphen/>schaften
+- Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaften
+- der Anfänger-Arena
+- dem Ewiger Bund
+
+■ Gebrauch von Abenteuergeschichten
+
+"
+269,"Carteneauer Front"
+270,"Überblick"
+271,"An der Carteneauer Front messen sich die Mitglieder der drei Staatlichen Ge<SoftHyphen/>sell<SoftHyphen/>schaften in einer Reihe von Übungskämpfen, um ihr taktisches Verständnis und ihre Fähigkeiten im Kampf zu schärfen."
+272,"Grundlegendes"
+273,"Die Carteneauer Front ist ein PvP-Spielinhalt, in dem drei Gruppen von Abenteurern gegeneinander antreten. Jede Gruppe repräsentiert eine der Staatlichen Ge<SoftHyphen/>sell<SoftHyphen/>schaften, die Zuteilung erfolgt aber unabhängig von der Zugehörigkeit des Spielers. Die Teams bestehen aus je 24 Spielern, also einem vollständigen Raid. So stehen sich auf einem Schlachtfeld bis zu 72 Spieler gegenüber.
+Über Sieg und Niederlage entscheiden nicht nur persönliches Geschick, sondern auch im besonderen Maße die Fähigkeit, koordiniert als Team vorzugehen."
+274,"■ Die Teams
+Jedes Team besteht aus 24 Spielern, die in drei Gruppen in die Schlacht ziehen.
+
+Jedes Match ist auf 20 Minuten Spielzeit ausgelegt.
+
+■ Schneller Wiedereinstieg
+Sollte man in einem Match kampfunfähig werden, so wird man nach kurzer Wartezeit automatisch am Startpunkt des eigenen Teams wiederbelebt. Solange man sich nach dem Wiedereinstieg am Startpunkt aufhält, wird man durch den Status „Unverwundbar“ geschützt. Erst wenn man den Startpunkt verlässt, wird man wieder verwundbar.
+
+■ Reittiere
+An der Carteneauer Front kann der Spieler wie auch im offenen Gelände auf seinem Reittier aufsitzen. Dies ist selbst im Kampf möglich.
+
+Da ein Spieler jedoch den Status „Lahm“ erleidet, wenn er während des Reitens von Gegnern getroffen wird, empfiehlt es sich gerade dann, ein wachsames Auge auf die Umgebung zu haben.
+
+■ Rückführung
+Man kann während eines Matches auch das Kommando Rückführung verwenden. Man wird dann automatisch zum Startpunkt des eigenen Teams teleportiert. An der Carteneauer Front kann man auch im Kampf die Rückführung verwenden. Eine Re<SoftHyphen/>ak<SoftHyphen/>ti<SoftHyphen/>vie<SoftHyphen/>rungs<SoftHyphen/>zeit für das Kommando gibt es nicht. Allerdings bricht der Zauber ab, wenn ein Spieler beim Ausführen getroffen wird.
+
+■ SKU
+Wenn man im Kampf einen gegnerischen Spieler kampfunfähig macht, erhält man einen „Sieg“ (gegnerischer K.o.). Der Spieler, der kampfunfähig gemacht wurde, bekommt hingegen einen „K.o.“ angerechnet. Spieler, die ein Teammitglied dabei unterstützen, einen Gegner kampfunfähig zu machen, erhalten einen Punkt für ihre „Unterstützung“ gutgeschrieben. Das System wird mit den Initialen „S“, „K“ und „U“ abgekürzt.
+
+■ Belohnung
+Im Spielinhalt „Carteneauer Front“ kann man neben regulärer Routine natürlich auch PvP-Routine und Wolfsmarken sowie Allagische Steine erwerben.
+
+Bei einem Sieg winken außerdem besondere Errungenschaften, Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände und Reittiere."
+275,"Euphorie"
+276,"Euphorie ist ein stärkender Statuseffekt, der für das Besiegen von feindlichen Spielern oder die Unterstützung eigener Mitspieler im Kampf gewährt wird.
+
+Es können dabei maximal 100 Stapel dieses Effekts gesammelt werden, wobei alle 20 Stapel sich die Stufe und die Effektivität des Statuseffekts erhöht.
+
+Je höher die Stufe der Euphorie, desto höher ist auch der ausgeteilte Schaden und desto effizienter die eigene Heilmagie.
+
+Erleidet man einen K.o., so wird die bis dahin gesammelte Stapelzahl der Euphorie automatisch halbiert."
+277,"Äußere Ruinen (Sicherung)"
+278,"Kartenbeschreibung"
+279,"Die Siebte Katastrophe hat sich in das Gedächtnis Eorzeas eingebrannt und dessen Antlitz für immer verändert. Doch die Verheerungen brachten auf der Carteneauer Heide auch uralte allagische Ruinen zum Vorschein, die dort seit Urzeiten verborgen schienen. Die Staatlichen
+Ge<SoftHyphen/>sell<SoftHyphen/>schaften erkannten sofort den Wert der Ruinen - oder besser gesagt des dort möglicherweise verborgenen Wissens - doch alle friedlichen Ver<SoftHyphen/>hand<SoftHyphen/>lungen scheiterten. Um blutige Aus<SoftHyphen/>einander<SoftHyphen/>set<SoftHyphen/>zungen zu vermeiden, entschloss man sich einen Wettkampf zu organisieren, der als Carteneauer Front bezeichnet wird."
+280,"Siegbedingungen"
+281,"Im Spielinhalt Äußere Ruinen (Sicherung) geht der Sieg an dasjenige Team, das als erstes die vorgegebene Anzahl Wertungspunkte erreicht, indem es ...
+
+1. Gegnerische Spieler besiegt.
+2. Schlüsselpositionen erobert. 
+3. Monster besiegt.
+
+Wenn keiner der drei Ge<SoftHyphen/>sell<SoftHyphen/>schaften die vorgegebene Punktzahl erreicht, gewinnt jenes Team, das die meisten Punkte gesammelt hat."
+282,"Schlüsselpositionen"
+283,"Die Schlüsselpositionen in den allagischen Ruinen sind durch die Flaggenmasten gekennzeichnet. Sie tragen die Flagge der Staatlichen Ge<SoftHyphen/>sell<SoftHyphen/>schaft, die die Stellung gerade kontrolliert. Zu Beginn des Matches sind die Positionen noch unbesetzt (neutral). Sobald sich ein Spieler einem Flaggenmast nähert, wird die Position langsam in Besitz genommen. Je mehr Spieler vom eigenen Team sich in der Nähe des Flaggenmastes aufhalten, desto schneller schreitet die Inbesitznahme voran. Wenn sich Mitglieder unter<SoftHyphen/>schied<SoftHyphen/>licher Teams in Reichweite befinden, so zählt die Differenz der Spieler. Bereits besetzte Schlüsselpositionen können allerdings auch wieder zurückerobert werden. Dabei werden sie zuerst neutralisiert und -<Indent/>falls unangefochten<Indent/>- im Anschluss für das jeweilige Team erobert."
+284,"Monster"
+285,"Während eines Matches werden Monster aus dem Heliodrom auf das Schlachtfeld losgelassen. Sie gehören keinem der drei Teams an, und wenn man sie besiegt, kann man die Wertungspunktzahl des eigenen Teams erhöhen. Aber auch durch das Zufügen von Schaden an diesen NPCs kann man für sein Team Punkte erlangen, anteilig am jeweils ausgeteilten Schaden."
+286,"Kleinere Interzeptor-Drohnen erscheinen kurze Zeit nachdem sie besiegt wurden wieder auf dem Schlachtfeld. Die größeren Versionen der Interzeptor-Drohnen erscheinen nur einmal, gewähren jedoch dafür umso mehr Punkte, wenn sie bezwungen werden."
+287,"Robbenholm (Eroberung)"
+288,"Kartenbeschreibung"
+289,"Generationenlang hatten sich die Seeleute von Limsa im Schein ihrer Öllampen die Geschichte einer mysteriösen umherwandernden Insel erzählt, das „Eiland der wandernden Schwalbe“. Endlich wurde sie lokalisiert: Es handelte sich um Robbenholm. Nach Untersuchungen vor Ort wurde klar, dass es nicht nur Seemannsgarn war, das der Insel zu ihrem Ruf verholfen hatte. Die Allager hatten sie künstlich erschaffen, um dort Versuche mit der Omega-Waffe anzustellen. Ein Rennen um die hochgeheimen Versuchsdaten der alten Allager beginnt ..."
+290,"Siegbedingungen"
+291,"Im Modus Robbenholm (Eroberung) geht es darum, gegnerische Spieler kampfunfähig zu machen und möglichst viele Daten aus den zufällig erscheinenden allagischen Echolithen zu lesen. Daten können wie folgt erlangt werden:
+
+1. Durch Besiegen von gegnerischen Spielern
+2. Durch Besetzen allagischer Echolithen
+
+Wenn keine der drei Ge<SoftHyphen/>sell<SoftHyphen/>schaften die vorgegebene Punktzahl erreicht, gewinnt jenes Team, das die meisten Punkte gesammelt hat."
+292,"Besetzen allagischer Echolithen"
+293,"Auf dem Schauplatz von Robbenholm (Eroberung) sind sogenannte Echolithen verteilt, die das Wissen der alten Allager aufbewahren. Sie können sich im Betriebszustand und im Ruhezustand befinden, und nur aus aktiven Echolithen können wertvolle allagische Daten extrahiert werden. Das Besetzen von solchen Echolithen in Betrieb wird kontinuierlich mit Siegpunkten belohnt."
+294,"■ Betriebszustand und Ruhezustand von Echolithen
+Am Anfang des Einsatzes befinden sich alle Echolithen im Ruhezustand. Nach einer gewissen Zeit werden zufällig ausgewählte Echolithen aktiv und wechseln in den Betriebszustand. Die Fraktion, die solch einen Echolithen besetzt hält, bekommt Siegpunkte für die Daten, die während des Betriebszustands extrahiert werden. Ist die maximale Datenmenge, die extrahiert werden kann, erreicht, schaltet der Echolith in den Ruhezustand. Nach einer gewissen Weile kann er wieder in den Betriebszustand wechseln. Die maximale Zahl der gleichzeitig aktiven Echolithen ändert sich während des Einsatzes.
+
+■ Besetzen von Echolithen
+Echolithen können entweder neutral oder von einer Fraktion besetzt sein. Um einen neutralen Echolithen für seine Fraktion zu besetzen, muss ein Spieler mit einem aktiven Echolithen interagieren. Ist der Echolith bereits besetzt, wird er zu einem neutralen Echolithen. Echolithen, die vom Ruhezustand in den Betriebszustand wechseln, werden ebenfalls neutral.
+
+■ Echolithen-Rang
+Aktive Echolithen können einen von drei Rängen haben: B, A oder S. Je höher der Rang (S>A>B), desto seltener schaltet der Echolith in den Betriebszustand, aber desto mehr Daten können aus ihm extrahiert werden. Im Laufe des Einsatzes werden auch höherrangige Echolithen häufiger aktiv.
+
+■ Echolithen im Verlauf der Spielzeit
+Im Laufe eines Matches verringert sich die Anzahl der Echolithen, die gleichzeitig im Betriebszustand sein können. Dafür wird es leichter, höherrangige Echolithen zu aktivieren."
+295,"Feld der Ehre (Zersplitterung)"
+296,"Kartenbeschreibung"
+297,"Das Feld der Ehre. Hier wurde die schwebende Insel entdeckt, von der aus Legatus Nael van Darnus, gedeckt von der VII. Legion des Garleischen Heers, den künstlichen Mond Dalamud zu steuern versuchte. In den Trümmern fand man zahlreiche allagische Relikte, an denen alle Stadt<SoftHyphen/>staaten höchst interessiert sind. Die Eorzäische Allianz hat die vereisten Felsspitzen daher zu einer neuen rechtsfreien Zone erklärt, in der nun erbitterte Kämpfe um die Informationen entbrennen, die Nael van Darnus vor der Katastrophe gesammelt hatte. Doch um an die begehrten Daten zu kommen, müssen zuerst dicke Eisschichten zersplittert werden."
+298,"Siegbedingungen"
+299,"Ähnlich wie bei dem Einsatzbefehl Robbenholm geht es auf dem Feld der Ehre darum, eine bestimmte Menge an Daten zu extrahieren. Daten können wie folgt erlangt werden:
+
+1. Durch Besiegen von gegnerischen Spielern
+2. Durch Besetzen allagischer Echolithen
+3. Durch Zerstören der vereisten Echolithen
+
+Wenn keine der drei Ge<SoftHyphen/>sell<SoftHyphen/>schaften die vorgegebene Punktzahl erreicht, gewinnt jenes Team, das die meisten Punkte gesammelt hat."
+300,"Besetzen allagischer Echolithen"
+301,"Auf dem Feld der Ehre sind sogenannte Echolithen verteilt, die das Wissen der alten Allager aufbewahren. Sie können sich im Betriebszustand und im Ruhezustand befinden, und nur aus aktiven Echolithen können wertvolle allagische Daten extrahiert werden. Das Besetzen von solchen Echolithen in Betrieb wird kontinuierlich mit Siegpunkten belohnt."
+302,"Zerstören vereister Echolithen"
+303,"Vereiste Echolithen hingegen müssen zersplittert werden, damit sie ihre Daten preisgeben. Die erworbene Datenmenge richtet sich nach dem Schaden, der dem vereisten Echolithen zugefügt wurde.
+
+■ Vereiste Echolithen aktivieren
+Verreiste Echolithen müssen erst aktiviert werden, bevor sie zerstört werden können. Zu Beginn des Matches sind sie inaktiv, doch im Verlaufe der Zeit werden sie in zufälliger Reihenfolge aktiviert. Vereiste Echolithen, die zerstört wurden, reaktivieren sich nicht wieder. Weder die Anzahl noch die Reihenfolge, in der die vereisten Echolithen aktiviert werden, ist festgelegt. Mal aktivieren sich mehrere zu Beginn eines Matches, mal werden sie nach und nach aktiviert. Bis zum Ende einer Partie werden jedoch alle vereisten Monolithen einmal aktiviert.
+
+■ Vereiste Echolithen
+Es gibt kleine und große vereiste Echolithen. Große bergen mehr Daten, sind aber auch schwieriger zu zersplittern."
+304,"Onsal Hakair (Danshig Naadam)"
+305,"Kartenbeschreibung"
+306,"Im Herzen der Azim-Steppe, in einer Oase des Grüns, liegt mitten im Herrschaftsgebiet der Au Ra Xaela das legendäre Onsal Hakair. Die drei Staatlichen Ge<SoftHyphen/>sell<SoftHyphen/>schaften haben sich hier unter der Aufsicht der Hausherren versammelt, um ihre Differenzen in der Tradition der Azim-Steppe beizulegen: im fairen aber unerbittlichen Wettkampf.
+Der Stamm der Orben hat sich dazu mit dem Mahlstrom verbündet, während die Ejin für die Bruderschaft der Morgenviper stehen. Die Horo ergreifen für die Legion der Unsterblichen das Banner.
+Für alle Aben<SoftHyphen/>teu<SoftHyphen/>re<SoftHyphen/>rin<SoftHyphen/>nen und Abenteuer ist es eine Frage der Ehre, sich als Vertreter ihrer jeweiligen Staatlichen Ge<SoftHyphen/>sell<SoftHyphen/>schaft in das Kampfgetümmel des Naadam zu stürzen."
+307,"Siegbedingungen"
+308,"Beim Onsal Hakair (Danshig Naadam) gewinnt jene Fraktion, die als erstes die erforderlichen Siegpunkte erlangt. Punkte können wie folgt generiert werden:
+
+1. Durch Besiegen von gegnerischen Spielern
+2. Durch Vereinigung mit einem Unschuldsfleck
+
+Wenn keine der drei Ge<SoftHyphen/>sell<SoftHyphen/>schaften die vorgegebene Punktzahl erreicht, gewinnt jenes Team, das die meisten Punkte gesammelt hat."
+309,"Unschuldsflecken"
+310,"Auf dem Schlachtfeld sind Unschuldsflecken verteilt, Areale, mit denen die Spieler sich vereinigen müssen, indem sie dort die Flagge ihres Teams hissen. Wenn ein Unschuldsfleck von einem Team übernommen wurde, generiert er für dieses Team Siegpunkte.
+
+■ Unschuldsflecken und die vier Zustände
+Unschuldsflecken verändern ihren Zustand in einer vorgegebenen Reihenfolge. Es gibt insgesamt vier unter<SoftHyphen/>schied<SoftHyphen/>liche Zustände, in denen sich ein Unschuldsfleck befinden kann.
+
+1. Ruhezustand
+Ein Unschuldsfleck im Ruhezustand ist noch inaktiv und es ist keine Interaktion möglich. Zu Beginn des Matches befinden sich alle Unschuldsflecken zunächst im Ruhezustand. Doch kurz nach dem Start des Matches werden zufällig ausgewählte Unschuldsflecken in den Wartezustand versetzt."
+311,"2. Wartezustand
+Der Wartezustand ist der Zustand vor der Aktivierung eines Unschuldsflecks. Hoch über einem Unschuldsfleck im Wartezustand erscheint ein leuchtendes Symbol, das sich langsam füllt und anzeigt, wie lange es noch dauert, bis der jeweilige Unschuldsfleck in den aktiven Zustand wechselt. "
+312,"3. Aktiver Zustand
+Durch Interaktion mit einem Unschuldsfleck im aktiven Zustand kann sich ein Spieler mit diesem „vereinigen“. Dadurch wird an der Stelle des Unschuldsflecks die Flagge des eigenen Teams gehisst. Wird man während des Vorgangs von anderen Spielern angegriffen, wird dieser untergebrochen."
+313,"4. Zustand der Vereinigung 
+Ein besetzter Unschuldsfleck generiert für die Fraktion, die dort ihre Flagge gehisst hat, Siegpunkte. Auf diese Weise besetzte Unschuldsflecken sind für eine gewisse Zeit immun gegen Manipulationsversuche durch andere Teams. Nach Ablauf einer vorgegebenen Zeit kehren sie jedoch wieder in den ursprünglichen Ruhezustand zurück. Kurze Zeit später wechselt ein Unschuldsfleck an anderer Stelle in den Wartezustand. Dieser ist durch das sich langsam füllende, leuchtende Symbol über das ganze Schlachtfeld hinweg gut erkennbar."
+314,"■ Ränge von Unschuldsflecken
+Es gibt drei Ränge von Unschuldsflecken: Rang B, Rang A und Rang S. Wenn ein Unschuldsfleck in den Wartezustand wechselt, nimmt er zufällig einen der drei genannten Ränge an. Je höher der Rang des Unschuldsflecks, desto seltener sein Erscheinen und desto mehr Punkte erlangt ein Team, während es mit ihm vereinigt ist (S>A>B). Unschuldsflecken, die näher am Zentrum des Schlachtfeldes liegen, haben eine höhere Wahr<SoftHyphen/>schein<SoftHyphen/>lich<SoftHyphen/>keit, einen hohen Rang anzunehmen.
+
+■ Unschuldsflecken im Verlauf der Spielzeit
+Im Laufe eines Matches verringert sich die Anzahl der Unschuldsflecken, die gleichzeitig im Wartezustand sein können. Dafür wird es leichter, höherrangige Unschuldsflecken zu besetzen."
+315,"Szenarioführer: Neues Spiel+"
+316,"Der Szenarioführer für Neues Spiel+ zeigt an, welches Kapitel gerade aktiv ist und welcher Auftrag als Nächstes gespielt werden kann."
+317,"Auf großer Fahrt"
+318,"Grundlegendes"
+319,"„Auf großer Fahrt“ ist eine Attraktion der Fischergilde, bei der bis zu 24 Fischer an Bord des Fischerschiffs <Emphasis>Endeavor</Emphasis> über das Meer segeln und unterwegs angeln können."
+320,"■ Allgemeine Beschreibung
+Bei der großen Fahrt können Spieler einzeln oder in Gruppen mitfahren. Insgesamt ist an Bord des Schiffes Platz für 24 Fischer. Einzelne Spieler und Gruppen mit weniger als 8 Spielern werden für die Fahrt zu vollen Trupps zusammengefasst. Bei jeder Fahrt hält das Schiff an 3 Stellen und kehrt dann nach Limsa Lominsa zurück.
+
+■ Teilnahme
+Die Anmeldung zu einer Fahrt auf der <Emphasis>Endeavor</Emphasis> erfolgt bei Dryskthota am Fähranleger von Limsa Lominsa. Die Anmeldephase beginnt alle zwei Stunden (Erdenzeit). Die Anmeldung als Gruppe muss von dem Gruppenanführer durchgeführt werden. Das Schiff legt spätestens 15 Minuten nach Beginn der Anmeldephase ab oder frühzeitig, sobald 24 Fischer angemeldet sind. Die Anmeldezeiten können auf dem Fahrplan eingesehen werden.
+
+■ Belohnung
+Für besondere Erfolge beim Fischen erhalten Spieler Titel, Begleiter, Reittiere und andere Belohnungen. Zusätzlich können Fischer ab Stufe 50 Sammlerscheine erhalten."
+321,"Spezialköder"
+322,"Die Fischergilde hat für die große Fahrt spezielle Köder entwickelt, mit denen verschiedene Fischarten gefangen werden können. Es lohnt sich jedoch, auch andere Köder auszuprobieren, denn nicht alle Fischarten beißen bei den Spezialködern an. Die Spezialköder werden am Fähranleger und an Bord der <Emphasis>Endeavor</Emphasis> angeboten."
+323,"Die Phantomströmung"
+324,"Unter bestimmten Bedingungen tritt ein besonderes Wetterphänomen auf: die Phantomströmung. Während der Phantomströmung schwimmen im Wasser besonders viele Fische, sodass auch mehr Fische gefangen werden können. Außerdem gibt es einige Fischarten, die aus<SoftHyphen/>schließ<SoftHyphen/>lich im Phantomstrom auftauchen."
+325,"Punkte"
+326,"Für jeden gefangenen Fisch werden Punkte vergeben. Die Belohnung am Ende der Fahrt hängt von der Anzahl der insgesamt erreichten Punkte ab. Die Punkte bleiben erhalten, auch wenn ein Fisch freigelassen oder aus dem Inventar entfernt wird. Die Fangübersicht gibt während der Fahrt einen Überblick über die gefangenen Fische und die dafür erhaltenen Punkte."
+327,"Auswertung des Fangs"
+328,"Am Ende jeder Fahrt wird eine Übersicht über den eigenen Fang und den gesamten Fang angezeigt. Wenn während der Fahrt bestimmte Bedingungen erfüllt wurden, erhalten die Fischer einen Bonus auf ihre Punkte.
+
+■ Persönlicher Fang
+Hier wird eine Übersicht über die selbst gefangenen Fische, die dafür erhaltenen Punkte und einen eventuellen Bonus angezeigt.
+
+
+■ Gesamtfang
+Hier wird eine Übersicht über die erreichten Punkte der 10 besten Fischer angezeigt.
+
+Achtung: Wer den Inhalt frühzeitig verlässt, verpasst die Auswertung und erhält auch keine Belohnung."
+329,"Bonusbedingungen"
+330,"Auf der großen Fahrt können Fischer Bonuspunkte erreichen, indem sie unterwegs bestimmte Bedinungen erfüllen. Zum Beispiel müssen dafür bestimmte Punktzahlen erreicht, bestimmte Fische oder als Gruppe bestimmte Fischarten gefangen werden. Die geltenden Bedingungen werden unterwegs in der Fangübersicht und am Ende bei der Auswertung angezeigt."
+331,"Die Puppenfestung"
+332,"Abhandlung zu den Modellen der YoRHa"
+333,"Die YoRHa unterhält diverse Modelltypen. Der Buchstabe im Namen der Einheit gibt dabei ihre Klassifizierung an. Prominente Vertreter sind beispielsweise das Battler-Modell (B), der Standard für Kampf<SoftHyphen/>hand<SoftHyphen/>lun<SoftHyphen/>gen aller Art, sowie das Scanner-Modell (S), spezialisiert auf Datenfassung und operative Unterstützung."
+334,"Zum Bunker"
+335,"Der Bunker ist die Militärbasis der YoRHa-Streitkräfte. Von ihm aus werden nicht nur sämtliche Einheiten der YoRHa operiert, im Bunker findet auch ihre regelmäßige Wartung statt. Zusätzlich ist er ein Knotenpunkt für die Forschung und Entwicklung von Maschinenwesenabwehrwaffen."
+336,"Studie der YoRHa #1"
+337,"Im Untersuchungsgebiet wurde die Entwicklung einer eigentümlichen Subspezies der Maschinenwesen festgestellt. Phänotypisch haben jene Kreaturen mit ihren maschinellen Artgenossen nur sehr wenig gemein; auf den ersten Blick scheinen sie gar menschlichen Ursprungs."
+338,"Studie der YoRHa #2"
+339,"Eine diverse Reihe äußerer Faktoren kommen als Auslöser dieser Entwicklung in Frage. Erweist sich diese Hypothese als wahr, ist bei zukünftigen Einsätzen höchste Vorsicht geboten. In jedem Fall verdeutlicht dies, wie wenig über die Maschinenwesen bekannt ist und wie viel Forschung es auf diesem Gebiet noch bedarf."
+340,"Datenspeicher eines Maschinenwesens #1"
+341,"Fabrik ist langweilig. Lang. Wei. Lig.
+Viele schwänzen, seit neulich. Nicht mehr nur ich.
+Ich gehe. Beobachte andere Maschinen.
+Hat mit meiner Arbeit nichts zu tun.
+Menschen nennen das Freizeit, vielleicht?"
+342,"Datenspeicher eines Maschinenwesens #2"
+343,"Maschinen, die Freizeit gelernt haben, probieren viele Dinge aus.
+Komische Maschinen bauen sich sogar selbst um, als Freizeit.
+Meine Freizeit ist Computer durchsuchen. Nach Unnütz-Daten."
+344,"Datenspeicher eines Maschinenwesens #3"
+345,"Einmal beim Durchsuchen habe ich besondere Unnütz-Daten gefunden.
+Gruselige Daten. Daten über Akt der Zeugung.
+Maschinenkörper brauchen keine Zeugung. 
+Warum machen Menschen Zeugung?"
+346,"Datenspeicher eines Maschinenwesens #4"
+347,"Auf Zeugen folgt Geburt. Ist Geburt etwas Besonderes?
+Vielleicht ist Geburt anders als Produktion?
+Wir kommen aus Produktion. Können wir auch etwas zeugen und Geburt haben?
+Werden wir anders, wenn wir etwas zeugen?"
+348,"Datenprotokoll einer weißen YoRHa-Einheit"
+349,"Auf dem Server des Bunkers wurden die Erinnerungsdaten von Operator 21O gefunden. Es ist zu vermuten, dass sie ein vom Operator selbst angelegtes Notfall-Backup sind. Eventuell kann auf Grundlage dieser Daten ein Pseudo-Operator 21O reproduziert werden, um die Kontrolle über das Verteidigungssystem zu erlangen. Die Erinnerungsdaten werden mit allen an der Operation beteiligten Einheiten geteilt."
+350,"Elektronische Mitteilung"
+351,"Betreff: Reinigung der Uniform
+
+Bereits zur Verfügung gestellte YoRHa-Uniformen müssen zum festgelegten Termin an die Reinigungseinheit übergeben werden. Eine Annahme außerhalb der folgenden Zeiten ist nicht möglich.
+
+Kampfuniformen: Nach Einsatzrückkehr (bis zum Morgen des Folgetages)
+Ziviluniformen: Sonntags
+* Die Nichtabgabe zu reinigender Klamotten wird mit einer Verwarnung geahndet."
+352,"Sehnsucht"
+353,"Leid wird geboren.
+Einsamkeit wird geboren.
+Freude wird geboren.
+Ich, geboren um zu gebären, kannte niemals Leid, niemals Einsamkeit, niemals Freude.
+Doch eine echte Seele<Indent/>- nicht gebaut, nicht geschaffen<Indent/>- wer gebärt sie?"
+354,"Was ist die Traumtafel?"
+355,"Wie spielt man an der Traumtafel?"
+356,"Übersicht"
+357,"Traumprüfungen"
+358,"Die Traumtafel"
+359,"Spielablauf"
+360,"Extraprüfungen"
+361,"In diesem Inhalt stellst du dich zwei Heraus<SoftHyphen/>forde<SoftHyphen/>rungen: einem Kampf namens <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Traumprüfung<UIGlow>01</UIGlow><UIForeground>01</UIForeground> und einem Spiel an der <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Traumtafel<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Bist du erfolgreich, wirst du mit Traumblättern belohnt, die Großmeister Reineke gegen verschiedene Preise tauscht."
+362,"Die Traumprüfungen basieren auf bereits bekannten extremen Kämpfen, replizieren dabei allerdings den Schwie<SoftHyphen/>rig<SoftHyphen/>keits<SoftHyphen/>grad zur Zeit ihrer ersten Veröffentlichung. Selbst erfahrene Spieler werden dabei an ihre Grenzen stoßen und sollten sich niemals unvorbereitet an eine Traumprüfung wagen.
+
+In der Regel bringt ein neuer Patch neue Traumprüfungen mit sich, wobei es sein kann, dass die Entwicklung für den Inhalt zwischenzeitlich pausiert wird. Informationen zu den Traumprüfungen findest du in den jeweiligen Patch-Details. Die momentane Auswahl kannst du in der Raid-Suche einsehen."
+363,"Nach erfolgreichem Abschluss der Traumprüfung kann sich einmal pro Woche an Großmeister Reineke gewendet werden, der dann Zugang zu seiner Traumtafel gewährt. Dort winkt die wohlverdiente Belohnung!
+
+※ Der Zugang zur Traumprüfung wird wöchentlich am <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>Sonntag</Case><Case(2)>Montag</Case><Case(3)>Dienstag</Case><Case(4)>Mittwoch</Case><Case(5)>Donnerstag</Case><Case(6)>Freitag</Case><Case(7)>Samstag</Case></Switch> um <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>:00 Uhr (Erdenzeit) zurückgesetzt und kann außerdem in der Raid-Suche eingesehen werden."
+364,"Bei der <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Traumtafel<UIGlow>01</UIGlow><UIForeground>01</UIForeground> geht es darum, die versteckten Bilder aufzudecken, die sich unter den Tafelteilen verbergen. Wähle weise, um so viele Traumblätter wie möglich zu ergattern!"
+365,"Insgesamt dürfen 11 Tafelteile umgedreht werden. Verschiedene Bilder geben verschieden viele Traumblätter, also lohnt es sich durchaus, nach den wertvollsten zu suchen.
+
+■ Bildarten"
+366,"Die erhaltenen Traumblätter richten sich nach der Größe und der Art des aufgedeckten Bilds:
+Kreuzschwert (Groß) - 15 Traumblätter
+Geschenk (Mittel) - 35 Traumblätter
+Schatztruhe (Mittel) - 25 Traumblätter
+Großmeister (Klein) - 100 Traumblätter
+※ Insgesamt kannst du bis zu 1000 Traumblätter in deinem Besitz haben.
+
+■ Traumtafel-Tipps
+Auf einer Traumtafel ist ein großes und ein mittleres Bild immer garantiert, ein kleines jedoch nicht. Um das meiste aus einer Tafel herauszuholen, gilt es, <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>sich von vornherein zu überlegen, wie die verschieden großen Bilder angeordnet sein könnten, bevor man mit dem Umdrehen von Tafelteilen beginnt.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+367,"Wird ein großes Bild aufgedeckt, erhält man außerdem eine <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Extraprüfung<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Das bedeutet, dass man sich ein weiteres Mal vor der wöchentlichen Zurücksetzung einer Traumprüfung stellen kann und somit auch ein weiteres Mal an der Traumtafel spielen darf. Es gilt also, zu erwägen, ob man lieber nach wertvollen Bildern sucht oder Jagd auf die Extraprüfung machen möchte.
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>※ Pro Woche wird nur eine Extraprüfung gewährt. Dies wird wöchentlich am <ResetTime>1203</ResetTime><Switch(TopLevelParameter(220))><Case(1)>Sonntag</Case><Case(2)>Montag</Case><Case(3)>Dienstag</Case><Case(4)>Mittwoch</Case><Case(5)>Donnerstag</Case><Case(6)>Freitag</Case><Case(7)>Samstag</Case></Switch> um <If(TopLevelParameter(218))><Switch(TopLevelParameter(218))><Case(1)>1</Case><Case(2)>2</Case><Case(3)>3</Case><Case(4)>4</Case><Case(5)>5</Case><Case(6)>6</Case><Case(7)>7</Case><Case(8)>8</Case><Case(9)>9</Case><Case(10)>10</Case><Case(11)>11</Case><Case(12)>12</Case><Case(13)>13</Case><Case(14)>14</Case><Case(15)>15</Case><Case(16)>16</Case><Case(17)>17</Case><Case(18)>18</Case><Case(19)>19</Case><Case(20)>20</Case><Case(21)>21</Case><Case(22)>22</Case><Case(23)>23</Case></Switch><Else/>0</If>:00 Uhr (Erdenzeit) wieder zurückgesetzt.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+368,""
+369,""
+370,""
+371,""
+372,""
+373,""
+374,"Allgemeine Informationen"
+375,"Widerstandsrang"
+376,"Kritische Gefechte"
+377,"Bozja-Polykristalle"
+378,"Verschollene Kommandos"
+379,"Kiste und Register für Verschollenes"
+380,"Bozja-Ausrüstung"
+381,"Bozja-Südfront"
+382,"Widerstandsrang"
+383,"Kampfunfähigkeit"
+384,"Kritische Gefechte"
+385,"Teilnahme"
+386,"Bevorzugte Teilnahme"
+387,"Bozja-Polykristalle"
+388,"Verschollene Kommandos"
+389,"Kiste für Verschollenes"
+390,"Register für Verschollenes"
+391,"Benutzung von Kiste und Register"
+392,"Bozja-Ausrüstung"
+393,"Die Südfront von Bozja erstreckt sich über ein Gebiet, das von der IV. Kaiserlichen Legion kontrolliert und von den bozianischen Widerstandskämpfern umkämpft wird. Hilf ihnen, diese Länder zurück<SoftHyphen/>zu<SoftHyphen/>erobern, indem du an groß angelegten Kämpfen teilnimmst."
+394,"■ Allgemeine Informationen
+Dies ist ein Erkundungsinhalt, der alleine oder im Team gespielt werden kann. Teams können sowohl vor der Registrierung als auch vor Ort zu<SoftHyphen/>sammen<SoftHyphen/>gestellt und geändert werden.
+
+■ Teilnahmebedingungen
+An diesem Inhalt können Krieger und Magier der Stufe 71 oder höher teilnehmen. 
+
+■ Beschränkungen 
+Spieler können vor Ort ihre Klassen wechseln, solange es sich um eine Krieger- oder Magierklasse der Stufe 71 oder höher handelt.  In kritischen Gefechten ist kein Klassenwechsel möglich.
+Im Inhalt wird die Stufe des Charakters auf 80 und die Gegen<SoftHyphen/>stands<SoftHyphen/>stufe auf 430 angepasst. 
+Routine, die im Inhalt gewonnen wird, wird auf die Routine vor Stufenanpassung angewendet."
+395,"Der Widerstandsrang gibt an, wie beeindruckend du dich auf dem Schlachtfeld schlägst. 
+
+In diesem Inhalt erwarten dich verschiedene Missionen, wie Scharmützel und kritische Gefechte. Erfolgreicher Abschluss wird mit Punkten belohnt, die Frontwissen genannt werden. Besuche den Strategieoffizier, wenn du genug Punkte für einen neuen Widerstandsrang gesammelt hast, damit er dich hochstuft.
+
+Widerstandsrang und Frontwissen werden gespeichert, wenn du den Inhalt verlässt. So kannst du beim nächsten Betreten des Inhalts auf dem gleichen Stand weiterspielen.
+
+Mit steigendem Widerstandsrang werden neue Gebietsabschnitte freigeschaltet. Du wirst an noch intensiveren Schlachten teilnehmen, aber auch mehr Verschollene Kommandos gleichzeitig ausführen können."
+396,"Kampfunfähigkeit wird in Inhalten der „Königinnenwache“-Auftragsreihe auf zwei Arten bestraft.
+
+■ Strafe für Kampfunfähigkeit
+Du verlierst Frontwissen.
+
+■ Strafe für Rückführung nach Kampfunfähigkeit
+Wenn du dich zur Gemarkung teleportierst, während du kampfunfähig bist, verlierst du zusätzlich Frontwissen.
+※ Das Gleiche gilt, wenn der Inhalt im kampfunfähigen Zustand verlassen wird.
+
+Die Höhe der Strafe hängt von dem Widerstandsrang ab. Ist dieser unter 5, wird keine Strafe angewendet."
+397,"Kritische Gefechte sind spezielle Kämpfe, an denen nur eine bestimmte Anzahl von Spielern gleichzeitig teilnehmen kann. Sie treten nur auf, wenn genügend Magitek-Maschinen zerstört wurden und das Kaiserreich Verstärkung sendet."
+398,"Um an einem kritischen Gefecht teilnehmen zu können, muss man sich über das dafür vorgesehene Fenster registrieren."
+399,"Jedes kritische Gefecht hat eine Teilnehmergrenze. Spieler können sich vor dem Start registrieren. Bei Beginn des Kampfes werden die Teilnehmer zufällig unter den registrierten Spielern ausgewählt. 
+
+Spieler können das Recht auf bevorzugte Teilnahme erhalten, um bei der Auswahl bevorzugt zu werden."
+400,"Es gibt zwei Möglichkeiten, bei der Teilnahme an kritischen Gefechten bevorzugt zu werden. 
+
+■ Gefecht auslösen
+Der Spieler, der das kritische Gefecht auslöst, erhält automatisch das Recht auf bevorzugte Teilnahme. Dieses Recht genießt Vorzug vor dem durch Bozja-Polykristalle gewährtem Recht auf Teilnahme.
+
+■ Bozja-Polykristalle
+Bozja-Polykristalle, die an der Südfront erbeutet werden, können an der Gemarkung bei dem Beschaffungsoffizier gegen das Recht auf bevorzugte Teilnahme eingetauscht werden.
+
+ ※ Bei Teilnahme als Gruppe müssen alle Grup<SoftHyphen/>pen<SoftHyphen/>mit<SoftHyphen/>glieder die gleichen Rechte auf bevorzugte Teilnahme haben, damit sie angewendet werden können."
+401,"Bozja-Polykristalle entstehen gelegentlich an der Südfront, wenn Magitek-Maschinen zerstört werden."
+402,"Sie können in der Gemarkung bei dem Beschaffungsoffizier gegen folgende Belohnungen eingetauscht werden.
+
+■ Bevorzugte Teilnahme
+Spieler können dieses Sonderrecht nutzen, um bevorzugt Zugang zu kritischen Gefechten zu erhalten.
+
+■ Seltene Gegenstände 
+Bozja-Polykristalle können auch gegen Frontsplitter oder andere seltene Gegenstände eingetauscht werden."
+403,"■ Verschollene Kommandos
+Verschollene Kommandos sind spezielle Kommandos zum Gebrauch in Inhalten der Auftragsreihe „Die Königinnenwache“. Bringe Frontsplitter zu dem Begutachtungsoffizier an der Gemarkung oder in einem anderen Lager entlang der Front, um sie der Kiste für Verschollenes hinzuzufügen.
+
+Frontsplitter können durch Teilnahme an Scharmützeln und kritischen Gefechten erbeutet werden. Um sie begutachten zu lassen, muss ein bestimmter Widerstandsrang erreicht sein.
+
+Es gibt sechs verschiedene Arten von Kommandos, die nur mit bestimmten Jobs benutzt werden können: Verteidiger, Angreifer, Heiler, Unterstützer, Späher und Saboteur. Außerdem gibt es Kommandos in Form von Gegenständen."
+404,"■ Kiste für Verschollenes
+In der Kiste für Verschollenes werden Verschollene Kommandos abgelegt. Sie werden erworben, indem Frontsplitter zum Begutachtungsoffizier gebracht und begutachtet werden.
+
+Es ist Platz für 200 Kommandos. Wird diese Zahl überschritten, gehen neue Kommandos bei Erwerb verloren.
+
+Um Verschollene Kommandos zu benutzen, müssen sie im Register für Verschollenes abgelegt werden."
+405,"■ Register für Verschollenes
+Um Verschollene Kommandos im Kampf zu benutzen, müssen sie im Register abgelegt werden. Die Anzahl der verwendbaren Kommandos erhöht sich mit steigendem Widerstandsrang.
+
+Die Kommandos nehmen unter<SoftHyphen/>schied<SoftHyphen/>lich viel Platz im Register ein. Achte also darauf, die richtigen auszuwählen."
+406,"■ Verschollene Kommandos hinzufügen und entfernen
+Füge Kommandos, die nützlich erscheinen, dem Register für Verschollenes hinzu, um sie im Kampf einsetzen zu können. Wähle sie sorgfältig, denn der Platz im Register ist begrenzt. Nicht mehr benötigte Kommandos können zurück in die Kiste für Verschollenes gelegt werden.
+
+■ Kommandosets 
+Es können bis zu 10 Kommandosets erstellt und gespeichert werden. So kannst du die Auswahl beim Wechsel zu einem anderen Job beschleunigen. Sets können auch nachträglich geändert werden."
+407,"An der Südfront können spezielle Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände erbeutet werden, die nützliche Boni vergeben. Diese Boni sind nur innerhalb des Inhalts wirksam."
+408,"Einsatz Verschollener Kommandos"
+409,"■ Kommandos und Gegenstände
+Es gibt zwei Arten von Verschollenen Kommandos: rollenspezifische Kommandos und Gegenstände.
+Rollenspezifische Kommandos müssen als Spezialkommandos registriert werden. Sie können auch nach Verlassen des Inhalts benutzt werden, bis sie aufgebraucht sind.
+Gegenstände werden nicht als Spezialkommando registriert, sondern können direkt aus dem Register heraus verwendet oder im Kommandomenü abgelegt werden."
+410,"■ Einsatz bei Maussteuerung
+Aktiviere das im HUD angezeigte Kommando mit der <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow> linken Maustaste<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. (Die Belegung kann geändert werden.)
+
+■ Einsatz bei Controllersteuerung
+Rufe das Kreuz-Kommandomenü auf (<CommandIcon(14)/><CommandIcon(15)/> drücken) und aktiviere das Kommando mit <CommandIcon(17)/>.
+
+■ Einsatz von Gegenständen
+Öffne das Register über das rote Spezialfenster und wähle den Gegenstand. Gegenstände können auch im Kommandomenü abgelegt werden."
+411,"Schiffsmissionen"
+412,"Wenn du an Bord der <Emphasis>Endeavor</Emphasis> gehst, beauftragt dich der Schiffskapitän mit drei Schiffsmissionen. Den Inhalt der Missionen kannst du über ein Spezialfenster einsehen, das angezeigt wird. Je nach Route musst du Haie fangen, Fische mit schwachem Zug fangen oder andere Aufgaben erfüllen. Die Zugstärke der Fische ist an der Anzahl der Ausrufezeichen erkennbar, die bei einem Fang über dem Kopf des Fisches angezeigt werden.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>! = schwacher Zug
+!! = starker Zug
+!!! = extremer Zug<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Die Mission gilt als erfüllt, wenn du die erforderliche Anzahl Fische innerhalb der festgelegten Zeit fangen konntest. Je mehr Missionen du erfüllst, desto größer fällt der Bonus am Ende einer Mission aus, der deinen Punktestand erhöht. Lass dir diese Gelegenheit also nicht durch die Finger schlüpfen!"
+413,"Abbruch einer Schiffsmission"
+414,"Brichst du eine Schiffsmission ab, kannst du dich für die Dauer der Anmeldezeit der aktuellen Fahrt nicht erneut für eine Teilnahme anmelden.
+※ Die Teilnahmesperre gilt nur für die große Fahrt, nicht für andere Inhalte.
+※ Die Teilnahmesperre gilt in allen Welten."
+415,"Offizielle Turniere"
+416,"Privatturniere"
+417,"Übersicht"
+418,"Wertung"
+419,"Match-Regeln"
+420,"Übersicht"
+421,"Match-Regeln festlegen"
+422,"Bei einem offiziellen Turnier spielen acht Teilnehmer nach festgelegten Regeln gegeneinander Triple Triad."
+423,"■ Die Grundlagen
+Spieler können sich einzeln registrieren. Bis zu acht Spieler werden automatisch in einer Gruppe zusammengefasst und treten bei dem Turnier gegeneinander an.
+
+■ Teilnahme
+Die Registrierung für das nächste Turnier erfolgt bei der Turnierleitung im Gold Saucer.<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow> Die Registrierung ist jeweils für 30 Minuten geöffnet und erfolgt alle 2 Stunden (Erdenzeit).<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Das Turnier beginnt, sobald sich acht Spieler angemeldet haben oder die Zeit für die Registrierung abgelaufen ist. Bei weniger als acht angemeldeten Spielern werden die freien Plätze mit NPCs besetzt. Die Registrierungszeiten werden in der Turnierübersicht angegeben.
+
+■ Belohnung
+Am Ende eines Turniers erhalten die Teilnehmer MGP, Triple-Triad-Karten und andere Preise. Die Höhe der Belohnung hängt vom erzielten Rang und dem Gewinnverhältnis ab. Zusätzlich gibt es Titel und Gegenstände als Belohnungen für Errungenschaften."
+424,"■ Wertung
+Ein offizielles Turnier verläuft in drei Runden, in denen Spieler Punkte sammeln: 2 Punkte für einen Sieg, 1 Punkt für ein Unentschieden und 0 Punkte für eine Niederlage. Am Ende der dritten Runde gewinnt der Spieler mit den meisten Punkten.
+
+Zusätzlich zu den Punkten wird die Differenz der zum Spielende eroberten Karten notiert. Wenn es bei den Punkten zu einem Gleichstand kommt, gewinnt der Spieler mit der höheren Anzahl von Eroberungen.
+
+■ Festlegung der Gegner
+Für die erste Runde werden die Gegner zufällig festgelegt. In der zweiten und dritten Runde treten jeweils die Spieler mit einer ähnlich hohen Punktzahl gegeneinander an."
+425,"■ Match-Regeln
+Für alle offiziellen Turniere gilt die Regel „Improvisation“. Das bedeutet, alle Spieler spielen mit Karten, die ihnen vom Turnierveranstalter zur Verfügung gestellt werden."
+426,"Zu Beginn des Turniers werden drei Reihen mit Karten zur Auswahl angezeigt. Aus jeder Reihe kann eine Option ausgewählt werden. Die Karten werden dem Deck hinzugefügt und dann im gesamten Turnier verwendet."
+427,"Wer noch etwas unsicher bei der Auswahl ist, kann sich über die Option „Automatische Auswahl“ die stärksten Karten geben lassen.
+
+Die Zusammenstellung der angebotenen Karten erfolgt zufällig, aber alle Spieler erhalten dieselbe Anzahl seltener Karten zur Auswahl.
+
+■ Regeln
+Bei der Manderville-Turnierleitung kannst du die Turnierübersicht ansehen. Dort ist jeweils angegeben, ob für ein Turnier die Grundregeln oder die Erweiterungsregeln gelten.
+
+Bei den Grundregeln gelten nur die Grundregeln des Spiels und die Match-Regel „Improvisation“. Diese Turniere bieten also einen besonders leichten Zugang.
+
+Die Erweiterungsregeln bieten Spielern mehr Abwechslung und Komplexität. Zusätzlich zu „Improvisation“ gelten hier weitere Match-Regeln wie zum Beispiel „Gleich“ und „Plus“.
+
+Die offiziellen Turniere wechseln regelmäßig zwischen Grundregeln und Erweiterungsregeln, sodass niemand lange auf seine bevorzugte Variante warten muss."
+428,"Privatturniere laufen weitgehend wie offizielle Turniere ab, allerdings gibt es bei ihnen keine Belohnungen zu gewinnen. Spieler können sich einzeln oder als Gruppe anmelden.
+
+■ Teilnahme
+Spieler können sich einzeln oder als Gruppe zu einem Privatturnier anmelden, indem sie in der Inhaltssuche „Triple Triad: Privatturnier“ auswählen. Bei weniger als acht Spielern werden die freien Plätze mit Angestellten des Gold Saucers oder mit Stammgästen besetzt.
+
+■ Revanchen
+Am Ende eines Privatturniers kann eine Revanche organisiert werden. Wenn alle Spieler der Revanche zustimmen, wird ein neues Turnier mit denselben Teilnehmern durchgeführt. Nach maximal drei Revanchen muss eine neue Registrierung stattfinden."
+429,"■ Match-Regeln
+Bei Privatturnieren können die Match-Regeln, abgesehen von den Regeln „Verlängerung“ und „Zufallshand“, beliebig festgelegt werden."
+430,"Die Match-Regeln werden zum Beginn des Turniers vom Gruppenführer festgelegt. <UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Wenn die Regel „Improvisation“ abgewählt wird, können die Spieler mit ihren eigenen Kartendecks teilnehmen.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Selbstverständlich sollten sich die Spieler zusammen darauf verständigen, welche Regeln sie verwenden möchten."
+431,"<If(PlayerParameter(4))>Liebe Helferfreundin<Else/>Lieber Helferfreund</If>,
+Du fragst dich sicher, wo ich geblieben bin. Ich habe mich entschieden, auf Reisen zu gehen. Diese weißen Kugeln lassen mir einfach keine Ruhe. Ich muss wissen, was es mit ihnen auf sich hat und suche nun andernorts nach nützlichen Informationen. Außerdem habe ich mir vorgenommen, ein Reisetagebuch zu führen und meine Fortschritte mit dir zu teilen. So hoffe ich, dass diese Aufzeichnung heil bei dir ankommt. Und, dass es dir gut geht.
+
+Liebe Grüße
+Dein Konogg"
+432,"<If(PlayerParameter(4))>Liebe Helferfreundin<Else/>Lieber Helferfreund</If>,
+Der Pod an meiner Seite sagt, dass die weißen Kugeln aus einer anderen Welt stammen. Sie scheinen eine Invasionswaffe zu sein, die Maschinenwesen kopiert, um andere Welten mit ihnen zu fluten. Das bedeutet aber doch auch, dass <Emphasis>unsere</Emphasis> Heimat für jemanden eine „andere Welt“ ist, oder nicht?
+
+Nachdenkliche Grüße
+Dein Konogg"
+433,"<If(PlayerParameter(4))>Liebe Helferfreundin<Else/>Lieber Helferfreund</If>,
+2B und 9S waren beide in einer weißen Kugel. Dort haben sie herausgefunden, dass die Maschinenwesen in unsere Welt einfallen wollen. Um dem entgegenzusteuern, haben sie ihre eigenen Daten in den Kopierprozess der Kugel eingespeist und sich so ebenfalls manifestiert. Also haben sie die ganze Zeit schon gegen die Maschinen und die Kugel gekämpft, nur wussten wir nichts davon.
+
+Bestürzte Grüße
+Dein Konogg"
+434,"<If(PlayerParameter(4))>Liebe Helferfreundin<Else/>Lieber Helferfreund</If>,
+Die weißen Kugeln waren mit der Welt verbunden, aus der 2B und 9S kommen. Sie ist technologisch sehr weit fortgeschritten und hat nach Göttern benannte Maschinen, auf denen riesige Datenmengen gespeichert sind. Darunter sind die Erinnerungen von richtigen Leuten, ich habe sie selbst gesehen. Nur verstanden habe ich nicht alles. Darüber muss ich unbedingt mehr erfahren.
+
+Grüblerische Grüße
+Dein Konogg"
+435,"<If(PlayerParameter(4))>Liebe Helferfreundin<Else/>Lieber Helferfreund</If>,
+Insgeheim habe ich es schon immer gewusst. Meine Schwester ist tot. Die Anogg, mit der ich mein ganzes Leben verbracht habe, war nur ein Anogg-artiges Ding. Aber es war eben dieses Ding, das mir einen Sinn gegeben hat. Und Freude. Und jetzt ist es fort. Aber wenn die weiße Kugel alle Art von Leben schaffen kann, dann doch vielleicht auch meine Schwester?
+
+Hoffnungsvolle Grüße
+Dein Konogg"
+436,"
+Anogg und ich brauchten stets nur einander. Wenig Leute waren nett zu uns, aber das hat uns nicht gestört. Vor nichts mussten wir Angst haben, denn wir hatten ja uns, waren ja immer füreinander da. „Irgendwann zahlen wir's der Welt heim!“, hat Anogg immer gesagt. Und jetzt? Ich akzeptiere keine Welt ohne Anogg. Ich akzeptiere es nicht, dass Anogg nicht mehr da ist."
+437,"Nachricht #1"
+438,"Nachricht #2"
+439,"Nachricht #3"
+440,"Nachricht #4"
+441,"Nachricht #5"
+442,"Nachricht #6"
+443,"Grundlegendes"
+444,"Besonderheiten"
+445,"Grundlegendes"
+446,"Verschollene Kommandos"
+447,"Fallen"
+448,"Strafen bei Kampfunfähigkeit"
+449,"Spezielle Ausrüstung"
+450,"Bildung von Gruppen und Allianzen"
+451,"Schatztruhen"
+452,"„Delubrum Reginae“ ist ein Allianz-Raid, bei dem du in einer Gruppe aus 24 Spielern die unterirdischen Ruinen von Bozja erkundest."
+453,"■ Allgemeine Informationen: 
+Der Inhalt „Delubrum Reginae“ kann alleine, als Gruppe oder als Allianz betreten werden. (Allianzen werden nach dem Betreten aufgelöst.)
+Nach Registrierung kann das Areal gewechselt werden. Der Inhalt beginnt, sobald sich 24 Spieler registriert haben. Die Gruppenzusammensetzung kann nach Beginn des Inhalts beliebig geändert werden.
+Mit Verschollenen Kommandos können auch Aufgaben anderer Rollen übernommen werden. Achte bei der Auswahl der Kommandos auf die Erfordernisse der Gruppe."
+454,"■ Teilnahmebedingungen
+An diesem Inhalt können Krieger und Magier der Stufe 80 oder höher teilnehmen."
+455,"■ Beschränkungen 
+In diesem Inhalt ist kein Jobwechsel möglich. Die Gegen<SoftHyphen/>stands<SoftHyphen/>stufe wird auf 430 angepasst. Die Parameterwerte sind für jeden Job festgelegt. Materia hat im Inhalt keine Wirkung."
+456,"Im Inhalt können wie überall an der Bozja-Südfront Verschollene Kommandos eingesetzt werden. Es stehen die gleichen Kommandos zur Verfügung, wie die, die an der Südfront erworben wurden. In der Nähe des Startpunkts steht eine Kiste für Verschollenes sowie ein Begutachtungsoffizier, die es ermöglichen, die Verschollenen Kommandos zu verwalten."
+457,"„Delubrum Reginae“ ist gespickt mit Fallen. Wenn du eine auslöst, erleidest du großen Schaden und wirst mit schweren Strafen belegt. Normalerweise sind Fallen nicht zu sehen, können aber mit einem speziellen Verschollenen Kommando sichtbar gemacht werden."
+458,"Kampfunfähigkeit wird in „Delubrum Reginae“ mit Abzug von Frontwissen bestraft. Ferner wird zusätzlich Frontwissen abgezogen, wenn du nach Kampfunfähigkeit die Rückführung nutzt. 
+※ Das Gleiche gilt, wenn der Inhalt im kampfunfähigen Zustand verlassen wird."
+459,"Der Bonus, von dem einige Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände an der Bozja-Südfront profitieren, ist auch in „Delubrum Reginae“ wirksam. Ferner kannst du durch das Erobern des Inhalts Gegenstände erwerben, die du gegen mächtige Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände eintauschen kannst."
+460,"Allianzen aus 24 Spielern werden bei Betreten des Inhalts vorläufig aufgelöst. Nach dem Start des Inhalts kann die Gruppenzusammensetzung beliebig verändert werden."
+461,"Das Anrecht auf Vergütungen wird in diesem Inhalt für jeden Spieler getrennt vergeben. Vergiss nicht, alle Schatztruhen zu öffnen, die du findest."
+462,"Grundlegendes"
+463,"Besonderheiten"
+464,"Grundlegendes"
+465,"Verschollene Kommandos"
+466,"Fallen"
+467,"Spezielle Ausrüstung"
+468,"Entfernung aus Inhalt nach Kampfunfähigkeit"
+469,"Strafen bei Kampfunfähigkeit"
+470,"Bildung von Gruppen und Allianzen"
+471,"Schatztruhen"
+472,"Wiederbelebungsbegrenzung"
+473,"„Delubrum Reginae (episch)“ ist ein Allianz-Raid, bei dem du in einer Gruppe aus 24 - 48 Spielern die unterirdischen Ruinen von Bozja erkundest."
+474,"■ Allgemeine Informationen
+Bevor der Inhalt betreten werden kann, muss zuerst eine Allianz mit bis zu 48 Spielern gegründet werden. Benutze dazu in der Gruppen<SoftHyphen/>suche die Option „Feldexkursion“. Wenn die Allianz bereit ist, kann der Anführer der Allianz mit dem Mujikoza-Schreiberling in Gangos sprechen, um den Inhalt zu betreten. 
+In dem Inhalt besteht eine Wiederbelebungsbegrenzung. Ein Teil der Wiederbelebungseffekte ist unwirksam. Die Wiederbelebungsbegrenzung macht diesen ohnehin schon schwierigen Inhalt zu einer echten Heraus<SoftHyphen/>forde<SoftHyphen/>rung. Mach dich auf eine zähe Erkundung gefasst!"
+475,"■ Teilnahmebedingungen
+An diesem Inhalt können Krieger und Magier der Stufe 80 oder höher teilnehmen."
+476,"■ Beschränkungen 
+In diesem Inhalt ist kein Jobwechsel möglich. Die Gegen<SoftHyphen/>stands<SoftHyphen/>stufe wird auf 430 angepasst. Die Parameterwerte sind für jeden Job festgelegt. Materia hat im Inhalt keine Wirkung."
+477,"Im Inhalt können wie überall an der Bozja-Südfront Verschollene Kommandos eingesetzt werden. Es stehen die gleichen Kommandos zur Verfügung, wie die, die an der Südfront erworben wurden. In der Nähe des Startpunkts steht eine Kiste für Verschollenes sowie ein Begutachtungsoffizier, die es ermöglichen, die Verschollenen Kommandos zu verwalten."
+478,"„Delubrum Reginae (episch)“ ist gespickt mit Fallen. Wenn du eine auslöst, erleidest du großen Schaden und wirst mit schweren Strafen belegt. Normalerweise sind Fallen nicht zu sehen, können aber mit einem speziellen Verschollenen Kommando sichtbar gemacht werden."
+479,"Der Bonus, von dem einige Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände an der Bozja-Südfront profitieren, ist auch in „Delubrum Reginae (episch)“ wirksam.
+Ferner kannst du durch das Erobern des Inhalts Gegenstände erwerben, die du gegen mächtige Aus<SoftHyphen/>rüstungs<SoftHyphen/>gegen<SoftHyphen/>stände eintauschen kannst."
+480,"Wenn nach Kampfunfähigkeit die Wiederbelebung nicht innerhalb einer bestimmten Zeit erfolgt, wirst du automatisch aus dem Spielinhalt entfernt. Statt „Zum Startpunkt zurückkehren“ erscheint bei Kampfunfähigkeit die Anzeige „Verlassen“."
+481,"Kampfunfähigkeit wird in „Delubrum Reginae (episch)“ mit Abzug von Frontwissen bestraft. Ferner wird zusätzlich Frontwissen abgezogen, wenn du nach Kampfunfähigkeit die Rückführung nutzt."
+482,"Allianzen werden bei Betreten des Inhalts vorläufig aufgelöst. Nach dem Start des Inhalts kann die Gruppenzusammensetzung beliebig verändert werden."
+483,"Das Anrecht auf Vergütungen wird in diesem Inhalt für jeden Spieler getrennt vergeben. Vergiss nicht, alle Schatztruhen zu öffnen, die du findest."
+484,"Innerhalb des Spielinhalts „Delubrum Reginae (episch)“ besteht eine Wiederbelebungsbegrenzung. Ein Teil der Wiederbelebungseffekte ist unwirksam. Limitrausch und Wiederbelebungseffekte der verschollenen Kommandos wirken wie gewohnt."
+485,"Konoggs Aufzeichnungen"
+486,"■ Arten von abgelegten Ziegeln
+Abgelegte Ziegel werden hervorgehoben, um anzuzeigen, ob sie direkt nach dem Ziehen abgelegt oder von einem anderen Spieler beansprucht wurden."
+487,"1. Leuchtende Hervorhebung = Ein Ziegel, der sofort nach dem Ziehen abgelegt wurde.
+2. Rot = Ein abgelegter Ziegel, der von einem anderen Spieler beansprucht wurde.
+3. Leuchtend und rot = Ein Ziegel, der direkt nach dem Ziehen abgelegt und dann von einem anderen Spieler beansprucht wurde."
+488,"■ Glücksziegelanzeige-Einstellungen
+Es gibt zwei Einstellungen für die Glücksziegelanzeige:
+
+Domanisches Mahjong: Der in der Glücksziegelanzeige gezeigte Ziegel gibt den Glücksziegelbonus.
+Traditionell: Der nächste Ziegel unter dem gezeigten Ziegel gibt den Glücksziegelbonus.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Diese Einstellung kann in den Einstellungen für domanisches Mahjong unter Charakter → Gold Saucer geändert werden.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>"
+489,""
+490,""
+491,""
+492,""
+493,""
+494,""
+495,""
+496,"Widerstandsorden"
+497,"Erhalt"
+498,"Wirkung"
+499,"Frontwissen-Marken"
+500,"Widerstandsorden werden an diejenigen Helden und Heldinnen verliehen, die sich besonders um den bozianischen Widerstand verdient gemacht haben. Sie gewähren in Inhalten der „Königinnenwache“-Auftragsreihe besondere Statuseffekte, welche die Kampfkraft des Charakters erhöhen. 
+
+Widerstandsorden können bei dem Protokolloffizier auf der Zadnor-Hochebene im Tausch gegen Frontwissen-Marken erworben werden. Diese Marken werden unter Verbrauch einer bestimmten Menge an Frontwissen ausgegeben."
+501,"Widerstandsorden gewähren in Inhalten der „Königinnenwache“-Auftragsreihe besondere Statuseffekte. Je mehr Orden ein Charakter hat, desto größer ist der Bonus. Es gibt drei Arten, von denen ein Charakter jeweils maximal 10 Stück besitzen kann.
+
+■ Eisenschild-Orden
+Erhöht die maximalen LP.
+
+■ Blutrausch-Orden
+Erhöht den ausgeteilten Schaden.
+
+■ Lebensretter-Orden
+Erhöht die Wirkung von LP-Regenerationseffekten."
+502,"Frontwissen-Marken können beim Protokolloffizier unter Verbrauch einer bestimmten Menge an Frontwissen erhalten werden. Der gleiche Protokolloffizier tauscht die Marken gegen Widerstandsorden ein.
+
+Frontwissen-Marken werden nicht in herkömmlichen Inventarfenstern angezeigt, sondern nach Betreten eines Inhalts der „Königinnenwache“-Auftragsreihe in einem besonderen Fenster."
+503,"Heldenduelle"
+504,"Wenn bestimmte kritische Gefechte mit besonders hohem Rang abgeschlossen werden, stellt sich ein besonders starker Gegner zum Heldenduell. Bestätige deine Teilnahme an dem Duell über das erscheinende Dialogfenster. Bei mehreren berechtigten Spielern entscheidet das Los, wer an dem Heldenduell teilnehmen darf.
+
+Die Heldenduelle sind eine schwierige Heraus<SoftHyphen/>forde<SoftHyphen/>rung! Nur wer die richtigen Verschollenen Kommandos vorbereitet und nutzt, kann Sieg und Ehre davontragen!"
+505,"Kampfeifer"
+506,"Wer nicht an einem Heldenduell teilnehmen konnte, wird mit gesteigertem Kampfeifer belohnt. Dies erhöht die Chance, für ein Heldenduell ausgelost zu werden. Nach Teilnahme an einem Duell wird der Kampfeifer wieder zurückgesetzt."
+507,"Großangriffe"
+508,"Der Widerstand greift das Hauptlager der IV. Legion mit einem Großangriff an!
+
+Während des Großangriffs kämpfen bis zu 48 teilnahmeberechtigte Spieler zusammen gegen mächtige Hauptgegner. Der Angriff will gut koordiniert sein, damit er erfolgreich ist und ein gutes Ergebnis erzielt wird."
+509,"Tiere auf hoher See"
+510,"Während des Hochseefischens auf der <Emphasis>Endeavor</Emphasis> kann man gelegentlich Delphine und Seemöwen beobachten. Für erfahrene Fischer sind dies stets gute Omen, denn dort, wo Delphine oder Möwen jagen, findet man in der Regel auch reichlich Fisch. Besonders abergläubische Seefahrer behaupten sogar, dass das Auftauchen einer quirligen Delphinschule oder eines Schwarms kreischender Möwen von einer Phantomströmung kündet!
+
+Augen auf also, wenn du das freche Schnattern von Delphinen oder das feiste Kreischen von Seemöwen hörst!"
+511,"Schnelles Auslösen von Großangriffen"
+512,"Großangriffe treten nach einer bestimmten Zeit auf. Die Wartezeit kann durch den Abschluss von Scharmützeln und kritischen Gefechten im Areal verkürzt werden."
+513,"Zadnor-Hochebene"
+514,"Die Zadnor-Hochebene, kurz auch nur Zadnor genannt, ist ein Bergplateau im nördlichen Bozja. Dort hat die IV. Legion ihr Hauptlager aufgeschlagen, und hier wird sich der Kampf um Bozja entscheiden."
+515,"Portraits"
+516,"Was sind Portraits?"
+517,"■ Die Grundlagen
+Wie der Name schon verrät, ist ein Portrait ein von dir gestaltetes Foto, das deinen Charakter mittels verschiedener Posen, Attacken, Emotes und natürlich Klamotten in Szene setzt.
+
+■ Portaits und ihre Anwendung
+Ein Portrait kann deinem Abenteurerpass hinzugefügt werden oder aber als Visitenkarte vor einer Partie des PvP-Inhalts Crystalline Conflict genutzt werden, um dich deinen Mitspielern vorzustellen."
+518,"Das Hauptportrait"
+519,"Du kannst eines der von dir erstellten Portraits als Anzeigebild für den Abenteurerpass einstellen. Dieses Portrait wird dann zu deinem Hauptportrait. 
+
+■ Eigenschaften
+Sobald du dein Hauptportrait nach Belieben bearbeitet und gespeichert hast, bleibt dein Aussehen darauf auch bei einem Klassen- oder Jobwechsel unverändert. Zögere nicht, dich für das Portrait in Schale zu werfen und durch die zahlreichen Einstellungen zu stöbern!
+
+■ Einstellen des Hauptportraits
+1. Wähle ein Portrait aus der Liste aus.
+2. Wähle im Untermenü die Option „Für den Abenteurerpass einstellen“.
+3. Bestätige mit „Ja“."
+520,"Das Schnellportrait"
+521,"Diese Art von Portrait basiert auf einem von dir gewählten Ausrüstungsset und dem Aussehen deines Charakters. Es wird anderen Spielern im PvP-Inhalt Crystalline Conflict zur Vorstellung der Teilnehmer angezeigt.
+
+■ Verknüpfung mit einem Ausrüstungsset
+Sobald du ein Portrait als Schnellportrait eingestellt hast, kannst du es mit einem Ausrüstungsset deiner Wahl verknüpfen. Änderst du anschließend die Ausrüstung im Set, ändert sich auch die im Schnellportrait angezeigte Ausrüstung. So kannst du sicherstellen, dass dein Job für die Teilnahme an PvP-Inhalten jederzeit ersichtlich ist."
+522,"Portraits erstellen/bearbeiten"
+523,"Erstellen und bearbeiten"
+524,"■ Neues Portrait erstellen
+Um ein neues Portrait zu erstellen, drücke auf die „+“-Schaltfläche unten links im Portraitbildschirm und wähle eine der folgenden Optionen:
+1. Neues Portrait
+2. Aus dem Hauptportrait erstellen
+3. Aus dem Schnellportrait erstellen
+
+■ Portrait bearbeiten
+Um ein bereits gespeichertes Portrait anzupassen, wähle im Untermenü des gewünschten Portraits die Option „Portrait bearbeiten“."
+525,"Portrait-Bearbeitung"
+526,"Im Bearbeitungsmenü stehen folgende Anpassungsoptionen zur Verfügung:
+
+■ Portrait-Gestaltung
+Hintergrund/Rahmen/Verzierung
+
+■ Charakteraussehen
+Pose und Bewegung/Ge<SoftHyphen/>sichts<SoftHyphen/>aus<SoftHyphen/>druck/Kopfausrichtung/Blickrichtung
+
+■ Beleuchtung
+Umgebungslicht/Gerichtete Beleuchtung
+
+■ Kameraposition
+・Kamera rotieren
+・Kamera zoomen
+・Charakter bewegen
+・Rotation
+・Blickwinkel-Zoom
+
+"
+527,"Portrait-Gestaltung"
+528,"Lass deiner Kreativität freien Lauf und gestalte dein Portrait mit diesen drei Optionen:
+1. Hintergrund
+2. Rahmen
+3. Verzierung
+
+Unter dem Reiter „Gestaltung“ findest du für jede Option eine Vielzahl an Auswahlmöglichkeiten, die du beliebig miteinander kombinieren kannst."
+529,"Charakteraussehen"
+530,"Nutze diese Einstellungen, um deinen Charakter in Szene zu setzen: 
+1. Pose und Bewegung
+2. Ge<SoftHyphen/>sichts<SoftHyphen/>aus<SoftHyphen/>druck
+3. Kopfausrichtung/Blickrichtung
+
+■ Pose und Bewegung
+Hier wählst du aus einer Liste von Emotes und Attacken-Animationen die Körperhaltung, die dein Charakter im Portrait einnehmen soll.
+
+■ Ge<SoftHyphen/>sichts<SoftHyphen/>aus<SoftHyphen/>druck
+Stelle den Ge<SoftHyphen/>sichts<SoftHyphen/>aus<SoftHyphen/>druck deines Charakters ein. Von glücklich bis ernst ist alles dabei.
+
+■ Kopfausrichtung/Blickrichtung
+Passe die Einstellungen unter dem Portrait an, um die Ausrichtung des Kopfes und die Blickrichtung deines Charakters, oder die genaue Position der Kamera zu ändern.
+
+※ Einige Emotes stehen nicht zur Auswahl.
+※ Bei einigen Emotes und Attacken können Kopfausrichtung und Blickrichtung nicht geändert werden."
+531,"Beleuchtung"
+532,"Die Beleuchtungseinstellungen sind in zwei Bereiche unterteilt:
+1. Umgebungslicht
+2. Gerichtete Beleuchtung
+
+■ Umgebungslicht
+Hier stellst du die Intensität und den Farbton der Ausleuchtung des Portraits ein.
+■ Gerichtete Beleuchtung
+Hier kannst du den Beleuchtungswinkel und die Lichtfarbe gezielt ausrichten."
+533,"Kameraposition"
+534,"Es gibt fünf Einstellungsmöglichkeiten zur Ausrichtung der Kameraposition: 
+1. Kamera rotieren
+2. Kamera zoomen
+3. Charakter bewegen
+4. Rotation
+5. Blickwinkel-Zoom
+
+■ Kamera rotieren
+Betätige die linke Maustaste  direkt über dem Portrait oder den rechten Analogstick <CommandIcon(23)/> des Controllers, um die Kamera um den Charakter herum rotieren zu lassen.
+※ Die Kameraposition dieser Funktion und Änderungen, die bereits mit „Charakter bewegen“ vorgenommen wurden, bedingen sich gegenseitig.
+
+■ Kamera zoomen
+Betätige <CommandIcon(12)/>＋<CommandIcon(23)/> auf dem <If(Equal(PlayerParameter(75),0))>Gamepad<Else/>Controller</If> oder das Mausrad , um mit der Kamera an Portraitdetails heran- oder von ihnen wegzuzoomen.
+
+■ Charakter bewegen
+Indem du die rechte Maustaste  direkt über dem Portrait oder den linken Analogstick <CommandIcon(20)/> des <If(Equal(PlayerParameter(75),0))>Gamepads<Else/>Controllers</If> betätigst, verschiebst du deinen Charakter im Bild nach rechts, links, oben und unten. 
+
+■ Rotation
+Nutze den Regler „Rotation“ am unteren Rand des Charakterportraits, um die Kamera von ihrem aktuellen Blickwinkel aus um sich selbst rotieren zu lassen. 
+
+■ Blickwinkel-Zoom
+Nutze den Regler „Zoom“ am unteren Rand des Charakterportraits, um die Ansicht zu vergrößern oder zu verkleinern, während die Kameraposition unverändert bleibt. 
+"
+535,"Portraits speichern"
+536,"Wenn du zufrieden bist, drücke auf „Speichern“.
+Beachte, dass bestimmte Bedingungen erfüllt sein müssen, damit das Portrait übernommen werden kann:
+1. Dein Charakter muss im Bild zu sehen sein.
+2. Der Ge<SoftHyphen/>sichts<SoftHyphen/>aus<SoftHyphen/>druck muss erkennbar sein.
+
+■ Dein Charakter muss im Bild zu sehen sein.
+Je nach Pose und Kameraposition kann es vorkommen, dass dein Charakter nicht im Bild zu sehen ist. Passe die Portrait-Einstellungen an, bis man ihn deutlich sehen kann.
+
+■ Der Ge<SoftHyphen/>sichts<SoftHyphen/>aus<SoftHyphen/>druck muss erkennbar sein.
+Je nach Kameraposition kann es vorkommen, dass der Ge<SoftHyphen/>sichts<SoftHyphen/>aus<SoftHyphen/>druck deines Charakters sich außerhalb des sichtbaren Bildbereichs befindet. Passe die Portrait-Einstellungen an, bis man den Ge<SoftHyphen/>sichts<SoftHyphen/>aus<SoftHyphen/>druck erkennen kann."
+537,"17. Freier Grundstückskauf "
+538,"■ Freier Verkauf
+In Wohnbezirken mit normalen Kaufgrundstücken kannst du ein Grundstück an der Informationstafel vor seinem Eingang direkt erwerben. Hierbei gilt das Windhundprinzip - wer zuerst kommt, erhält das Grundstück.
+ 
+Je nachdem, ob du als privater Käufer oder Repräsentant einer Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft teilnimmst, unterscheiden sich die Kaufbedingungen.
+
+Privater Kauf:
+1. Mit einer Klasse muss Stufe 50 erreicht sein.
+2. In einer Staatlichen Ge<SoftHyphen/>sell<SoftHyphen/>schaft muss mindestens der Rang eines Zweiten  Sturmbootsmanns, Zweiten Schlangenpriesters be<SoftHyphen/>ziehungs<SoftHyphen/>weise Zweiten Legionsfähnrichs erreicht sein.
+
+Kauf als Repräsentant einer Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft:
+1. Deine Freie Ge<SoftHyphen/>sell<SoftHyphen/>schaft muss berechtigt sein, Grundstücke zu  erwerben.
+2. Deine Freie Ge<SoftHyphen/>sell<SoftHyphen/>schaft muss vier oder mehr Mitglieder haben.
+3. Deine Freie Ge<SoftHyphen/>sell<SoftHyphen/>schaft muss dich zum Kauf und zur Aufgabe von Grundstücken berechtigt haben.
+4. Du musst seit 30 Tagen oder länger Mitglied deiner Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft sein.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Unabhängig davon, ob du ein privater Käufer oder Repräsentant deiner Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft bist, musst du für den Kauf eines Grundstücks im Empyreum den Hauptszenario-Auftrag „Das Ende eines langen Weges“ abgeschlossen haben.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Unabhängig davon, ob du ein privater Käufer oder Repräsentant deiner Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft bist, musst du für den Kauf eines Grundstücks in Shirogane den Hauptszenario-Auftrag „Über das weite Meer“ abgeschlossen haben."
+539,"Portraitanzeige im Abenteurerpass"
+540,"Hauptportrait einstellen"
+541,"Damit dein Portrait im Abenteurerpass erscheint, musst du es zunächst wie folgt als Hauptportrait einstellen:
+
+1. Wähle ein Portrait aus der Liste.
+2. Wähle „Für den Abenteurerpass verwenden“ im Untermenü des Portraits.
+3. Bestätige mit „Ja“."
+542,"Verknüpfung von Ausrüstungssets"
+543,"Ein Schnellportrait verknüpfen"
+544,"Damit dein Portrait im PvP-Inhalt Crystalline Conflict bei der Vorstellung der Teilnehmer angezeigt wird, musst du es als Schnellportrait einstellen.
+
+■ Einstellen des Schnellportraits
+1. Wähle ein Portrait aus der Liste.
+2. Wähle „Als Schnellportrait verwenden“ im Untermenü des Portraits.
+3. Bestätige mit „Ja“.
+
+■ Verknüpfung des Schnellportraits
+Wenn du dein Schnellportrait mit einem Ausrüstungsset verknüpfst, aktualisiert sich die Anzeige des Portraits automatisch, sobald du Änderungen an diesem Set vornimmst. Gehe wie folgt vor:
+1. Wähle ein Portrait aus der Liste.
+2. Wähle „Mit Ausrüstungsset verknüpfen“ im Untermenü des Potraits.
+3. Es erscheint ein Fenster, in dem du das zu verknüpfende Ausrüstungsset auswählen kannst. Bestätige deine Wahl mit „Anwenden“.
+4. Dein Schnellportrait ist nun mit dem Set verknüpft und wird automatisch aktualisiert, wenn du die Ausrüstung darin änderst.
+
+■ Achtung
+Das Ausrüstungsset in dem Portrait, das du für Crystalline Conflict verwenden möchtest, muss mit deinem angelegten Set übereinstimmen. Falls du dich zwischendurch für ein anderes Set entschieden hast, musst du eine neue Verknüpfung zwischen Schnellportrait und Ausrüstung herstellen.
+
+Sollten dein Portrait-Set und dein angelegtes Set nicht übereinstimmen, wird im Crystalline Conflict das Standard-Schnellportrait angezeigt."
+545,"Ein Ausrüstungsset verknüpfen"
+546,"Die Verknüpfung des Schnellportraits mit einem Ausrüstungsset kann auch wie folgt vom Untermenü des jeweiligen Sets aus vorgenommen werden:
+
+1. Wähle ein Set in deiner Ausrüstungssetliste.
+2. Wähle „Mit Schnellportrait verknüpfen“ im Untermenü des Sets.
+3. Es erscheint ein Fenster, in dem du das zu verknüpfende Portrait auswählen kannst. Bestätige deine Wahl mit „Anwenden“."
+547,"Wichtige Hinweise"
+548,"Anwendung von Fantasia"
+549,"Bei einer Änderung deiner Rasse oder deines Geschlechts durch die Anwendung von Fantasia, werden Haupt- und Schnellportrait auf die Standardeinstellungen zurückgesetzt.
+Bitte bearbeite die zurückgesetzten Portraits, damit sie mit den Änderungen übereinstimmen, und führe die Einstellung als Haupt- oder Schnellportrait anschließend erneut durch.
+Bereits in der Portraitliste gespeicherte Portraits können nicht als Haupt- oder Schnellportrait verwendet werden, wenn Rasse oder Geschlecht sich von denen zum Zeitpunkt des Speicherns unterscheiden.
+Um diese Portraits zu verwenden, musst du sie mit deiner neuen Rasse oder deinem neuem Geschlecht anpassen."
+550,"Gestaltungsoptionen"
+551,"Welche Bewegungen, Posen, Verzierungen etc. dir in den Gestaltungsoptionen zur Verfügung stehen, hängt von deinem Fortschritt bei Aufträgen und anderen Spielinhalten ab.
+Begib dich auf neue Abenteuer, um die Auswahl zur Verschönerung deiner Portraits zu erhöhen!"
+552,"18. Grundstückskauf per Losverfahren"
+553,"■ Teilnahme am Losverfahren
+In Bezirken, deren Kaufsystem auf dem Losverfahren basiert, kannst du dich an der Informationstafel des jeweiligen Grundstücks für eine Auslosung anmelden. Die Gewinner dieser Auslosung erhalten das Recht zum Erwerb des Grundstücks.
+ 
+■ Bewerbungsphase
+Die Bewerbungsphase einer Auslosung dauert fünf Tage (Erdenzeit). Die Ergebnisse werden in den darauffolgenden vier Tagen bekanntgegeben. Dieser Ablauf wird solange wiederholt, bis alle Grundstücke gewonnen und beansprucht wurden.
+
+■ Teilnahmebedingungen
+Spieler, die die unten aufgeführten Voraus<SoftHyphen/>setzungen erfüllen, können an einer Auslosung pro Bewerbungsphase teilnehmen. Die Anmeldung kann nicht zurückgezogen werden.
+Je nachdem, ob du als privater Käufer oder Repräsentant einer Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft teilnimmst, unterscheiden sich die Teilnahmebedingungen für die Auslosung.
+
+Teilnahme als privater Käufer:
+1. Mit einer Klasse muss Stufe 50 erreicht sein.
+2. In einer Staatlichen Ge<SoftHyphen/>sell<SoftHyphen/>schaft muss mindestens der Rang eines Zweiten  Sturmbootsmanns, Zweiten Schlangenpriesters be<SoftHyphen/>ziehungs<SoftHyphen/>weise Zweiten Legionsfähnrichs erreicht sein.
+
+Teilnahme als Repräsentant einer Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft:
+1. Deine Freie Ge<SoftHyphen/>sell<SoftHyphen/>schaft muss berechtigt sein, Grundstücke zu  erwerben.
+2. Deine Freie Ge<SoftHyphen/>sell<SoftHyphen/>schaft muss vier oder mehr Mitglieder haben.
+3. Deine Freie Ge<SoftHyphen/>sell<SoftHyphen/>schaft muss dich zum Kauf und zur Aufgabe von Grundstücken berechtigt haben.
+4. Du musst seit 30 Tagen oder länger Mitglied deiner Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft sein.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Unabhängig davon, ob du ein privater Käufer oder Repräsentant deiner Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft bist, musst du für den Kauf eines Grundstücks im Empyreum den Hauptszenario-Auftrag „Das Ende eines langen Weges“  abgeschlossen haben.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Unabhängig davon, ob du ein privater Käufer oder Repräsentant deiner Freien Ge<SoftHyphen/>sell<SoftHyphen/>schaft bist, musst du für den Kauf eines Grundstücks in Shirogane den Hauptszenario-Auftrag „Über das weite Meer“ abgeschlossen haben.
+
+※ Beachte, dass alle oben genannten Voraus<SoftHyphen/>setzungen sowohl beim Einreichen der Teilnahme als auch beim Kauf erfüllt sein müssen.
+
+■ Teilnahmekosten
+Um dich für die Teilnahme an der Auslosung eines Grundstücks anzumelden, musst du seinen vollen Wert im Voraus bezahlen.
+
+■ Ergebnisse
+Während der Ergebnisphase kannst du die Ergebnisse der Auslosung an der Informationstafel am Eingang des Grundstücks einsehen.
+
+・Verlieren der Auslosung
+Dir werden 100 % der Teilnahmekosten an Gil zurückerstattet.
+
+・Gewinnen der Auslosung
+- Du wirst aufgefordert, den Kauf des Grundstücks zu bestätigen.
+- Kaufst du ein neues Grundstück, wird die Anzahlung in voller Höhe auf den Kauf angerechnet und du erhältst keine Rückerstattung.
+- Ziehst du von einem bestehenden Grundstück aus um, werden dir 15 % des Wertes des alten Grundstücks erstattet.
+※ Beachte, dass der erstattete Betrag den Wert des neuen Grundstücks nicht übersteigen darf.
+- Du kannst den Kauf während der Ergebnisphase jederzeit abschließen. Nach Ablauf dieses Zeitraums verlierst du jedoch automatisch deinen Anspruch auf das Grundstück.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>Solltest du das Grundstück nicht in Anspruch nehmen, wird eine Stornierungsgebühr von 50 % auf die bei der Anmeldung zur Auslosung geleistete Anzahlung ehoben.
+<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Unabhängig vom Ergebnis verfallen alle Rückerstattungen für eine Bewerbungsphase 90 Tage (Erdenzeit) nach der Ergebnisphase.
+Vergewissere dich, dass du innerhalb der vorgegebenen Zeit dieselbe Infotafel am Grundstückeingang einsiehst, mit der du an der Auslosung teilgenommen hast. Tust du dies nicht, verlierst du mögliche Rückerstattungen.
+"
+554,"Verwendungsregeln"
+555,"Dein Abenteurerpass und dein Schnellportrait sind für alle Spieler öffentlich einsehbar.
+Bitte achte bei der Gestaltung darauf, dass du keine Inhalte erstellst, die von Anderen als unangenehm oder beleidigend empfunden werden könnten."
+556,"Der Abenteurerpass"
+557,"Was ist der Abenteurerpass?"
+558,"Der Abenteurerpass ist eine Art Visitenkarte zur Vorstellung deines Charakters.
+Du kannst ihn nach persönlichen Vorlieben gestalten, deine Lieblingsklasse eintragen, errungene Titel präsentieren und vieles mehr.
+Nutze die verschiedenen Einstellungen und stelle dein Charakterportrait als Passbild ein, um dich anderen Spielern von deiner besten Seite zu zeigen!"
+559,"Passgestaltung"
+560,"Gestaltungsoptionen"
+561,"Um das Aussehen deines Abenteurerpasses zu gestalten, wähle „Pass bearbeiten“ im Untermenü des Passes. Es erscheint ein Fenster mit den folgenden Optionen:
+
+1. Grundpass
+2. Muster
+3. Rückseite
+4. Oberer Rand
+5. Unterer Rand
+6. Portraitrahmen
+7. Passrahmen
+8. Verzierung
+
+Je weiter du in deinem Abenteuer fortgeschritten bist, umso mehr Gestaltungsmöglichkeiten stehen dir zur Verfügung. Versuche dich an ver<SoftHyphen/>schie<SoftHyphen/>den<SoftHyphen/>sten Aufträgen und Spielinhalten, um die Auswahl zu erhöhen!"
+562,"Passprofil"
+563,"Bearbeitungsoptionen"
+564,"Um festzulegen, was in deinem Abenteurerpass stehen soll, wähle „Profil bearbeiten“ im Untermenü des Passes.
+Dort kannst du zusätzlich zu den bereits angezeigten Informationen folgende Optionen anpassen:
+
+1. Bevorzugte Klasse/Job
+2. Bevorzugter Titel
+3. Spielstil
+4. Spielzeiten"
+565,"Profilbearbeitung"
+566,"■ Bevorzugte Klasse/Job
+Hier kannst du angeben, welche von deinen Klassen/Jobs du am liebsten spielst.
+
+■ Bevorzugter Titel
+Wähle aus deinen freigeschalteten Titeln einen aus, mit dem du dich anderen Spielern vorstellen möchtest.
+
+■ Spielstil
+Bist du ein lei<SoftHyphen/>den<SoftHyphen/>schaft<SoftHyphen/>licher Sammler oder genießt in Ruhe das Hauptszenario? Hier kannst du bis zu sechs Kategorien auswählen, die deinen Spielstil repräsentieren.
+
+■ Spielzeiten
+Wenn du andere wissen lassen möchtest, zu welchen Zeiten du normalerweise im Spiel aktiv bist, kannst du dies hier angeben.
+※ Diese Einstellung wird automatisch auf die Uhrzeit umgestellt, die deiner Spiel<SoftHyphen/>um<SoftHyphen/>gebung entspricht."
+567,"Portraiteinstellungen"
+568,"Portrait erstellen/bearbeiten"
+569,"Das Portrait in deinem Abenteurerpass kannst du mit der Portrait-Funktion erstellen und bearbeiten.
+Gehe hierzu ins Hauptmenü und wähle im Reiter „Charakter“ die Option „Portraits“ aus."
+570,"Portraitanzeige im Abenteurerpass"
+571,"Um ein vorhandenes Portrait auf deinen Abenteurerpass zu übertragen, musst du es zunächst wie folgt als Hauptportrait einstellen:
+
+1. Wähle ein Portrait aus der Liste.
+2. Wähle „Für den Abenteurerpass verwenden“ im Untermenü des Portraits
+3. Bestätige mit  „Ja“."
+572,"Sichtbarkeit"
+573,"Einstellungen zur Privatsphäre"
+574,"Lege hier fest, wer deinen Abenteurerpass sehen kann.
+Du kannst ihn allen Spielern, nur deinen Freunden, oder niemandem anzeigen lassen. Die Standardeinstellung ist anfangs auf „Alle“ festgelegt."
+575,"PvP"
+576,"Übersicht"
+577,"PvP bedeutet „Spieler gegen Spieler“, oder in diesem Fall Abenteurer gegen Abenteurer. In PvP-Gebieten herrscht ein spezielles System, das sich vom Rest des Spiels unterscheidet.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Die Spielwerte des Charakters<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Die normalen Werte deines Charakters werden mit PvP-spezifischen Parametern ersetzt, die sich ganz nach dem Job richten. Stufe und Ausrüstung beeinflussen diese Parameter nicht.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Kommandos<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+In PvP-Arealen gibt es nur eine eingeschränkte Auswahl an allgemeinen und jobspezifischen Kommandos. Sie können im Hauptmenü unter „PvP-Profil“ eingesehen und im Kommandomenü angelegt werden.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Andere Mechaniken<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Im PvP sind folgende Mechaniken ausgesetzt:
+- Auto-Attacken
+- Das Blocken mit einem Schild
+- Das Parieren
+- Der Zufallsaspekt des ausgeteilten Schadens
+- Unterbrechung während des Kanalisierens von Kommandos"
+578,"PvP-Inhalte"
+579,"Im PvP gibt es drei unter<SoftHyphen/>schied<SoftHyphen/>liche Inhalte. Wie genau sie funktionieren, erklären auch die NPCs am Wolfshöhlen-Pier.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Crystalline Conflict<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+In diesem Inhalt treten zwei Gruppen aus jeweils fünf Spielern gegeneinander an - Team Astra kämpft gegen Team Umbra. Da die Größe der Teams verhältnismäßig klein ist, geht der Wettkampf besonders heiß her. Kommunikation innerhalb des Teams ist ebenso wichtig wie die eigene Leistung. Gungi Zelungi ist der Ansprechpartner für den Crystalline Conflict."
+580,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Front<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+An der Front treten die Staatlichen Ge<SoftHyphen/>sell<SoftHyphen/>schaften des Mahlstroms, der Bruderschaft der Morgenviper und der Legion der Unsterblichen gegeneinader an. Es ist ein massives Gefecht, an dem je 24 Spieler pro Ge<SoftHyphen/>sell<SoftHyphen/>schaft teilnehmen - also bis zu 72 Spieler insgesamt! Der Luftschiffoffizier ist der Ansprechpartner für die Front."
+581,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Stahlschwingen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Bei den Stahlschwingen kämpfen die Falken gegen die Raben, zwei Teams aus jeweils sechs Gruppen zu vier Spielern, also 24 Spieler pro Team insgesamt. Ziel ist es, den Kern des gegnerischen Teams mithilfe von allerlei Kampf<SoftHyphen/>maschinen zu zerstören. Sanftbox ist der Ansprechpartner für die Stahlschwingen."
+582,"Belohnungen"
+583,"Selbstverständlich gibt es für die Teilnahme an PvP-Inhalten auch zahlreiche Belohnungen.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ PvP-Routine<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Hast du genügend PvP-Routine gesammelt, steigt dein PvP-Rang. Ein hoher Rang wird mit Errungenschaften belohnt und ist außerdem direkt mit deiner Staatlichen Ge<SoftHyphen/>sell<SoftHyphen/>schaft verknüpft, die dafür zusätzlich spezielle Errungenschaften bereithält.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Wolfsmarken<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Wolfsmarken können beim Ausstattungsoffizier am Wolfshöhlen-Pier für allerlei Ausrüstung und Gegenstände eingetauscht werden.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Serien-Routine<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Serien-Routine wird beim Spielen aller PvP-Inhalte gesammelt. Hast du genügend Serien-Routine gesammelt, steigt auch deine Serienstufe und du qualifizierst dich für sogenannte Serien-Belohnungen. Die maximale Serienstufe ist mit 30 erreicht, doch du kannst weiterhin Routine sammeln und Belohnungen erhalten. Ab Stufe 31 spricht man daher von Extra-Stufen.
+
+Der Zeitraum, in dem diese spezielle Art der Routine gesammelt werden kann, nennt man eine Serie. Sie läuft nur für eine bestimmte Zeit lang und wird am Ende durch eine neue Serie<Indent/>- und damit auch neue Belohnungen<Indent/>- ersetzt. Besagte Belohnungen, die du freigespielt hast, können also bis zum Ende ihrer Serie erhalten werden. Was du schon erspielt hast und welche Belohnungen dir noch fehlen, kannst du in deinem PvP-Profil nachsehen.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Kristalltrophäen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Kristalltrophäen gehören zu den Serien-Belohnungen. Sie können beim Versorgungsoffizier am Wolfshöhlen-Pier gegen Ausrüstung und Gegenstände eingetauscht werden.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Routine<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Durch die Teilnahme an PvP-Inhalten erhältst du auch ganz reguläre Routine für deine Klasse oder deinen Job. Spielst du die Front oder die Stahlschwingen, in denen du den Job nach dem Betreten frei wechseln kannst, wird die Routine für den Abschluss des Inhalts für die Klasse oder den Job angerechnet, mit dem du dich für den Inhalt angemeldet hast.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Allagische Steine<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Ab Stufe 50 erhältst du für PvP-Inhalte außerdem Allagische Steine als Belohnung.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Errungenschaften<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Für jeden PvP-Inhalt gibt es spezielle Errungenschaften. Schließt du sie ab, wirst du mit Reittieren, Begleitern, exklusiven Titeln und anderen Belohnungen honoriert."
+584,"Crystalline Conflict"
+585,"Übersicht"
+586,"In diesem Inhalt für maximal zehn Spieler treten zwei Gruppen aus jeweils fünf Spielern gegeneinander an<Indent/>- Team Astra kämpft gegen Team Umbra."
+587,"Spielmodi"
+588,"Der Crystalline Conflict kann entweder als Freies Spiel oder als Gewertetes Spiel bestritten werden. Der Unterschied besteht hauptsächlich darin, ob der Ausgang der Partie Einfluss auf Kampfklasse und Rang nimmt.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Freies Spiel<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Ein Freund<SoftHyphen/>schafts<SoftHyphen/>spiel, bei dem Sieg oder Niederlage keinerlei Einfluss auf Kampfklasse und Rang hat. Diese spielen auch bei der Gruppenbildung keine Rolle und es kann ohne Einschränkung gegen- und miteinander angetreten werden.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Gewertetes Spiel<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Wie der Name schon verrät, beeinflusst ein Gewertetes Spiel die eigene Wertung, also die Kampfklasse und den Rang. Hierbei stehen sich auch nur Spieler gegenüber, deren Kampfklasse und Rang nahe beieinander liegen.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Arenen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Der Crystalline Conflict wird in verschiedenen Arenen gespielt, die nicht zwischen Freien und Gewerteten Spielen unterscheiden. Auf welchem Schauplatz gekämpft wird, wird in regelmäßigen Abständen (Erdenzeit) geändert."
+589,"Kampfklasse und Rang"
+590,"Kampfklasse und Rang bilden ein Wertungssystem, das die individuelle Fähigkeit eines Spielers darstellt. Sie werden durch gewertete Matches bestimmt."
+591,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Kampfklassen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Insgesamt gibt es sechs verschiedene Kampfklassen: Bronze, Silber, Gold, Platin, Diamant und Kristall. Ist eine Kampfklasse erst erreicht, kann man während der laufenden Saison aus ihr nicht mehr aussteigen.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Ränge<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Innerhalb jeder Kampfklasse gibt es außerdem noch Ränge, deren Anzahl sich je nach Kampfklasse unterscheidet. Bronze und Silber haben jeweils drei Ränge, Gold und Platinum jeweils vier, während es in Diamant ganze fünf Ränge gibt. Im Gegensatz zur Kampfklasse kann der Rang jedoch durchaus sinken.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Siegessterne<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Mit jedem gewerteten Spiel erhältst oder verlierst du Siegessterne. Ein Sieg bringt dir einen Stern ein, bei einer Niederlage musst du einen einbüßen. Erreichst du das Maximum von drei Siegessternen und erhältst mit einem Sieg noch einen vierten, steigst du eine Kampfklasse auf. Bei einer Siegessträhne ab drei Spielen erhältst du pro weiterem Sieg noch einen zusätzlichen Stern als Belohnung.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Kampfklasse Kristall<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+In der höchsten Kampfklasse wird die eigene Wertung durch Kristallpunkte anstatt durch Siegessterne dargestellt. Dass Siege und Niederlagen die Kristallpunkte erhöhen und verringern, bleibt jedoch gleich. Wie viele Kristallpunkte man nach einem Spiel gewinnt oder verliert, richtet sich nach der Differenz der durchschnittlichen Kristallpunkte der gegeneinander antretenden Teams.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Zurücksetzung der Kampfklasse<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Am Ende einer PvP-Saison werden die Kampfklassen und Ränge aller Spieler zurückgesetzt."
+592,"Spielregeln"
+593,"Im Crystalline Conflict geht es darum, den sogenannten taktischen Kristall zu eskortieren. Die zurückgelegte Strecke entscheidet über Sieg oder Niederlage."
+594,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Siegbedingungen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Gelingt es deinem Team, den taktischen Kristall in das Ziel auf der Seite des gegnerischen Teams zu eskortieren, ist der Sieg euer. Läuft vorher die Zeit ab, geht die Partie in die Verlängerung.
+
+In einer Verlängerung ändern sich die Siegbedingungen je nachdem, wie weit der Kristall bis dahin eskortiert wurde. Die vom Kristall zurückgelegte Strecke kann jederzeit im inhaltsspezifischen HUD des Spiels eingesehen werden. Selbst, wenn es dem gegnerischen Team gelingt, den Kristall wieder zurückzuschieben, ändert das doch nichts an der von deinem Team erreichten Strecke.
+
+・Bei längerer Eskortstrecke:
+Das gegnerische Team muss 3 Sekunden lang davon abgehalten werden, den Kreis des Kristalls zu betreten.
+
+・Bei kürzerer Eskortstrecke:
+Dein Team muss die zurückgelegte Strecke eurer Gegner schlagen.
+
+・Bei gleicher Eskortstrecke:
+Dein Team muss die zurückgelegte Strecke eurer Gegner schlagen."
+595,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Der taktische Kristall<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Der taktische Kristall befindet sich am zentralen Punkt der Arena. Nach Beginn der Partie umgibt ihn für 30 Sekunden eine Barriere, die jegliche Eskorte verhindert."
+596,"Sobald die Barriere fällt, erscheint ein Kreis rund um den Fuß des Kristalls und die Teams dürfen sich ihm nun nähern. Eskortiert wird der Kristall allerdings nur, wenn sich aus<SoftHyphen/>schließ<SoftHyphen/>lich Spieler eines Teams innerhalb des Kreises befinden. Ansonsten gilt er als umkämpft.
+
+Der Kristall bewegt sich entlang einer festgelegten Strecke, der Kristalllinie. Die Ge<SoftHyphen/>schwindig<SoftHyphen/>keit, mit der sich der Kristall auf ihr entlang bewegt, erhöht sich in folgenden Situationen:
+
+・Wenn eine Strecke zurückgelegt wird, die schon einmal zurückgelegt wurde.
+・Wenn die eigene zurückgelegte Strecke weniger ist als die des gegnerischen Teams.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Kontrollpunkte<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Auf halber Strecke zwischen dem zentralen Punkt und den jeweiligen Zielpunkten der beiden Teams befindet sich außerdem ein Kontrollpunkt."
+597,"Sobald der Kristall einen Kontrollpunkt erreicht, bleibt er stehen. An einem Kontrollpunkt muss das Team, das die Eskorte fortsetzen will, innerhalb des Kreises bleiben, um einen Durchbruch zu erreichen. Erreicht der Fortschritt des Durchbruchs 100<Indent/>%, kann der Kristall bis zum Ziel eskortiert werden."
+598,"Andere Mechaniken"
+599,"Die Arenen des Crystalline Conflicts stecken voller Überraschungen. Neben diversen allgemeinen Mechaniken erwarten dich außerdem arenaspezifische Umgebungseffekte.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Medizin-Sets<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+In jeder Arena tauchen Medizin-Sets auf, die bei Berührung deine LP wieder<SoftHyphen/>herstellen. Spieler, die bereits volle LP haben, können sie allerdings gar nicht erst berühren. Ein Medizin-Set kann jeweils nur von einem Spieler verwendet werden, sie tauchen jedoch nach einer bestimmten Zeit wieder auf."
+600,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Sprintzonen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Bestimmte Bereiche einer Arena verleihen dir den Status „Supersprint“, der deine Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit um ein Vielfaches erhöht."
+601,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Sprungglyphen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Wie der Name bereits verrät, lassen dich Sprungglyphen zwischen bestimmten Punkten auf ihrer jeweiligen Arena springen."
+602,"Die Arenen"
+603,"Die Palästra"
+604,"Die Palästra nimmt sich das Übungsgelände des Nordmeeres zum Vorbild. In ihr gibt es keinerlei Umgebungseffekte und die Spieler müssen sich einzig auf taktisches Denken und Geschick im Kampf verlassen."
+605,"Das Herz des Vulkans"
+606,"Diese Arena ist der beeindruckende Schauplatz eines aktiven Vulkans. Besonders ist hierbei der Umgebungseffekt der Eruption<Indent/>- das Team, das sich den Ausbruch und damit das Herz des Vulkans zu eigen macht, erlangt einen entscheidenden Vorteil."
+607,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Eruption<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Abseits der Arena schleudert der ausbrechende Vulkan zahllose Bomber auf das Schlachtfeld. Diese zünden nach einigen Sekunden in einer kreuzförmigen Explosion, die unvorsichtigen Spielern großen Schaden zufügt."
+608,"Am Ort der Explosion lässt jeder Bomber eine Bomberseele zurück, die beim Aufsammeln folgende Effekte gewährt:
+
+・Der eigene ausgeteilte Schaden ist kurzzeitig erhöht. Bis zu 10 Mal stapelbar.
+・Der eigene Limitrausch-Balken wird gefüllt."
+609,"Wolke Sieben"
+610,"Eine Arena aus schwebenden Inseln und teuflischen Turbulenzen, ganz dem Abalathischen Wolkenmeer nachempfunden. Eben diesen Böen zu widerstehen, ist hier der Schlüssel zum Sieg."
+611,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Turbulenzen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Eine Turbulenz schleudert einen Spieler hoch in die Luft und fügt ihm beim unsanften Aufprall mit dem Erdboden gehörigen Schaden zu. Allerdings können in den hohen Lüften auch schwarze Chocobo-Federn gefunden werden. Sie haben folgende Effekte:
+
+・Sie negieren den Schaden, den man beim Aufprall erleiden würde.
+・Die eigene Angriffs- und Be<SoftHyphen/>we<SoftHyphen/>gungs<SoftHyphen/>ge<SoftHyphen/>schwin<SoftHyphen/>dig<SoftHyphen/>keit ist kurzzeitig erhöht.
+・Der eigene Limitrausch-Balken wird gefüllt.
+
+Wo genau schwarze Chocobo-Federn in der Luft schweben, wird durch Markierungen auf dem Erdboden angezeigt. Darüber hinaus kann das Kommando „Wehr“ einer Turbulenz widerstehen."
+612,"Auf die Turbulenzen folgt schließlich ein Tornado, der für eine kurze Zeit über die Arena fegt. Er schleudert Spieler zurück, die ihm zu nahe kommen, und fügt ihnen dabei Schaden zu."
+613,"<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Bedingungen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Um teilnehmen zu können, muss man eine Klasse oder einen Job auf mindestens Stufe 30 haben und sich über die Inhaltssuche anmelden.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Rollenverteilung innerhalb der Teams<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Es gibt keine Rollenbeschränkungen für ein Team, allerdings sind gleiche Rollen nicht zulässig und werden dem<SoftHyphen/>ent<SoftHyphen/>spre<SoftHyphen/>chend auch nie vorkommen.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Zeitlimit<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Das Zeitlimit für ein Spiel ist 5 Minuten. Steht nach Ablauf dieser Zeit kein Sieger fest, geht es in die Verlängerung.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Schneller Wiedereinstieg<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Sollte man in einem Spiel kampfunfähig werden, so wird man nach kurzer Wartezeit automatisch am Startpunkt des eigenen Teams wiederbelebt - mit vollen LP und MP, sowie mit Zurücksetzung aller Reaktivierungs-Timer. Solange man sich nach dem Wiedereinstieg am Startpunkt aufhält, wird man durch den Status „Unverwundbar“ geschützt. Erst wenn man den Startpunkt verlässt, wird man wieder verwundbar.
+
+<UIForeground>F201FA</UIForeground><UIGlow>F201FB</UIGlow>■ Ein<SoftHyphen/>schrän<SoftHyphen/>kungen<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+Im Crystalline Conflict stehen nicht alle Funktionen zur Verfügung. Gesperrt sind:
+・der Chat (mit Ausnahme des Schnellchats)
+・alle Klassen- und Jobwechsel
+・das Wechseln von Ausrüstung
+・das Benutzen von Gegenständen
+・der Chocobo als Mitstreiter
+・jegliche Reittiere
+・der Teleport
+・die Rückführung"

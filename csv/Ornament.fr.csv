@@ -1,0 +1,34 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16
+#,Model,,,,,,Order,Icon,Transient,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article
+int32,uint16,byte,byte,bit&01,byte,uint16,int16,Image,uint16,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte
+0,0,0,0,False,0,0,-1,0,0,"",0,"",0,0,1,0,0
+1,2939,1,1,False,1,0,0,8001,1,"Ombrelle",0,"Ombrelles",0,1,1,1,0
+2,2940,1,1,False,1,0,1,8002,2,"Ombrelle d'azur",0,"Ombrelles d'azur",0,1,1,1,0
+3,3007,1,1,False,1,0,2,8003,3,"Ombrelle pourpre laquée",0,"Ombrelles pourpres laquées",0,1,1,1,0
+4,3008,1,1,False,1,0,3,8004,4,"Ombrelle mauve laquée",0,"Ombrelles mauves laquées",0,1,1,1,0
+5,3009,1,1,False,1,0,4,8005,5,"Ombrelle dorée laquée",0,"Ombrelles dorées laquées",0,1,1,1,0
+6,3010,1,1,False,1,0,5,8006,6,"Ombrelle à carreaux bleue",0,"Ombrelles à carreaux bleues",0,1,1,1,0
+7,3011,1,1,False,1,0,6,8007,7,"Ombrelle à carreaux rouge",0,"Ombrelles à carreaux rouges",0,1,1,1,0
+8,3012,1,1,False,1,0,7,8008,8,"Ombrelle à carreaux noire",0,"Ombrelles à carreaux noires",0,1,1,1,0
+9,3042,2,0,True,2,0,8,8013,100,"Ailes angéliques",0,"Ailes angéliques",0,1,1,1,0
+10,3169,1,1,False,1,0,9,8012,9,"Ombrelle du Gold Saucer",0,"Ombrelles du Gold Saucer",0,1,1,1,0
+11,3166,1,1,False,1,0,10,8009,10,"Ombrelle bleue à pois",0,"Ombrelles bleue à pois",0,1,1,1,0
+12,3167,1,1,False,1,0,11,8010,11,"Ombrelle rose à pois",0,"Ombrelles rose à pois",0,1,1,1,0
+13,3168,1,1,False,1,0,12,8011,12,"Ombrelle vert d'eau à pois",0,"Ombrelles vert d'eau à pois",0,1,1,1,0
+14,3286,1,1,False,1,0,13,8014,13,"Ombrelle gros minou",0,"Ombrelles gros minou",0,1,1,1,0
+15,3287,1,1,False,1,0,14,8015,14,"Ombrelle Serpent marin de Ronka ?",0,"Ombrelles Serpent marin de Ronka ?",0,1,1,1,0
+16,3288,1,1,False,1,0,15,8016,15,"Ombrelle Dalamud",0,"Ombrelle Dalamud",0,1,1,1,0
+17,3426,2,0,True,2,0,16,8017,100,"Ailes d'ange déchu",0,"Ailes d'ange déchu",0,1,1,1,0
+18,3427,2,0,True,2,0,17,8018,100,"Ailes d'archange",0,"Ailes d'archange",0,1,1,1,0
+19,3428,3,0,True,2,0,18,8019,101,"Ailes de Diabolos",0,"Ailes de Diabolos",0,1,1,1,0
+20,3429,6,0,True,2,0,19,8020,102,"Ailes de Pixie",0,"Ailes de Pixie",0,1,1,1,0
+21,0,0,0,False,0,0,0,0,0,"",0,"",0,0,0,0,0
+22,3431,5,0,True,2,0,21,8022,200,"Mirage de lunettes ovales",0,"Mirages de lunettes ovales",0,0,1,0,0
+23,3611,1,1,False,1,0,22,8023,16,"Ombrelle à dentelle blanche",0,"Ombrelles à dentelle blanche",0,1,1,1,0
+24,3612,1,1,False,1,0,23,8024,17,"Ombrelle à fleurs bleues",0,"Ombrelles à fleurs bleues",0,1,1,1,0
+25,3613,5,0,True,2,0,24,8025,201,"Mirage de lunettes teintées",0,"Mirages de lunettes teintées",0,0,1,0,0
+26,3614,7,0,True,2,0,25,8026,202,"Mirage de lunettes classiques",0,"Mirages de lunettes classiques",0,0,1,0,0
+27,0,0,0,False,0,0,0,0,0,"",0,"",0,0,0,0,0
+28,0,0,0,False,0,0,0,0,0,"",0,"",0,0,0,0,0
+29,0,0,0,False,0,0,0,0,0,"",0,"",0,0,0,0,0
+30,0,0,0,False,0,0,0,0,0,"",0,"",0,0,0,0,0

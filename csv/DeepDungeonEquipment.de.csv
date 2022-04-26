@@ -1,0 +1,8 @@
+﻿key,0,1,2,3,4,5,6,7,8,9,10
+#,Icon,Singular,Adjective,Plural,PossessivePronoun,StartsWithVowel,,Pronoun,Article,Name,Description
+int32,Image,str,sbyte,str,sbyte,sbyte,sbyte,sbyte,sbyte,str,str
+0,0,"",0,"",0,0,1,0,0,"",""
+1,27961,"Padjal-Waffe",3,"Padjal-Waffen",1,0,1,1,0,"Padjal-Waffe","Eine magische Ätherwaffe, die von dem Padjal E-Una-Kotor angefertigt wurde."
+2,27962,"Padjal-Rüstung",3,"Padjal-Rüstungen",1,0,1,1,0,"Padjal-Rüstung","Eine magische Ätherrüstung, die von dem Padjal E-Una-Kotor angefertigt wurde."
+3,27961,"Empyreum-Waffe",3,"Empyreum-Waffen",1,0,1,1,0,"Empyreum-Waffe","Eine magische Ätherwaffe, die für die Erkundung der Himmelssäule angefertigt wurde."
+4,27962,"Empyreum-Rüstung",3,"Empyreum-Rüstungen",1,0,1,1,0,"Empyreum-Rüstung","Eine magische Ätherrüstung, die für die Erkundung der Himmelssäule angefertigt wurde."

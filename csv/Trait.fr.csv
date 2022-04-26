@@ -1,0 +1,534 @@
+﻿key,0,1,2,3,4,5,6,7
+#,Name,Icon,ClassJob,Level,Quest,Value,ClassJobCategory,
+int32,str,Image,ClassJob,byte,Quest,int16,ClassJobCategory,byte
+0,"",0,0,0,0,0,0,0
+1,"Vitalité améliorée",0,0,0,0,0,0,0
+2,"Vitalité améliorée II",0,0,0,0,0,0,0
+3,"Vitalité améliorée III",0,0,0,0,0,0,0
+4,"Vitalité améliorée",0,0,0,0,0,0,0
+5,"Vitalité améliorée II",0,0,0,0,0,0,0
+6,"Vitalité améliorée III",0,0,0,0,0,0,0
+7,"Force améliorée",0,0,0,0,0,0,0
+8,"Force améliorée II",0,0,0,0,0,0,0
+9,"Force améliorée III",0,0,0,0,0,0,0
+10,"Vitesse de l'éclair améliorée",0,0,0,0,0,0,0
+11,"Vitesse de l'éclair améliorée II",0,0,0,0,0,0,0
+12,"Force améliorée",0,0,0,0,0,0,0
+13,"Force améliorée II",0,0,0,0,0,0,0
+14,"Force améliorée III",0,0,0,0,0,0,0
+15,"Dextérité améliorée",0,0,0,0,0,0,0
+16,"Dextérité améliorée II",0,0,0,0,0,0,0
+17,"Tir à l'arc puissant amélioré",5306,5,2,0,0,50,0
+18,"Dégâts des actions augmentés",5302,5,20,0,10,50,0
+19,"Dextérité améliorée III",0,0,0,0,0,0,0
+20,"Dégâts des actions augmentés II",5303,5,40,0,20,50,0
+21,"Esprit amélioré",0,0,0,0,0,0,0
+22,"Esprit amélioré II",0,0,0,0,0,0,0
+23,"Efficacité des actions augmentée",5185,6,20,0,10,53,0
+24,"Esprit amélioré III",0,0,0,0,0,0,0
+25,"Soin amélioré",5330,6,32,0,0,53,0
+26,"Efficacité des actions augmentée II",5186,6,40,0,30,53,0
+27,"Intelligence améliorée",0,0,0,0,0,0,0
+28,"Intelligence améliorée II",0,0,0,0,0,0,0
+29,"Efficacité éthérée augmentée",5185,7,20,0,10,55,0
+30,"Intelligence améliorée III",0,0,0,0,0,0,0
+31,"Efficacité éthérée augmentée II",5186,7,40,0,30,55,0
+32,"Pyromane",5352,7,42,0,0,55,0
+33,"Nuage d'orage",5355,7,28,0,0,55,0
+34,"Auto Forestier",5451,17,2,0,0,18,0
+35,"Furtivité améliorée",0,0,0,0,30,0,0
+36,"Furtivité améliorée II",0,0,0,0,40,0,0
+37,"Furtivité améliorée III",0,0,0,0,50,0,0
+38,"Auto Prospecteur",5426,16,2,0,0,17,0
+39,"Furtivité améliorée",0,0,0,0,30,0,0
+40,"Furtivité améliorée II",0,0,0,0,40,0,0
+41,"Furtivité améliorée III",0,0,0,0,50,0,0
+42,"Amoureux des arbres",5455,17,11,0,0,18,0
+43,"Amoureux des arbres II",5456,17,16,0,0,18,0
+44,"Amoureux des arbres III",5457,17,21,0,0,18,0
+45,"Amoureux des arbres IV",5458,17,26,0,0,18,0
+46,"Bénédiction des Douze améliorée",5459,17,41,0,0,18,0
+47,"Bénédiction des Douze améliorée II",5460,17,50,0,0,18,0
+48,"Amoureux des pierres",5430,16,11,0,0,17,0
+49,"Amoureux des pierres II",5431,16,16,0,0,17,0
+50,"Amoureux des pierres III",5432,16,21,0,0,17,0
+51,"Amoureux des pierres IV",5433,16,26,0,0,17,0
+52,"Bénédiction des Douze améliorée",5434,16,41,0,0,17,0
+53,"Bénédiction des Douze améliorée II",5435,16,50,0,0,17,0
+54,"Pêcheur des sables",5483,18,35,0,0,19,0
+55,"Pêcheur des nuages",5484,18,45,0,0,19,0
+56,"Furtivité améliorée",0,0,0,0,30,0,0
+57,"Furtivité améliorée II",0,0,0,0,40,0,0
+58,"Furtivité améliorée III",0,0,0,0,50,0,0
+59,"Œil du goéland",5479,18,15,0,15,19,0
+60,"Œil du goéland II",0,0,0,0,35,0,0
+61,"Œil du goéland III",0,0,0,0,50,0,0
+62,"Pêche au vif améliorée",5482,18,40,0,0,19,0
+63,"Flux d'éther amélioré",0,0,0,0,0,0,0
+64,"Intelligence améliorée",0,0,0,0,0,0,0
+65,"Intelligence améliorée II",0,0,0,0,0,0,0
+66,"Efficacité des actions augmentée",5185,26,20,0,10,68,0
+67,"Flux d'éther amélioré II",0,0,0,0,0,0,0
+68,"Intelligence améliorée III",0,0,0,0,0,0,0
+69,"Efficacité des actions augmentée II",5186,26,40,0,30,68,0
+70,"Flux d'éther amélioré III",0,0,0,0,0,0,0
+71,"Force améliorée",9004,0,2,0,5,0,0
+72,"PV améliorés",9001,0,3,0,10,0,0
+73,"Précision améliorée",9010,0,5,0,5,0,0
+74,"Critique amélioré",9012,0,6,0,15,0,0
+75,"Force améliorée",9004,0,8,0,5,0,0
+76,"PV améliorés",9001,0,9,0,10,0,0
+77,"Force améliorée",9004,0,2,0,5,0,0
+78,"PV améliorés",9001,0,3,0,5,0,0
+79,"Précision améliorée",9010,0,5,0,5,0,0
+80,"Critique amélioré",9012,0,6,0,15,0,0
+81,"Force améliorée",9004,0,8,0,10,0,0
+82,"Vitesse améliorée",9013,0,9,0,-10,0,0
+83,"Esprit amélioré",9008,0,2,0,10,0,0
+84,"PV améliorés",9001,0,3,0,5,0,0
+85,"Précision améliorée",9010,0,5,0,5,0,0
+86,"Critique amélioré",9012,0,6,0,15,0,0
+87,"Esprit amélioré",9008,0,8,0,15,0,0
+88,"PV améliorés",9001,0,9,0,5,0,0
+89,"Dextérité améliorée",0,0,0,0,0,0,0
+90,"Sur ses pattes",5401,29,14,0,10,93,0
+91,"Dextérité améliorée II",0,0,0,0,0,0,0
+92,"Dextérité améliorée III",0,0,0,0,0,0,0
+93,"Vive allure",5403,29,20,0,10,93,0
+94,"Grâce de Nymeia",5436,16,42,0,0,17,0
+95,"Amoureux des pierres V",5437,16,53,67617,0,17,0
+96,"Furtivité améliorée IV",0,0,0,0,54,0,0
+97,"Furtivité améliorée V",0,0,0,0,57,0,0
+98,"Furtivité améliorée VI",0,0,0,0,60,0,0
+99,"Grâce de Nymeia",5461,17,42,0,0,18,0
+100,"Amoureux des arbres V",5462,17,53,67585,0,18,0
+101,"Furtivité améliorée IV",0,0,0,0,54,0,0
+102,"Furtivité améliorée V",0,0,0,0,57,0,0
+103,"Furtivité améliorée VI",0,0,0,0,60,0,0
+104,"Œil du goéland IV",0,0,0,0,55,0,0
+105,"Œil du goéland V",0,0,0,0,60,0,0
+106,"Pêcheur des cieux",5488,18,53,67622,0,19,0
+107,"Furtivité améliorée IV",0,0,0,0,54,0,0
+108,"Furtivité améliorée V",0,0,0,0,57,0,0
+109,"Furtivité améliorée VI",0,0,0,0,60,0,0
+110,"Pêcheur des enfers",5489,18,55,67623,0,19,0
+111,"Pêcheur de l'éther",5490,18,58,67624,0,19,0
+112,"Vitalité améliorée",0,0,0,0,0,0,0
+113,"Vitalité améliorée II",0,0,0,0,0,0,0
+114,"Vitalité améliorée III",0,0,0,0,0,0,0
+115,"Dextérité améliorée",0,0,0,0,0,0,0
+116,"Dextérité améliorée II",0,0,0,0,0,0,0
+117,"Dégâts des actions augmentés",6002,31,20,0,10,96,0
+118,"Dextérité améliorée III",0,0,0,0,0,0,0
+119,"Dégâts des actions augmentés II",6003,31,40,0,20,96,0
+120,"Esprit amélioré",0,0,0,0,0,0,0
+121,"Esprit amélioré II",0,0,0,0,0,0,0
+122,"Efficacité des actions augmentée",6102,33,20,0,10,99,0
+123,"Esprit amélioré III",0,0,0,0,0,0,0
+124,"Bienfaisance améliorée",6105,33,36,0,15,99,0
+125,"Efficacité des actions augmentée II",6103,33,40,0,30,99,0
+126,"Furtivité améliorée VII",0,0,0,0,64,0,0
+127,"Furtivité améliorée VIII",0,0,0,0,67,0,0
+128,"Furtivité améliorée IX",0,0,0,0,70,0,0
+129,"Furtivité améliorée VII",0,0,0,0,64,0,0
+130,"Furtivité améliorée VIII",0,0,0,0,67,0,0
+131,"Furtivité améliorée IX",0,0,0,0,70,0,0
+132,"Furtivité améliorée VII",0,0,0,0,64,0,0
+133,"Furtivité améliorée VIII",0,0,0,0,67,0,0
+134,"Furtivité améliorée IX",0,0,0,0,70,0,0
+135,"Pêcheur des lacs salés",5499,18,68,0,0,19,0
+136,"Œil du goéland VI",0,0,0,0,65,0,0
+137,"Œil du goéland VII",0,0,0,0,70,0,0
+138,"Examen des matériaux",6976,8,63,67978,2,9,0
+139,"Examen des matériaux",6976,9,63,68152,2,10,0
+140,"Examen des matériaux",6976,10,63,68131,2,11,0
+141,"Examen des matériaux",6976,11,63,68136,2,12,0
+142,"Examen des matériaux",6976,12,63,68146,2,13,0
+143,"Examen des matériaux",6976,13,63,67968,2,14,0
+144,"Examen des matériaux",6976,14,63,67973,2,15,0
+145,"Examen des matériaux",6976,15,63,68141,2,16,0
+146,"Coup de génie",0,0,0,0,0,0,0
+147,"Coup de génie",0,0,0,0,0,0,0
+148,"Coup de génie",0,0,0,0,0,0,0
+149,"Coup de génie",0,0,0,0,0,0,0
+150,"Coup de génie",0,0,0,0,0,0,0
+151,"Coup de génie",0,0,0,0,0,0,0
+152,"Coup de génie",0,0,0,0,0,0,0
+153,"Coup de génie",0,0,0,0,0,0,0
+154,"Sondage automatique",5497,18,61,68458,0,19,0
+155,"Amoureux des poissons",0,0,0,0,0,0,0
+156,"Couverture améliorée",5209,0,0,0,-20,0,0
+157,"Cri de guerre amélioré",5259,21,66,0,0,22,0
+158,"Sang noir",6059,32,62,0,0,98,0
+159,"Sang noir II",6060,32,66,0,0,98,0
+160,"Méditation profonde",5234,20,38,0,80,21,0
+161,"Maîtrise de Coup d'épaule",5235,0,0,0,2,0,0
+162,"Maîtrise de la lance",5284,22,64,0,0,23,0
+163,"Vie du dragon",5285,22,70,68450,0,23,0
+164,"Lame suintante",0,0,0,0,0,0,0
+165,"Shûkihô",5411,30,62,0,6,92,0
+166,"Shukuchi amélioré",5412,30,64,0,0,92,0
+167,"Rapine améliorée",5413,30,66,0,0,92,0
+168,"Maîtrise des Morsures",5309,23,64,0,0,24,0
+169,"Flèche empyréenne améliorée",5310,23,68,0,0,24,0
+170,"Maîtrise des Tirs",0,0,0,0,0,0,0
+171,"Maîtrise de Foudre",5357,25,45,66612,0,26,0
+172,"Maîtrise de Foudre II",5358,25,64,0,0,26,0
+173,"Cœur ombral amélioré",5359,0,0,0,-34,0,0
+174,"Énochien amélioré",5360,25,70,68128,5,26,0
+175,"Maîtrise des infections",5376,0,0,0,0,0,0
+176,"Extra Ruine améliorée",5377,0,0,0,0,0,0
+177,"Maîtrise des infections II",5378,0,0,0,0,0,0
+178,"Transe-Bahamut améliorée",5380,27,70,68165,0,28,0
+179,"Maîtrise de Terre",5333,6,18,0,0,53,0
+180,"Maîtrise de Vent",5334,6,46,0,0,53,0
+181,"Maîtrise de Terre II",5336,24,54,67257,0,25,0
+182,"Maîtrise de Terre III",5337,24,64,0,0,25,0
+183,"Secret des Lys II",5338,0,0,0,20,0,0
+184,"Maîtrise de Loi de l'ébullition II",5392,28,64,0,0,29,0
+185,"Flux d'éther accéléré",0,0,0,0,100,0,0
+186,"Maîtrise de Conjonction supérieure",6109,33,46,0,0,99,0
+187,"Maîtrise de Malfaisance",6110,33,54,67558,0,99,0
+188,"Maîtrise de Malfaisance II",6111,33,64,0,0,99,0
+189,"Vitesse de la lumière accélérée",6101,33,68,0,-300,99,0
+190,"Labeur automatique du montagnard",0,0,0,0,60,0,0
+191,"Labeur automatique du pionnier",0,0,0,0,60,0,0
+192,"Auto-récupération de PR augmentée",5444,16,70,68094,1,17,0
+193,"Auto-récupération de PR augmentée",5469,17,70,68160,1,18,0
+194,"Auto-récupération de PR augmentée",5498,18,70,68435,1,19,0
+195,"À-coup amélioré",6201,35,62,0,0,112,0
+196,"Secret des Lys",5335,24,52,67256,0,25,0
+197,"Intelligence améliorée",0,0,0,0,0,0,0
+198,"Intelligence améliorée II",0,0,0,0,0,0,0
+199,"Intelligence améliorée III",0,0,0,0,0,0,0
+200,"Efficacité des actions augmentée",5185,35,20,0,10,112,0
+201,"Efficacité des actions augmentée II",5186,35,40,0,30,112,0
+202,"Force améliorée",0,0,0,0,0,0,0
+203,"Force améliorée II",0,0,0,0,0,0,0
+204,"Force améliorée III",0,0,0,0,0,0,0
+205,"Lame suintante II",0,0,0,0,0,0,0
+206,"À-coup amélioré II",0,0,0,0,0,0,0
+207,"Maîtrise de la magie divine",5210,19,64,0,-50,20,0
+208,"Maîtrise de Kenki II",6151,34,62,0,5,111,0
+209,"Maîtrise du serment",5211,19,35,66592,0,20,0
+210,"Esprit amélioré",0,0,0,0,0,0,0
+211,"Esprit amélioré II",0,0,0,0,0,0,0
+212,"Esprit amélioré III",0,0,0,0,0,0,0
+213,"Galvanisation améliorée",5379,0,0,0,-600,0,0
+214,"Maîtrise de Loi de l'ébullition",5394,28,54,67209,0,29,0
+215,"Maîtrise de Kenki",6152,34,52,0,0,111,0
+216,"Chaîne de sorts",6203,35,1,0,0,112,0
+217,"Maîtrise de Ruine",5395,26,30,65997,0,69,0
+218,"Maîtrise de Berserk",5260,21,70,68440,0,22,0
+219,"Apprentissage",6251,36,1,0,0,129,0
+220,"Efficacité des actions augmentée",5185,36,10,0,10,129,0
+221,"Efficacité des actions augmentée II",5186,36,20,0,20,129,0
+222,"Efficacité des actions augmentée III",5187,36,30,0,30,129,0
+223,"Efficacité des actions augmentée IV",5188,36,40,0,40,129,0
+224,"Efficacité des actions augmentée V",5189,36,50,0,50,129,0
+225,"Furtivité améliorée X",0,0,0,0,74,0,0
+226,"Furtivité améliorée XI",0,0,0,0,77,0,0
+227,"Furtivité améliorée XII",0,0,0,0,80,0,0
+228,"Furtivité améliorée X",0,0,0,0,74,0,0
+229,"Furtivité améliorée XI",0,0,0,0,77,0,0
+230,"Furtivité améliorée XII",0,0,0,0,80,0,0
+231,"Furtivité améliorée X",0,0,0,0,74,0,0
+232,"Furtivité améliorée XI",0,0,0,0,77,0,0
+233,"Furtivité améliorée XII",0,0,0,0,80,0,0
+234,"Œil du goéland VIII",0,0,0,0,75,0,0
+235,"Œil du goéland IX",0,0,0,0,80,0,0
+236,"Auto-récupération de PR augmentée II",5449,16,80,0,2,17,0
+237,"Auto-récupération de PR augmentée II",5474,17,80,0,2,18,0
+238,"Auto-récupération de PR augmentée II",5496,18,80,0,2,19,0
+239,"Auto-récupération de PR augmentée III",5441,16,83,0,3,17,0
+240,"Auto-récupération de PR augmentée III",5466,17,83,0,3,18,0
+241,"Auto-récupération de PR augmentée III",5486,18,83,0,3,19,0
+242,"Raison solide améliorée",5442,16,90,0,50,17,0
+243,"Sagesse du fermier améliorée",5467,17,90,0,50,18,0
+244,"Féru de pêche",5485,18,15,0,0,19,0
+245,"Méditation profonde II",5238,20,74,0,100,21,0
+246,"Chevalerie",5212,19,58,0,0,20,0
+247,"Maîtrise de la lance II",5288,22,76,0,0,23,0
+248,"",0,0,0,0,0,0,0
+249,"Jauge de la bête",5261,21,35,66586,0,22,0
+250,"Kassatsu amélioré",5414,30,76,0,0,92,0
+251,"Dégâts des actions augmentés",6351,38,50,0,10,150,0
+252,"Éventail onirique",6352,38,30,0,0,150,0
+253,"Dégâts des actions augmentés II",6353,38,60,0,20,150,0
+254,"En avant amélioré",6354,38,68,0,2,150,0
+255,"Fascination",6355,38,76,0,0,150,0
+256,"En avant amélioré II",6356,38,78,0,3,150,0
+257,"Chargement de cartouches",6301,37,30,0,0,149,0
+258,"Impact brutal amélioré",6302,37,52,0,0,149,0
+259,"Maîtrise de Zone de danger",6303,37,80,0,0,149,0
+260,"Maîtrise de Rage de Halone",5213,19,60,67573,0,20,0
+261,"Évidence améliorée",5214,19,66,0,0,20,0
+262,"Schiltron amélioré",5215,19,74,0,0,20,0
+263,"Requiescat amélioré",5216,0,0,0,0,0,0
+264,"Serment de l'épée",5217,19,76,0,0,20,0
+265,"Maîtrise de Bête intérieure",5262,21,54,66124,0,22,0
+266,"Maîtrise de Cyclone de fer",5263,21,60,66137,0,22,0
+267,"Chaos naissant",5264,21,72,0,0,22,0
+268,"Maîtrise de la Jauge de la bête",5265,21,74,0,0,22,0
+269,"Frisson de la bataille amélioré",5258,21,78,0,0,22,0
+270,"",0,0,0,0,0,0,0
+271,"Maîtrise de Ténèbres intérieures",6062,32,74,0,0,98,0
+272,"Coupe plongeante améliorée",6063,32,78,0,2,98,0
+273,"Énigme du vent",0,0,0,0,0,0,0
+274,"Poings de feu améliorés",5237,0,0,0,0,0,0
+275,"Maîtrise de Saut",5286,22,74,0,0,23,0
+276,"Maîtrise de Sang du dragon",5287,22,78,0,0,23,0
+277,"Iaijutsu amélioré",6153,34,74,0,0,111,0
+278,"Fûgetsu/Fûka améliorés",6154,34,78,0,0,111,0
+279,"Shukuchi amélioré II",5415,30,74,0,2,92,0
+280,"Shûkihô II",5416,30,78,0,0,92,0
+281,"",0,0,0,0,0,0,0
+282,"Maîtrise de Tir droit",5311,23,70,68430,0,24,0
+283,"Salve fulgurante améliorée",5304,23,72,0,0,24,0
+284,"Maîtrise des Morsures II",5312,23,76,0,0,24,0
+285,"Maîtrise de Tir à l'arc puissant",5313,23,76,0,0,24,0
+286,"Péan martial amélioré",5314,23,78,0,0,24,0
+287,"Voix de l'âme",5315,23,80,0,0,24,0
+288,"Maîtrise de Tir scindé",6010,31,54,67243,0,96,0
+289,"Maîtrise de Tir de balle",6011,31,60,67248,0,96,0
+290,"Maîtrise de Tir net",6012,31,64,0,0,96,0
+291,"Maîtrise de Tir déchaîné",6016,31,76,0,0,96,0
+292,"Actions à charges améliorées",6013,31,74,0,3,96,0
+293,"Flambée améliorée",6014,31,78,0,0,96,0
+294,"Promotion",6015,31,80,0,0,96,0
+295,"Gel amélioré",5361,25,58,0,0,26,0
+296,"Maîtrise des polarités",5362,7,1,0,0,55,0
+297,"Polyglotte amélioré",5363,25,80,0,0,26,0
+298,"Transe-Bahamut améliorée II",5676,0,0,0,0,0,0
+299,"Frappe Egi améliorée",5677,0,0,0,0,0,0
+300,"Tri-désastre amélioré",5678,0,0,0,0,0,0
+301,"Fléau amélioré",5679,0,0,0,0,0,0
+302,"Transe-Phénix améliorée",5680,0,0,0,0,0,0
+303,"Maîtrise d'Éparpillement",6207,35,66,0,0,112,0
+304,"Déplacement amélioré",6204,35,72,0,0,112,0
+305,"Manafication améliorée",6205,35,78,0,-100,112,0
+306,"Maîtrise de la magie rouge",6206,35,74,0,-100,112,0
+307,"Maîtrise de Vent II",5339,24,72,0,0,25,0
+308,"Maîtrise de Terre IV",5340,24,72,0,0,25,0
+309,"Offrande de réconfort améliorée",5341,24,74,0,0,25,0
+310,"Asile amélioré",5342,24,78,0,0,25,0
+311,"Maîtrise des infections II",5701,28,72,0,0,29,0
+312,"Maîtrise de Loi de l'ébullition III",5702,28,72,0,0,29,0
+313,"Dogme de survie amélioré",5703,28,78,0,0,29,0
+314,"Maîtrise de Conjonction supérieure II",6112,33,72,0,0,99,0
+315,"Maîtrise de Malfaisance III",6113,33,72,0,0,99,0
+316,"Dignité essentielle améliorée",6114,33,78,0,2,99,0
+317,"Maîtrise du protecteur",5190,1,1,0,-20,38,0
+318,"Maîtrise du protecteur",5190,3,1,0,-20,44,0
+319,"Maîtrise du protecteur",5190,32,1,0,-20,98,0
+320,"Maîtrise du protecteur",5190,37,1,0,-20,149,0
+321,"Dynamisation améliorée",5364,25,74,0,-300,26,0
+322,"Énochien amélioré II",5365,25,78,0,10,26,0
+323,"",0,0,0,0,0,0,0
+324,"Maîtrise des infections",5376,28,26,0,0,29,0
+325,"Auto Science des minéraux",5427,16,60,0,0,17,0
+326,"Auto Science des végétaux",5452,17,60,0,0,18,0
+327,"Auto Science des océans",5476,18,70,68458,0,19,0
+328,"Auto Discrétion",5428,16,27,0,0,17,0
+329,"Auto Discrétion",5453,17,27,0,0,18,0
+330,"Auto Discrétion",5477,18,27,0,0,19,0
+331,"Bénédiction des Douze améliorée III",5440,16,71,0,0,17,0
+332,"Bénédiction des Douze améliorée III",5465,17,71,0,0,18,0
+333,"Maîtrise d'Extraction abondante",5429,16,68,68093,0,17,0
+334,"Maîtrise de Déterrage",0,0,0,0,0,0,0
+335,"Maîtrise d'Évaluation impulsive",0,0,0,0,0,0,0
+336,"Maîtrise de Récolte abondante",5454,17,68,68159,0,18,0
+337,"Maîtrise de Main verte",0,0,0,0,0,0,0
+338,"Maîtrise d'Évaluation impulsive",0,0,0,0,0,0,0
+339,"Maîtrise de Travail de base",6979,8,31,0,0,9,0
+340,"Maîtrise de Travail de base",6980,9,31,0,0,10,0
+341,"Maîtrise de Travail de base",6981,10,31,0,0,11,0
+342,"Maîtrise de Travail de base",6982,11,31,0,0,12,0
+343,"Maîtrise de Travail de base",6983,12,31,0,0,13,0
+344,"Maîtrise de Travail de base",6984,13,31,0,0,14,0
+345,"Maîtrise de Travail de base",6985,14,31,0,0,15,0
+346,"Maîtrise de Travail de base",6986,15,31,0,0,16,0
+347,"Maîtrise de Travail rapide",6978,8,63,0,0,9,0
+348,"Maîtrise de Travail rapide",6978,9,63,0,0,10,0
+349,"Maîtrise de Travail rapide",6978,10,63,0,0,11,0
+350,"Maîtrise de Travail rapide",6978,11,63,0,0,12,0
+351,"Maîtrise de Travail rapide",6978,12,63,0,0,13,0
+352,"Maîtrise de Travail rapide",6978,13,63,0,0,14,0
+353,"Maîtrise de Travail rapide",6978,14,63,0,0,15,0
+354,"Maîtrise de Travail rapide",6978,15,63,0,0,16,0
+355,"Fracas élémentaire amélioré",5681,0,0,0,0,0,0
+356,"Synthèse d'essai",6987,8,15,0,0,9,1
+357,"Synthèse d'essai",6987,9,15,0,0,10,1
+358,"Synthèse d'essai",6987,10,15,0,0,11,1
+359,"Synthèse d'essai",6987,11,15,0,0,12,1
+360,"Synthèse d'essai",6987,12,15,0,0,13,1
+361,"Synthèse d'essai",6987,13,15,0,0,14,1
+362,"Synthèse d'essai",6987,14,15,0,0,15,1
+363,"Synthèse d'essai",6987,15,15,0,0,16,1
+364,"Vitesse de l'éclair",5239,2,1,0,0,41,0
+365,"Vitesse de l'éclair améliorée",5230,2,20,0,0,41,0
+366,"Vitesse de l'éclair améliorée II",5231,20,40,0,0,21,0
+367,"Vitesse de l'éclair améliorée III",5240,20,76,0,0,21,0
+368,"Efficacité des actions augmentée",5185,40,20,0,10,181,0
+369,"Efficacité des actions augmentée II",5186,40,40,0,30,181,0
+370,"Bile de vipère",6451,40,45,0,0,181,0
+371,"Serment des sages",6452,40,54,0,0,181,0
+372,"Serment des sages II",6453,40,64,0,0,181,0
+373,"Croc de vipère",6454,40,66,0,0,181,0
+374,"Maîtrise de la magie offensive",6455,40,72,0,0,181,0
+375,"Kerachole amélioré",6456,40,78,0,0,181,0
+376,"Maîtrise de la magie offensive II",6457,40,82,0,0,181,0
+377,"Magie curative améliorée",6826,40,85,0,0,181,0
+378,"Zoe amélioré",6458,40,88,0,-300,181,0
+379,"Jauge des âmes",6401,39,50,0,0,180,0
+380,"Maîtrise des faux",6402,39,60,0,0,180,0
+381,"Avatar amélioré",6403,39,70,0,0,180,0
+382,"Portail infernal amélioré",6404,39,74,0,0,180,0
+383,"Tranchage animique et Faux animique améliorés",6405,39,78,0,2,180,0
+384,"Jauge du linceul",6406,39,80,69614,0,180,0
+385,"Blason arcanique amélioré",6407,39,84,0,0,180,0
+386,"Linceul du lémure amélioré",6408,39,86,0,0,180,0
+387,"Cercle arcanique amélioré",6409,39,88,0,0,180,0
+388,"Calme intérieur",6988,8,11,0,0,9,0
+389,"Calme intérieur",6988,9,11,0,0,10,0
+390,"Calme intérieur",6988,10,11,0,0,11,0
+391,"Calme intérieur",6988,11,11,0,0,12,0
+392,"Calme intérieur",6988,12,11,0,0,13,0
+393,"Calme intérieur",6988,13,11,0,0,14,0
+394,"Calme intérieur",6988,14,11,0,0,15,0
+395,"Calme intérieur",6988,15,11,0,0,16,0
+396,"Maîtrise de Travail prudent",6989,8,82,0,0,9,0
+397,"Maîtrise de Travail prudent",6989,9,82,0,0,10,0
+398,"Maîtrise de Travail prudent",6989,10,82,0,0,11,0
+399,"Maîtrise de Travail prudent",6989,11,82,0,0,12,0
+400,"Maîtrise de Travail prudent",6989,12,82,0,0,13,0
+401,"Maîtrise de Travail prudent",6989,13,82,0,0,14,0
+402,"Maîtrise de Travail prudent",6989,14,82,0,0,15,0
+403,"Maîtrise de Travail prudent",6989,15,82,0,0,16,0
+404,"Maîtrise de Travail préparatoire",6990,8,86,0,0,9,0
+405,"Maîtrise de Travail préparatoire",6991,9,86,0,0,10,0
+406,"Maîtrise de Travail préparatoire",6992,10,86,0,0,11,0
+407,"Maîtrise de Travail préparatoire",6993,11,86,0,0,12,0
+408,"Maîtrise de Travail préparatoire",6994,12,86,0,0,13,0
+409,"Maîtrise de Travail préparatoire",6995,13,86,0,0,14,0
+410,"Maîtrise de Travail préparatoire",6996,14,86,0,0,15,0
+411,"Maîtrise de Travail préparatoire",6997,15,86,0,0,16,0
+412,"Maîtrise de Schiltron",5218,19,82,0,0,20,0
+413,"Intervention améliorée",5219,19,82,0,0,20,0
+414,"Maîtrise de la magie divine II",5220,19,84,0,0,20,0
+415,"Maîtrise d'Esprits intérieurs",5221,19,86,0,0,20,0
+416,"Voile divin amélioré",5222,19,88,0,0,20,0
+417,"Débarrassage amélioré",5266,21,76,0,0,22,0
+418,"Maîtrise d'Intuition pure",5267,21,82,0,0,22,0
+419,"Exaltation naissante améliorée",5268,21,82,0,0,22,0
+420,"Équilibre amélioré",5269,21,84,0,0,22,0
+421,"Assaut violent amélioré",5270,21,88,0,3,22,0
+422,"Détérioration améliorée",6064,32,84,0,0,98,0
+423,"Ombre vivante améliorée II",6066,32,90,0,0,98,0
+424,"Maîtrise de Cœur de pierre",6304,37,82,0,0,149,0
+425,"Aurore améliorée",6305,37,84,0,2,149,0
+426,"Consécution améliorée",6306,37,86,0,0,149,0
+427,"Chargement de cartouches amélioré",6307,37,88,0,0,149,0
+428,"Maîtrise de Charge d'acier",5241,20,54,67564,0,21,0
+429,"Maîtrise de Poing hurlant",5242,20,74,0,0,21,0
+430,"Maîtrise de Frappe du Destructeur",5243,20,82,0,0,21,0
+431,"Élan fulgurant amélioré",5244,20,84,0,3,21,0
+432,"Fraternité améliorée",5245,20,88,0,0,21,0
+433,"Équilibre parfait amélioré",5246,20,60,67567,0,21,0
+434,"Sang du dragon",5289,22,54,67228,0,23,0
+435,"Tourment du Coerthas amélioré",5290,22,82,0,0,23,0
+436,"Piqué brise-échine amélioré",5291,22,84,0,2,23,0
+437,"Maîtrise de la lance III",5292,22,86,0,0,23,0
+438,"Souffle de vie amélioré",5277,22,88,0,2,23,0
+439,"Shûkihô III",5417,30,84,0,0,92,0
+440,"Meisui amélioré",5418,30,88,0,0,92,0
+441,"Raiton amélioré",5419,30,90,0,0,92,0
+442,"Tsubamegaeshi amélioré",6155,34,84,0,2,111,0
+443,"Meikyô Shisui amélioré",6156,34,88,0,2,111,0
+444,"Maîtrise de Salve fulgurante",5316,23,82,0,0,24,0
+445,"Hémorragie améliorée",5317,23,84,0,3,24,0
+446,"Trait alpha amélioré",5318,23,86,0,0,24,0
+447,"Troubadour amélioré",5319,23,88,0,-300,24,0
+448,"Chants guerriers améliorés",5320,23,90,0,0,24,0
+449,"Maîtrise de Tir dispersé",6017,31,82,0,0,96,0
+450,"Réassemblage amélioré",6018,31,84,0,2,96,0
+451,"Gambit de la Reine",6019,31,86,0,0,96,0
+452,"Tacticien amélioré",6020,31,88,0,-300,96,0
+453,"Final technique amélioré",6357,38,82,0,0,150,0
+454,"Fascination croissante",6358,38,84,0,0,150,0
+455,"Apothéose améliorée",6359,38,86,0,0,150,0
+456,"Samba protectrice améliorée",6360,38,88,0,-300,150,0
+457,"Tango endiablé amélioré",6361,38,90,0,0,150,0
+458,"Maîtrise des polarités II",5366,7,20,0,0,55,0
+459,"Maîtrise des polarités III",5367,7,35,0,0,55,0
+460,"Énochien",5368,25,56,67217,0,26,0
+461,"Infect amélioré",5369,25,80,0,0,26,0
+462,"Maîtrise des polarités IV",5370,25,82,0,0,26,0
+463,"Vasque de mana améliorée",5371,25,84,0,-600,26,0
+464,"Dynamisation améliorée II",5372,25,88,0,2,26,0
+465,"Maîtrise des polarités V",5373,25,90,0,0,26,0
+466,"Infusion d'éther améliorée",5396,26,15,66639,0,69,0
+467,"Infusion d'éther améliorée II",5397,26,22,0,0,69,0
+468,"Maîtrise d'Invocation Rubis",5682,27,30,66627,0,28,0
+469,"Maîtrise d'Invocation Topaze",5683,27,35,66628,0,28,0
+470,"Maîtrise d'Invocation Émeraude",5684,27,45,66631,0,28,0
+471,"Galvanisation",5685,27,50,66632,0,28,0
+472,"",0,0,0,0,0,0,0
+473,"Maîtrise de Ruine II",5687,27,54,67638,0,28,0
+474,"Maîtrise d'Infusion d'éther",5690,27,58,67640,0,28,0
+475,"Siphon d'énergie amélioré",5691,27,62,0,0,28,0
+476,"Maîtrise de Ruine III",5688,27,72,0,0,28,0
+477,"Maîtrise de Fracas élémentaire",5692,27,74,0,0,28,0
+478,"Maîtrise de Fracas élémentaire II",5693,27,82,0,0,28,0
+479,"Maîtrise de Ruine IV",5689,27,84,0,0,28,0
+480,"Égide rayonnante améliorée",5694,27,88,0,2,28,0
+481,"Galvanisation II",5695,27,90,0,0,28,0
+482,"Magilame améliorée",6208,35,68,0,0,112,0
+483,"Maîtrise de la magie rouge II",6209,35,82,0,0,112,0
+484,"Maîtrise de la magie rouge III",6210,35,84,0,0,112,0
+485,"Accélération améliorée",6211,35,88,0,2,112,0
+486,"Manafication améliorée II",6212,35,90,0,0,112,0
+487,"Maîtrise de Chatoiement",5343,24,82,0,0,25,0
+488,"Maîtrise de Miracle",5344,24,82,0,0,25,0
+489,"Magie curative améliorée",6826,24,85,0,0,25,0
+490,"Faveur divine améliorée",5345,24,88,0,2,25,0
+491,"Maîtrise de Loi de l'ébullition IV",5704,28,82,0,0,29,0
+492,"Maîtrise de Loi de la guerre",5705,28,82,0,0,29,0
+493,"Magie curative améliorée",6826,28,85,0,0,29,0
+494,"Stratagème du déploiement amélioré",5706,28,88,0,-300,29,0
+495,"Tirage amélioré",6115,33,40,67551,0,99,0
+496,"Tirage amélioré II",6116,33,50,0,0,99,0
+497,"Maîtrise de Malfaisance IV",6117,33,82,0,0,99,0
+498,"Maîtrise de Gravité",6118,33,82,0,0,99,0
+499,"Magie curative améliorée",6826,33,85,0,0,99,0
+500,"Rencontre céleste améliorée",6119,33,88,0,2,99,0
+501,"Pêcheur de l'espace",5487,18,89,0,0,19,0
+502,"Invocation Bahamut améliorée",5696,27,80,0,0,28,0
+503,"Maîtrise des éléments",5697,27,86,0,0,28,0
+504,"Actions améliorées",6801,19,84,0,0,20,0
+505,"Actions améliorées",6801,21,84,0,0,22,0
+506,"Actions améliorées",6801,32,84,0,0,98,0
+507,"Actions améliorées",6801,37,84,0,0,149,0
+508,"Maîtrise de la lance IV",5293,22,90,0,0,23,0
+509,"Énochien amélioré III",5374,25,86,0,15,26,0
+510,"Maîtrise de Physis",6459,40,60,0,0,181,0
+511,"Ombre vivante améliorée",6065,32,88,0,0,98,0
+512,"Maîtrise de Départ de flammes",5248,20,86,0,0,21,0
+513,"Maîtrise de Coup de pied tornade",5247,20,90,0,0,21,0
+514,"Ikishôten amélioré",6157,34,90,0,0,111,0
+515,"Maîtrise d'Assassinement",5420,30,56,67222,0,92,0
+516,"Actions améliorées",6801,30,74,0,0,92,0
+517,"Actions améliorées",6801,31,84,0,0,96,0
+518,"Actions améliorées",6801,20,84,0,0,21,0
+519,"Maîtrise de Fûga",6158,34,86,0,0,111,0
+520,"Actions améliorées",6801,34,66,0,0,111,0
+521,"Actions améliorées II",6802,34,84,0,0,111,0
+522,"Actions améliorées II",6802,30,84,0,0,92,0
+523,"",0,0,0,0,0,0,0
+524,"",0,0,0,0,0,0,0
+525,"",0,0,0,0,0,0,0
+526,"",0,0,0,0,0,0,0
+527,"",0,0,0,0,0,0,0
+528,"",0,0,0,0,0,0,0
+529,"",0,0,0,0,0,0,0
+530,"",0,0,0,0,0,0,0

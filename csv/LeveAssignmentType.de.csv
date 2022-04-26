@@ -1,0 +1,22 @@
+﻿key,0,1,2
+#,IsFaction,Icon,Name
+int32,bit&01,Image,str
+0,False,0,""
+1,False,62501,"Söldner"
+2,False,62510,"Minenarbeiter"
+3,False,62511,"Gärtner"
+4,False,62512,"Fischer"
+5,False,62502,"Zimmerer"
+6,False,62503,"Grobschmied"
+7,False,62504,"Plattner"
+8,False,62505,"Goldschmied"
+9,False,62506,"Gerber"
+10,False,62507,"Weber"
+11,False,62508,"Alchemist"
+12,False,62509,"Gourmet"
+13,True,61451,"Bruderschaft der gebrochenen Klinge"
+14,True,61452,"Azeymas Schilde"
+15,True,61453,"Ruhmreicher Hörnerschall"
+16,False,61461,"Der Mahlstrom"
+17,False,61462,"Bruderschaft der Morgenviper"
+18,False,61463,"Legion der Unsterblichen"

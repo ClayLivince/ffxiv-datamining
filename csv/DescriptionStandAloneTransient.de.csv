@@ -1,0 +1,10 @@
+﻿key,0,1,2
+#,,,
+int32,uint32,str,str
+0,0,"",""
+1,0,"",""
+2,5,"INFO","- Archive"
+3,6,"NEUES SPIEL+",""
+4,13,"VERSCHOLLENE KOMMANDOS",""
+5,21,"PORTRAITS",""
+6,22,"ABENTEURERPASS",""

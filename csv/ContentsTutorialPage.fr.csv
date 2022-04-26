@@ -1,0 +1,75 @@
+﻿key,0,1
+#,Image,Description
+int32,Image,str
+0,0,""
+1,86801,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Le Front sud de Bozja est une mission spéciale durant laquelle les joueurs doivent coopérer en grand nombre afin de soutenir les résistants dans leur lutte contre la 4e légion impériale.<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+<UIForeground>0F</UIForeground>* Les pages suivantes expliquent les règles propres à cette mission.
+Les lire vous permettront de profiter pleinement de cette mission de grande envergure.<UIForeground>01</UIForeground>"
+2,86801,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Synchronisation spéciale des jobs au niveau 80<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Le Front sud de Bozja est ouvert à tous les jobs de niveau 71 ou plus.
+Une fois dans l'instance, les personnages sont tous synchronisés au niveau 80.
+En outre, leur niveau d'objet est lui aussi synchronisé. Il n'est donc pas nécessaire de revêtir un équipement spécial pour profiter de cette mission.
+
+<UIForeground>0F</UIForeground>* Une fois sur le Front sud de Bozja, toutes les actions de jobs jusqu'au niveau 80 deviennent disponibles.<UIForeground>01</UIForeground>"
+3,86802,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Faites grimper votre rang de résistant<If(PlayerParameter(4))>e<Else/></If> en accumulant des points de faits d'armes<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Participer à des combats spéciaux, comme les escarmouches ou les af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ments cruciaux, permet d'obtenir des points de faits d'armes. Vous en recevez d'autant plus que l'évaluation de votre par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion à ces combats est élevée.
+
+<UIForeground>0F</UIForeground>* Vaincre des bêtes sauvages ou des troupes impériales n'octroie à eux seuls aucun point de faits d'armes.<UIForeground>01</UIForeground>"
+4,86802,"Une fois que vous avez accumulé assez de points de faits d'armes, il suffit de parler à l'officier d'état-major du front sud pour qu'il vous octroie le rang de résistant<If(PlayerParameter(4))>e<Else/></If> suivant. Un rang plus élevé permet d'étendre la zone de combat en repoussant les lignes ennemies, mais aussi de progresser dans la quête principale de Garde-la-Reine.
+
+<UIForeground>0F</UIForeground>* Votre rang de résistant<If(PlayerParameter(4))>e<Else/></If> n'augmentera pas sans points de faits d'armes. Brillez sur le champ de bataille et rapportez vos exploits à l'état-major pour gagner du galon<Indent/>!<UIForeground>01</UIForeground>"
+5,86802,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ L'occasion parfaite de monter vos autres jobs<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Remporter des escarmouches ou des af<SoftHyphen/>fron<SoftHyphen/>te<SoftHyphen/>ments cruciaux permet aussi de gagner des points d'expérience et de passer des niveaux pour le job utilisé. Con<SoftHyphen/>trai<SoftHyphen/>re<SoftHyphen/>ment aux rangs de résistant, ces gains sont automatiques, et il n'est pas nécessaire de s'adresser à l'officier d'état-major pour les obtenir.
+
+Profitez-en donc pour monter vos jobs qui ne sont pas encore au niveau 80<Indent/>!"
+6,86803,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>■ Des interrogations<Indent/>?<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Si vous pensez ne pas avoir bien compris le fonc<SoftHyphen/>tion<SoftHyphen/>ne<SoftHyphen/>ment du Front sud de Bozja, Sjeros à Gangos et le guide de la résistance sur le front pourront vous renseigner. N'hésitez pas à leur demander des précisions, ils sont là pour ça<Indent/>!"
+7,86804,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Les donjons, une autre forme d'aventure<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Les donjons sont des lieux remplis de monstres à occire et de mécanismes à déjouer, à explorer en <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>coopération<UIGlow>01</UIGlow><UIForeground>01</UIForeground> avec <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>d'autres joueurs<UIGlow>01</UIGlow><UIForeground>01</UIForeground> ou des <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>PNJ alliés<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Au fond de chacun se trouve un <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>boss<UIGlow>01</UIGlow><UIForeground>01</UIForeground> qu'il vous faudra vaincre pour obtenir des <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>récompenses<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Certains donjons devront être accomplis pour progresser dans l'<UIForeground>0F</UIForeground><UIGlow>10</UIGlow>épopée<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+Les donjons doivent être accomplis en un temps donné. Qui plus est, vous ne pourrez pas changer de classe ou de job en cours de mission.
+Lisez la page suivante pour savoir comment vous lancer dans l'exploration d'un donjon."
+8,86805,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Explorer un donjon ① Deux façons de se lancer<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Il est possible d'explorer un donjon selon deux modalités différentes<Indent/>: en <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>solo<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, avec l'aide de <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>PNJ alliés<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, ou avec <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>d'autres joueurs<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, trouvés à l'aide de la fonction de <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>grou<SoftHyphen/>page<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Bien sûr, il est également possible de s'enregistrer avec son équipe préalablement formée.
+Les donjons peuvent être accomplis de la même façon, quelle que soit la modalité de par<SoftHyphen/>ti<SoftHyphen/>ci<SoftHyphen/>pa<SoftHyphen/>tion."
+9,86806,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Explorer un donjon ② Avec des PNJ alliés<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Vous pouvez faire appel à des <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>PNJ alliés<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pour explorer un donjon en <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>solo<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, une fonctionnalité désignée sous le nom de “<UIForeground>0F</UIForeground><UIGlow>10</UIGlow>Renforts<UIGlow>01</UIGlow><UIForeground>01</UIForeground>”.
+
+Les donjons compatibles avec le système de renforts sont indiqués par un <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>icone<UIGlow>01</UIGlow><UIForeground>01</UIForeground> au niveau de leur entrée."
+10,86807,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Explorer un donjon ③ Avec des PNJ alliés (suite)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Cliquez sur l'entrée du donjon, puis choisissez l'<UIForeground>0F</UIForeground><UIGlow>10</UIGlow>option<UIGlow>01</UIGlow><UIForeground>01</UIForeground> correspondante pour ouvrir la <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>fenêtre<UIGlow>01</UIGlow><UIForeground>01</UIForeground> des renforts.
+
+Les <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>classes/jobs<UIGlow>01</UIGlow><UIForeground>01</UIForeground> des PNJ seront fixés en fonction de votre propre classe/job, de façon à former <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment<UIGlow>01</UIGlow><UIForeground>01</UIForeground> l'équipe la mieux équilibrée possible.
+Passez en revue les in<SoftHyphen/>for<SoftHyphen/>ma<SoftHyphen/>tions fournies, puis pressez le bouton “<UIForeground>0F</UIForeground><UIGlow>10</UIGlow>Participer<UIGlow>01</UIGlow><UIForeground>01</UIForeground>” pour lancer la mission<Indent/>!"
+11,86808,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Explorer un donjon ④ En formant une équipe de joueurs<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Vous cherchez des <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>coéquipiers<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pour explorer un donjon<Indent/>? Dans ce cas, facilitez-vous la tâche avec l'<UIForeground>0F</UIForeground><UIGlow>10</UIGlow>outil de mission<UIGlow>01</UIGlow><UIForeground>01</UIForeground><Indent/>!
+
+Cliquez sur l'entrée du donjon, puis choisissez l'<UIForeground>0F</UIForeground><UIGlow>10</UIGlow>option<UIGlow>01</UIGlow><UIForeground>01</UIForeground> correspondante pour ouvrir la <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>fenêtre<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de l'outil de mission.
+Sélectionnez ensuite les <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>destinations<UIGlow>01</UIGlow><UIForeground>01</UIForeground> de votre choix et pressez le bouton <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>Participer<UIGlow>01</UIGlow><UIForeground>01</UIForeground>. Vous serez alors au<SoftHyphen/>to<SoftHyphen/>ma<SoftHyphen/>ti<SoftHyphen/>que<SoftHyphen/>ment <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>groupé(e)<UIGlow>01</UIGlow><UIForeground>01</UIForeground> avec d'autres joueurs désirant explorer les mêmes lieux."
+12,86809,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Explorer un donjon ⑤ En formant une équipe de joueurs (suite)<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Un <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>signal sonore<UIGlow>01</UIGlow><UIForeground>01</UIForeground> retentira une fois le grou<SoftHyphen/>page accompli.
+Pressez alors le bouton <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>Commencer<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pour lancer la mission<Indent/>!
+
+Lorsque vous faites équipe avec <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>d'autres joueurs<UIGlow>01</UIGlow><UIForeground>01</UIForeground>, soyez courtois(e) et <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>coopérez<UIGlow>01</UIGlow><UIForeground>01</UIForeground> autant que possible pour assurer la réussite de la mission<Indent/>!"
+13,86810,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Toujours plus de donjons à explorer<Indent/>!<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+À mesure que vous progresserez dans le jeu, vous aurez accès à de plus en plus de donjons.
+Il se peut que certains soient <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>incompatibles<UIGlow>01</UIGlow><UIForeground>01</UIForeground> avec le système de renforts, auquel cas vous pourrez toujours les explorer en vous enregistrant via l'<UIForeground>0F</UIForeground><UIGlow>10</UIGlow>outil de mission<UIGlow>01</UIGlow><UIForeground>01</UIForeground>.
+
+Vous pourrez également revisiter les donjons déjà accomplis, aussi bien avec l'<UIForeground>0F</UIForeground><UIGlow>10</UIGlow>outil de mission<UIGlow>01</UIGlow><UIForeground>01</UIForeground> que le système de <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>renforts<UIGlow>01</UIGlow><UIForeground>01</UIForeground> (tous deux accessibles à partir de la rubrique <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>Missions<UIGlow>01</UIGlow><UIForeground>01</UIForeground> du <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>menu principal<UIGlow>01</UIGlow><UIForeground>01</UIForeground>)."
+14,86810,"<UIForeground>08</UIForeground><UIGlow>04</UIGlow>Besoin d'aide<Indent/>?<UIGlow>01</UIGlow><UIForeground>01</UIForeground>
+
+Dans la fenêtre de l'outil de mission ou des renforts, pressez le <UIForeground>0F</UIForeground><UIGlow>10</UIGlow>bouton<Indent/>?<UIGlow>01</UIGlow><UIForeground>01</UIForeground> pour ouvrir l'aide correspondante.
+
+L'outil de mission et le système de renforts sont des fonctionnalités incontournables pour progresser dans le jeu. Faites-en bon usage tout au long de votre aventure<Indent/>!"
